@@ -19,31 +19,31 @@
                     <div class="homeslider owl-carousel">
                         <div class="item">
                             <div class="screenshot_img">
-                                <a href="allen.ac.in" target="_blank"><img src="img/homeslide/1.jpg" class="img-fluid" alt="">
+                                <a href="allen.ac.in" target="_blank"><img src="assets/img/homeslide/1.jpg" class="img-fluid" alt="">
 								</a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="screenshot_img">
-                                <a href="allen.ac.in" target="_blank"><img src="img/homeslide/2.jpg" class="img-fluid"
+                                <a href="allen.ac.in" target="_blank"><img src="assets/img/homeslide/2.jpg" class="img-fluid"
                                         alt=""></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="screenshot_img">
-                                <a href="allen.ac.in" target="_blank"><img src="img/homeslide/3.jpg" class="img-fluid"
+                                <a href="allen.ac.in" target="_blank"><img src="assets/img/homeslide/3.jpg" class="img-fluid"
                                         alt=""></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="screenshot_img">
-                                <a href="allen.ac.in" target="_blank"><img src="img/homeslide/4.jpg" class="img-fluid"
+                                <a href="allen.ac.in" target="_blank"><img src="assets/img/homeslide/4.jpg" class="img-fluid"
                                         alt=""></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="screenshot_img">
-                                <a href="allen.ac.in" target="_blank"><img src="img/homeslide/5.jpg" class="img-fluid"
+                                <a href="allen.ac.in" target="_blank"><img src="assets/img/homeslide/5.jpg" class="img-fluid"
                                         alt=""></a>
                             </div>
                         </div>

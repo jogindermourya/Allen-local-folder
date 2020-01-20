@@ -1,4 +1,85 @@
 
+<!-- Modal SESSION-->
+<div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog pop8" role="document">
+        <div class="modal-content">
+            <div class="modal-header gp">
+                <button aria-hidden="true" data-dismiss="modal" class="close closebtn2" type="button">×</button>
+                <h5 class="modal-title">SESSION 2019-20</h5>
+            </div>
+            <div class="modal-body sessionwrpr">
+                <div class="row">
+                    <div class="col-xs-6 col-md-4">
+                        <h5>JEE (Main+Advanced)-IIT-JEE</h5>
+                        <ul class="list-unstyled">
+                            <li> <a
+                                    href="/2019-20/iit-jee-main-advanced-coaching/jee-main-advanced-teaching-methodology-2019-20.asp">Teaching
+                                    Methodology</a></li>
+                            <li><a
+                                    href="/2019-20/iit-jee-main-advanced-coaching/courses-for-jee-main-advanced-2019-20.asp">Courses</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-6 col-md-4">
+                        <h5>JEE (MAIN)-AIEEE</h5>
+                        <ul class="list-unstyled">
+                            <li> <a href="/2019-20/jee-main-coaching/jee-main-teaching-methodology-2019-20.asp">Teaching
+                                    Methodology</a></li>
+                            <li> <a href="/2019-20/jee-main-coaching/courses-for-jee-main-2019-20.asp">Courses</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-xs-6 col-md-4">
+                        <h5>NEET-UG, AIIMS</h5>
+                        <ul class="list-unstyled">
+                            <li> <a
+                                    href="/2019-20/neet-ug-aiims-coaching/neet-ug-aiims-teaching-methodology-2019-20.asp">Teaching
+                                    Methodology</a></li>
+                            <li> <a
+                                    href="/2019-20/neet-ug-aiims-coaching/courses-for-neet-ug-aiims-2019-20.asp">Courses</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-xs-6 col-md-4">
+                        <h5>Pre-Nurture &amp; Career Foundation</h5>
+                        <ul class="list-unstyled ">
+                            <li> <a
+                                    href="/pncf/kota/2019-20/pre-nurture-career-foundation-coaching/pncf-teaching-methodology-2019-20.asp">Teaching
+                                    Methodology</a></li>
+                            <li> <a
+                                    href="/pncf/kota/2019-20/pre-nurtute-career-foundation-coaching/courses-for-pncf-2019-20.asp">Courses</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- end -->
+
+<!-- Modal Online Apply-->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog " role="document">
+        <div class="modal-content">
+            <button type="button" class="close closebtn" data-dismiss="modal" aria-label="Close"><span
+                    aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-body p0">
+                <img src="/assets/img/popupforregsitration.jpg" class="img-fluid" alt="">
+            </div>
+            <div class="modal-footer justify-content-center">
+                <button type="button" class="blue_btn d-inline-block popupbtn">Apply Online for New Session 2020-21
+                </button>
+                <button type="button" class=" blue_btn d-inline-block popupbtn">Apply Online for Old Session 2019-20
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end -->
 
     <!-- Main Footer Section --> 
 	<footer class="footer_area_two">
@@ -340,7 +421,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-4">
 							<p class="mb-0 f_400 mt-1">
-								<a href="https://www.allenites.com/" target="_blank" title="ALLEN Alumni Network"><img src="img/allenites-logo.png" class="img-fluid opacity05" alt=""></a>
+								<a href="https://www.allenites.com/" target="_blank" title="ALLEN Alumni Network"><img src="/assets/img/allenites-logo.png" class="img-fluid opacity05" alt=""></a>
 							</p>
 						</div>
 						<div class="col-lg-8 col-md-8">
@@ -366,23 +447,42 @@
 
 
     <!-- Optional JavaScript -->
-        <script src="js/jquery-3.2.1.min.js"></script>
-        <script src="js/propper.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/metatags.js"></script>
-        <script src="vendors/bootstrap-selector/js/bootstrap-select.min.js"></script>
-        <script src="vendors/wow/wow.min.js"></script>
-        <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-        <script src="vendors/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
-        <script src="js/main.js"></script>
-		<script src="js/js/conditional-js/method.js"></script>
-		<script type="text/javascript">		
+        <script src="/assets/js/jquery-3.2.1.min.js"></script>
+        <script src="/assets/js/propper.js"></script>
+		<script src="/assets/js/bootstrap.min.js"></script>
+		<script src="/assets/js/metatags.js"></script>
+        <script src="/assets/vendors/bootstrap-selector/js/bootstrap-select.min.js"></script>
+        <script src="/assets/vendors/wow/wow.min.js"></script>
+        <script src="/assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+        <script src="/assets/vendors/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script src="/assets/js/main.js"></script>
+		<script src="/assets/vendors/lightbox/js/lightgallery-all.min.js"></script>
+		<script src="/assets/js/js/conditional-js/method.js"></script>
+
+				<script type="text/javascript">		
 			$(document).ready(function(){
-				var images = All.concat( Latest  );
+				var images = latest_slider.concat(kota_main_slider);
 				allenslider(images, $);	
 			});
 		</script>
+		<script src="/assets/js/js/conditional-js/notification.js"></script>
+		<script type="text/javascript">		
+			$(document).ready(function(){
+				var update = kota_updates_notification;
+				updateLists(update, $);	
 
+				var results = kota_results_notification;
+				resultsLists(results, $);	
+
+				var events = kota_events_notification;
+				eventsLists(events, $);	
+			});
+		</script>
+<script type="text/javascript">
+    jQuery(document).ready(function($){
+		$('ul.nav li a[href="' + this.location.pathname + '"]').parent().siblings().removeClass('active').end().addClass('active', 'dropdown-menu');
+    });
+</script>
 
     </body>
 </html>

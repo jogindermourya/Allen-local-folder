@@ -6,7 +6,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
 	<title></title>
 	
 	<meta name="description" content="">
@@ -42,35 +42,31 @@
 		
 	</script>
 	<!--End Meta tags-->
-
-
-
-
-
-
-
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="vendors/bootstrap-selector/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/vendors/bootstrap-selector/css/bootstrap-select.min.css">
 
     <!--Icon CSS-->
-    <link rel="stylesheet" href="vendors/font-awesome/css/fontawesome.css">
+    <link rel="stylesheet" href="/assets/vendors/font-awesome/css/fontawesome.css">
 
     <!--Other CSS-->
-    <link rel="stylesheet" href="vendors/animation/animate.css">
-    <link rel="stylesheet" href="vendors/owl-carousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="vendors/scroll/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="/assets/vendors/animation/animate.css">
+    <link rel="stylesheet" href="/assets/vendors/owl-carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="/assets/vendors/scroll/jquery.mCustomScrollbar.min.css">
 
     <!--Custom CSS-->
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/responsive.css">
+
+    <!-- light box -->
+    <link href="/assets/vendors/lightbox/css/lightgallery.min.css" rel="stylesheet">
+	
+
+
 
 </head>
 
 <body>
-
-  
-
     <!-- Header Section -->
         <header class="header_area header_area_six">
            
@@ -114,7 +110,7 @@
                             <span class="hamburger-cross"><span></span><span></span></span>
                         </span>
                     </button>
-                    <a class="navbar-brand" href="#"><img src="img/logo.png" class="img-fluid" alt="logo"></a>
+                    <a class="navbar-brand" href="/"><img src="/assets/img/logo.png" class="img-fluid" alt="logo"></a>
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
                         <ul class="navbar-nav menu w_menu ml-auto mr-auto">
@@ -122,15 +118,14 @@
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
                                     aria-haspopup="true" aria-expanded="false" href="#">About</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="#">About ALLEN</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Our Inspiration</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Directors Message</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">ALLEN System</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Lead with ALLEN</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">ALLEN Sanskar Mahotsav</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Topper's Talk Show</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Directors Message</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">ALLEN World Records</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/about-allen.asp">About ALLEN</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/our-inspiration.asp">Our Inspiration</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/directors-message.asp">Directors Message</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/allen-system.asp">ALLEN System</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/lead-with-allen.asp">Lead with ALLEN</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/sanskar-mahotsav.asp">ALLEN Sanskar Mahotsav</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/toppers-talk.asp">Topper's Talk Show</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/allen-world-records.asp">ALLEN World Records</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu mega_menu position-relative">
@@ -165,18 +160,18 @@
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Admission</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/about-allen.asp">How to Apply for APPLICATION FORM</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/our-inspiration.asp">Apply Online</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/directors-message.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/allen-system.asp">Fee Deposition Modes</a></li>
-                                    <li class="nav-item"><a class="nav-link"  href="/aboutus/lead-with-allen.asp">Scholarship Rules</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/sanskar-mahotsav.asp"> Refund Rules</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/toppers-talk.asp">Kohinoor  Hostel Scheme (ACES)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/admission/how-to-apply.asp">How to Apply for APPLICATION FORM</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="#">Apply Online</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/admission/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/admission/fee-deposition-modes.asp">Fee Deposition Modes</a></li>
+                                    <li class="nav-item"><a class="nav-link"  href="/admission/scholarship-rules.asp">Scholarship Rules</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/admission/refund-rules.asp"> Refund Rules</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/admission/allen-kohinoor-hostel.asp">Kohinoor  Hostel Scheme (ACES)</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
-                                    aria-haspopup="true" aria-expanded="false" href="#">ASAT</a>
+                                    aria-haspopup="true" aria-expanded="false" href="#"> ASAT Details</a>
                                 <ul role="menu" class=" dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="#">ALLEN Scholarship Admission Test (ASAT)</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">ASAT Result</a></li>
@@ -205,7 +200,7 @@
                                                 <li class="nav-item"><a href="#" class="nav-link">Download Gst Receipt</a></li>
                                                 <li class="nav-item">
                                                     <a href="#" class="nav-link">TALLENTEX 2020 Qualified (New &amp;
-                                                        Existing Students)  <img src="img/new_icon_blink.gif" class="img-fluid" alt="">
+                                                        Existing Students)  <img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt="">
                                                     </a>
                                                 </li>
                                                 <li class="nav-item"><a href="#" class="nav-link">Nurture 2nd Year (Enthusiast) / Privilege Fees</a></li>
@@ -213,8 +208,8 @@
                                                     <a href="#" class="nav-link"> Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a href="#" class="nav-link">EMI Facility available from <img src="img/logo-cd.jpg" class="img-fluid imgtagmenu"
-                                                     alt=""><img src="img/new_icon_blink.gif" class="img-fluid" alt=""> </a>
+                                                    <a href="#" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu"
+                                                     alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> </a>
                                                </li>
                                             </ul>
                                         </li>
@@ -226,7 +221,7 @@
                                                     <a href="#" class="nav-link">Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a href="#" class="nav-link">EMI Facility available from <img src="img/logo-cd.jpg" class="img-fluid imgtagmenu" alt=""><img src="img/new_icon_blink.gif" class="img-fluid" alt=""> 
+                                                    <a href="#" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
                                                     </a>
                                                 </li>
                                             </ul>
