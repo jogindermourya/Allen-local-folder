@@ -47,6 +47,7 @@
         // $('#notificationbanner').modal('show');
     });
 
+    
 
  /*------------------------------------------------------------------------------- 
     Top of the page scrolling button
@@ -181,10 +182,10 @@ $(document).ready(function(){
         var app_screenshotSlider = $(".homeslider");
         if (app_screenshotSlider.length) {
             app_screenshotSlider.owlCarousel({
-                loop: false,
+                loop: true,
                 margin: 10,
                 items: 1,
-                autoplay: false,
+                autoplay: true,
                 slidesToScroll: 0,
                 smartSpeed: 450,
                 responsiveClass: true,
@@ -408,3 +409,22 @@ $(document).ready(function(){
     $('.lightgallery').lightGallery();
     
 });
+
+ /*------------------------------------------------------------------------------- 
+   Data Table for ASAT
+    -----------------------------------------------------------------------------*/
+
+    $(document).ready(function() {
+        $('#datatable').DataTable();
+    } );
+
+ /*------------------------------------------------------------------------------- 
+   Menu Active
+    -----------------------------------------------------------------------------*/
+
+
+	jQuery(document).ready(function($){
+		$('a[href="' + this.location.pathname + '"]').parents('li,ul').addClass('active');
+		$('ul.navbar-nav li a[href="' + this.location.pathname + '"]').parent().siblings().removeClass('active').end().addClass('active', 'dropdown-menu');
+	});
+

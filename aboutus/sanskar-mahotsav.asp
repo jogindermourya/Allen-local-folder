@@ -32,59 +32,59 @@
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-6 col-sm-6 col-md-6" data-responsive="" data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "   alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
                         <li class="col-lg-6 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "    alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                          </li>
 
                          <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "   alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                          </li>
 
                          <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                          </li>
 
                          <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                          </li>
                          <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            </a>
-                         </li>
-
-                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                          </li>
 
                          <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                          </li>
 
                          <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                          </li>
 
                          <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            </a>
+                         </li>
+
+                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""  data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            <a href="#">
+                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                          </li>
 

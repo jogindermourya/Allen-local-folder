@@ -120,11 +120,11 @@
 									<h3 class="f-title f_600 t_color2 f_size_18 mb_15">Quick Links</h3>
 									<ul class="list-unstyled f_list">
 										<li><a href="#">Employee Zone</a></li>
-										<li><a href="#">Career</a></li>
+										<li><a href="/jobs.asp">Jobs</a></li>
 										<li><a href="#">Allenites</a></li>
 										<li><a href="#">Gallery</a></li>
-										<li><a href="#">Faq</a></li>
-										<li><a href="#">Contact</a></li>
+										<li><a href="/faq.asp">Faq</a></li>
+										<li><a href="/contactus.asp">Contact</a></li>
 									</ul>
 								</div>
 							</div>
@@ -148,12 +148,12 @@
 								<div class="f_widget about-widget">
 									<h3 class="f-title f_600 t_color2 f_size_18 mb_15">Results</h3>
 									<ul class="list-unstyled f_list">
-										<li><a href="#">JEE (Advanced) - IIT JEE</a></li>
-										<li><a href="#">JEE (Main) - AIEEE</a></li>
-										<li><a href="#"> NEET/AIPMT</a></li>
-										<li><a href="#">AIIMS</a></li>
-										<li><a href="#">Olympiad, NTSE, KVPY,</a></li>
-										<li><a href="#">Scholarship etc</a></li>
+										<li><a href="/result/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
+										<li><a href="/result/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
+										<li><a href="/result/achievements-aipmt.asp"> NEET/AIPMT</a></li>
+										<li><a href="/result/achievements-aiims.asp">AIIMS</a></li>
+										<li><a href="/result/cbsex.asp">CBSE Class X</a></li>
+										<li><a href="/result/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
 									</ul>
 								</div>
 							</div>
@@ -243,8 +243,7 @@
 										<h5 class="mb-0">
 											<button class="btn btn-link collapsed" data-toggle="collapse"
 												data-target="#collapseTwo" aria-expanded="false"
-												aria-controls="collapseTwo"> Quick Links<i
-													class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
+												aria-controls="collapseTwo"> Quick Links<i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
 											</button>
 										</h5>
 									</div>
@@ -256,8 +255,8 @@
 												<li><a href="#">Career</a></li>
 												<li><a href="#">Allenites</a></li>
 												<li><a href="#">Gallery</a></li>
-												<li><a href="#">Faq</a></li>
-												<li><a href="#">Contact</a></li>
+												<li><a href="/faq.asp">Faq</a></li>
+												<li><a href="/contactus.asp">Contact</a></li>
 											</ul>
 										</div>
 									</div>
@@ -305,12 +304,12 @@
 										data-parent="#accordion">
 										<div class="card-body">
 											<ul class="list-unstyled f_list">
-												<li><a href="#">JEE (Advanced) - IIT JEE</a></li>
-												<li><a href="#">JEE (Main) - AIEEE</a></li>
-												<li><a href="#">NEET/AIPMT</a></li>
-												<li><a href="#">AIIMS</a></li>
-												<li><a href="#">Olympiad, NTSE, KVPY,</a></li>
-												<li><a href="#">Scholarship etc</a></li>
+												<li><a href="/result/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
+												<li><a href="/result/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
+												<li><a href="/result/achievements-aipmt.asp"> NEET/AIPMT</a></li>
+												<li><a href="/result/achievements-aiims.asp">AIIMS</a></li>
+												<li><a href="/result/cbsex.asp">CBSE Class X</a></li>
+												<li><a href="/result/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
 											</ul>
 										</div>
 									</div>
@@ -455,34 +454,31 @@
         <script src="/assets/vendors/wow/wow.min.js"></script>
         <script src="/assets/vendors/owl-carousel/owl.carousel.min.js"></script>
         <script src="/assets/vendors/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
-        <script src="/assets/js/main.js"></script>
+		<script src="/assets/js/main.js"></script>
+		<script src="/assets/vendors/data-table/js/datatables.min.js"></script>
 		<script src="/assets/vendors/lightbox/js/lightgallery-all.min.js"></script>
 		<script src="/assets/js/js/conditional-js/method.js"></script>
 
-				<script type="text/javascript">		
+		<script type="text/javascript">		
 			$(document).ready(function(){
-				var images = latest_slider.concat(kota_main_slider);
-				allenslider(images, $);	
+			var images = latest_slider.concat(kota_main_slider);
+			allenslider(images, $);	
 			});
 		</script>
 		<script src="/assets/js/js/conditional-js/notification.js"></script>
 		<script type="text/javascript">		
 			$(document).ready(function(){
-				var update = kota_updates_notification;
-				updateLists(update, $);	
+			var update = kota_updates_notification;
+			updateLists(update, $);	
 
-				var results = kota_results_notification;
-				resultsLists(results, $);	
+			var results = kota_results_notification;
+			resultsLists(results, $);	
 
-				var events = kota_events_notification;
-				eventsLists(events, $);	
+			var events = kota_events_notification;
+			eventsLists(events, $);	
 			});
 		</script>
-<script type="text/javascript">
-    jQuery(document).ready(function($){
-		$('ul.nav li a[href="' + this.location.pathname + '"]').parent().siblings().removeClass('active').end().addClass('active', 'dropdown-menu');
-    });
-</script>
+
 
     </body>
 </html>

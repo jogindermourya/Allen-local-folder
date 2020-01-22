@@ -86,10 +86,10 @@
                                         <li><a href="#"><i class="fa fa-building"></i> Back to Gateway </a></li>
                                     </ul>
                                 </div>
-                                <div class=" col-lg-4  col-sm-12 fullwd320">
+                                <div class="col-lg-4 col-sm-12 fullwd320">
                                     <ul class="header_contact_info list-unstyled text-right">
                                         <li>
-                                            <a href="#"> <i class="fa fa-user"></i> Enquiry</a>
+                                            <a href="/enquiry.asp"> <i class="fa fa-user"></i> Enquiry</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -114,7 +114,7 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
                         <ul class="navbar-nav menu w_menu ml-auto mr-auto">
-                            <li class="dropdown submenu nav-item">
+                            <li class="dropdown submenu nav-item" id="home">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
                                     aria-haspopup="true" aria-expanded="false" href="#">About</a>
                                 <ul role="menu" class=" dropdown-menu">
@@ -181,11 +181,13 @@
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Results</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="#">JEE (Advanced) - IIT JEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">NEET/AIPMT</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">AIIMS</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">JEE (Main) - AIEEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aipmt.asp">NEET/AIPMT</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aiims.asp">AIIMS</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/result/cbsex.asp">CBSE Class X</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
+
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu mega_menu">

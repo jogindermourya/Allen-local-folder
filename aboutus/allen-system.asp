@@ -33,8 +33,8 @@
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                             <a href="#">
-                                <img class="img-fluid"
-                                    src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                               <img class="img-fluid "  alt=""
+                                    src="/assets/img/aboutus/allen-system/orientation-session-full.jpg" alt="">
                                 <p class="text-justify p-1 m-0">Orientation Session is our first introduction to parents
                                     and students. The session
                                     aims to brief the parents about ALLEN as a system, as a community, as a family, as
@@ -50,55 +50,55 @@
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            </a>
-                        </li>
-
-                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            </a>
+                        </li>
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
@@ -138,7 +138,7 @@
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <p class="text-justify p-1 m-0">Classes are held in morning and evening sessions.
                                     Separate Batches are formed for different Medium.
                                     Strength is accommodated in classrooms which are air-cooled and are equipped with
@@ -153,7 +153,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -173,7 +173,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -191,7 +191,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -207,7 +207,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -252,7 +252,7 @@
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <p class="text-justify p-1 m-0">Doubt removal counters are a <b>unique platform</b> that
                                     ALLEN
                                     offers to its students- so that their doubts are clarified,
@@ -261,7 +261,7 @@
                                     during one to one
                                     interactions. This meticulously planned platform paves the beginning of progress,
                                     the genius of reason and the
-                                    <b></b> pathway to success</b> by clarifying the doubts from the very grass root
+                                    <b> pathway to success</b> by clarifying the doubts from the very grass root
                                     level .</p>
                             </a>
                         </li>
@@ -272,21 +272,21 @@
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
@@ -324,7 +324,7 @@
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <p class="text-justify p-1 m-0">Periodic Tests are taken at regular intervals to give
                                     ample practice to the students,
                                     so that they learn to respond promptly to tricky questions within the defined time
@@ -338,7 +338,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -358,7 +358,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -375,7 +375,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -393,7 +393,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -409,7 +409,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -454,7 +454,7 @@
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <p class="text-justify p-1 m-0">ALLEN Mentors Student Mentorship Programme
 
                                     To help overcome academic and non-academic problems faced by our students, we
@@ -471,7 +471,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -491,7 +491,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -509,7 +509,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -525,7 +525,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -571,7 +571,7 @@
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                             <a href="#">
-                                <img class="img-fluid"
+                               <img class="img-fluid "  alt=""
                                     src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                                 <p class="text-justify p-1 m-0">In Open Session the top performers of periodic tests are
                                     awarded ‘Saraswati Silver Medal ‘. The music that plays
@@ -588,41 +588,41 @@
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
                     </ul>
@@ -663,7 +663,7 @@
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <div class="text-center mt-3">
                                     <h4>New Initiative IntelliBrain Workshop</h4>
                                     <p>The early childhood brain development program for the age group of 6 to 11 years.
@@ -679,7 +679,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -697,7 +697,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -714,7 +714,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -729,7 +729,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -750,7 +750,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -768,7 +768,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -785,7 +785,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -800,7 +800,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -820,7 +820,7 @@
                                 <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                                     data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid"
+                                       <img class="img-fluid "  alt=""
                                             src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                         <div class="text-center mt-3">
                                             <p><b>Sports To sustain energy, enthusiasm and vigor, sports are
@@ -840,7 +840,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -857,7 +857,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -874,7 +874,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -923,7 +923,7 @@
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <div class="text-center mt-3">
                                     <h5>Founder Director Addressing Team ALLEN</h5>
                                     <p>Motivating the team for the overall developement and caring of students.</p>
@@ -933,7 +933,7 @@
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <div class="text-center mt-3">
                                     <h5>MANTHAN : UNIFICATION for IMPROVISATION</h5>
                                     <p>Our Galaxy of Academic and Administrative Leaders come together on this platform
@@ -950,7 +950,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -968,7 +968,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -987,7 +987,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1009,7 +1009,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1027,7 +1027,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1045,7 +1045,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1093,7 +1093,7 @@
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <div class="text-center mt-3">
                                     <h5>ERP Development Center </h5>
                                     <p>The in-house team of software engineers design and develop the required
@@ -1104,7 +1104,7 @@
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                                 <div class="text-center mt-3">
                                     <h5>Publishing Department</h5>
                                     <p>Study material & test papers are prepared under the able guidance of R & D Team.
@@ -1120,7 +1120,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1138,7 +1138,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1157,7 +1157,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1173,7 +1173,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1195,7 +1195,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1213,7 +1213,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1232,7 +1232,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1248,7 +1248,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1302,12 +1302,12 @@
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                             <a href="#">
-                                <img class="img-fluid"
+                               <img class="img-fluid "  alt=""
                                     src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
-                                <p class="text-center p-1 m-0">
+                                <div class="text-center p-1 m-0">
                                     <h5 class="text-center">Drawing inspiration from the success of the toppers, our future aspirants aim to
                                         outperform.</h5>
-                                </p>
+                                    </div>
                             </a>
                         </li>
                     </ul>
@@ -1317,28 +1317,28 @@
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
                        
@@ -1376,14 +1376,14 @@
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                             <a href="#">
-                                <img class="img-fluid"
+                               <img class="img-fluid "  alt=""
                                     src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                               </a>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                         data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                         <a href="#">
-                            <img class="img-fluid"
+                           <img class="img-fluid "  alt=""
                                 src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                         </a>
                     </li>
@@ -1394,28 +1394,28 @@
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
                        
@@ -1454,14 +1454,14 @@
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                             <a href="#">
-                                <img class="img-fluid"
+                               <img class="img-fluid "  alt=""
                                     src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                               </a>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                         data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                         <a href="#">
-                            <img class="img-fluid"
+                           <img class="img-fluid "  alt=""
                                 src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
                         </a>
                     </li>
@@ -1472,55 +1472,55 @@
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            </a>
-                        </li>
-
-                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             <a href="#">
-                                <img class="img-fluid " src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            </a>
+                        </li>
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                             </a>
                         </li>
                        
@@ -1558,13 +1558,13 @@
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg"  alt="">
                             </a>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg"  alt="">
                             </a>
                         </li>
                     </ul>
@@ -1575,7 +1575,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1591,7 +1591,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1607,7 +1607,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-2.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-2.jpg">
                                     </a>
                                 </div>
@@ -1626,7 +1626,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt="" 
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1642,7 +1642,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt="" 
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1658,7 +1658,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt=""
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1674,7 +1674,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt="" 
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1696,7 +1696,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt="" 
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1712,7 +1712,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt="" 
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1762,13 +1762,13 @@
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             </a>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             <a href="#">
-                                <img class="img-fluid" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
                             </a>
                         </li>
                     </ul>
@@ -1779,7 +1779,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt="" 
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1795,7 +1795,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt="" 
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1811,7 +1811,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt="" 
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1827,7 +1827,7 @@
                                 <div class="boximg" data-responsive=""
                                     data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     <a href="#">
-                                        <img class="img-fluid "
+                                        <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                     </a>
                                 </div>
@@ -1846,7 +1846,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt=""
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1862,7 +1862,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt=""
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1878,7 +1878,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt=""
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1894,7 +1894,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt=""
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1912,7 +1912,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt=""
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>
@@ -1928,7 +1928,7 @@
                                     <div class="boximg" data-responsive=""
                                         data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         <a href="#">
-                                            <img class="img-fluid "
+                                            <img class="img-fluid " alt=""
                                                 src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
                                         </a>
                                     </div>

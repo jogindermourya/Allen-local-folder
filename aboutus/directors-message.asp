@@ -18,7 +18,6 @@
 <!-- End Breadcrumb Section -->
 
 <!--  content Section -->
-<section>
 	<div class="container-fluid bg-grye">
 		<div class="row">
 			<div class="col-md-12 text-center">
@@ -26,12 +25,11 @@
 			</div>
 		</div>
 	</div>
-</section>
 <section class="payment_testimonial_area mb-5">
     <div class="container">
         <div class="row payment_testimonial_info mb-lg-5 mb-md-1">
             <div class="col-lg-12 col-md-12 col-sm-12">
-				<h2 class="mt-3 mb-4">Experience the Positivity</h2>
+				<h3 class="mt-3 mb-4">Experience the Positivity</h3>
 				<h5 class="mb-3">Dear Parent</h5>
 				<p>Greetings!</p>
 				<div class="text-justify">

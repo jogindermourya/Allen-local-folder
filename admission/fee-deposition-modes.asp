@@ -4,71 +4,133 @@
 
 <!-- Breadcrumb Section -->
 <section class="breadcrumb_area">
-    <img class="breadcrumb_shap" src="/assets/img/aboutus/innerbghead.png" alt="">
-    <div class="container">
-        <div class="breadcrumb_content text-center">
-            <h1 class="breadcrumb-hed">Director Message</h1>
-            <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
-                <li>Director Message</li>
-            </ul>
-        </div>
-    </div>
-</section>
-<!-- End Breadcrumb Section -->
-
-<!--  content Section -->
-<section>
-	<div class="container-fluid bg-grye">
-		<div class="row">
-			<div class="col-md-12 text-center">
-				<img src="/assets/img/aboutus/allen-directors.jpg" class="img-fluid m-auto pb-2" alt="">
-			</div>
-		</div>
+	<img class="breadcrumb_shap" src="/assets/img/aboutus/innerbghead.png" alt="">
+	<div class="container">
+	   <div class="breadcrumb_content text-center">
+		  <h1 class="breadcrumb-hed">Fee Deposition Mode</h1>
+		  <ul class="list-unstyled breadcrumb-links m-0">
+			 <li><a href="/">Home</a></li>
+			 <li>Fee Deposition Mode</li>
+		  </ul>
+	   </div>
 	</div>
-</section>
-<section class="payment_testimonial_area mb-5">
-    <div class="container">
-        <div class="row payment_testimonial_info mb-lg-5 mb-md-1">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-				<h2 class="mt-3 mb-4">Experience the Positivity</h2>
-				<h5 class="mb-3">Dear Parent</h5>
-				<p>Greetings!</p>
-				<div class="text-justify">
-				<p>At the outset, we would like to express our gratitude for the trust you have placed in ALLEN CAREER INSTITUTE. This is a Golden Age for Career Education; for Education is not a preparation for exam; it is to prepare for life itself. At ALLEN, value based knowledge is the true aim of education that we impart to our students.</p>
-				<p>As a parent, you definitely want the best for your child; and we are happy to be working with you to make sure that they are given the true knowledge to face the challenges in their career. An important role ALLEN plays at this end is to link this depth and breadth of energy and experience to the enthusiasm and intelligence of this generation of Achievers.</p>
-				<p>The talent and the energy which our students possess need to be nurtured, shaped and channeled in the right direction. Our combined efforts would bring out not only the best in their careers, but the best in their lives. In this way we hope to support not only individuals but also the entire society from which we all benefit.</p>
-				<p>We wish you a very rewarding experience at ALLEN !</p>
+ </section>
+ <!-- End Breadcrumb Section -->
+ <!--  content Section -->
+ <section class="payment_testimonial_area pb-1  ">
+	<div class="container">
+	   <div class="row">
+		  <div class="col-lg-12 mb-lg-4 mb-md-3">
+			 <h3 class="subhed-in mt-2 mb-4 text-center">
+			 Fee Deposition Mode</h4>
+			 <p class="text-center">(Application form must be submited at your nearest ALLEN Center prior to
+				deposting fee.)
+			 </p>
+		  </div>
+	   </div>
+	   <div class="row payment_testimonial_info mb-lg-2 mb-md-1">
+		  <div class="col-lg-12 col-md-12 col-sm-12">
+			 <div class="row mb-3 mt-3">
+				<div class="col-lg-1 text-right"><i class="dropcap-bg fa fa-laptop"></i></div>
+				<div class="col-lg-11">
+				   <h5><span class="color-orange">Through Net Banking / Debit Card / Credit Card / UPI (No Extra
+					  Charges)</span> 
+				   </h5>
+				   <p>Fee can be deposited through Net Banking / Debit Card / Credit Card / UPI facility
+					  available at <a href="http://www.allen.ac.in/appsmvc2021/FormStatus/Login"> Click Here
+					  </a>
+				   </p>
 				</div>
-				<br>
-				<p>Best Regards<br><b>DIRECTORS</b></p>
-            </div>
-		</div>
-		
-		<div class="row mb_30">
-			<div class="col-lg-6 col-sm-6">
-				<div class="p_service_item agency_service_item pr_70">
-					<div class="icon">
-						<i class="fa fa-rocket "></i>
-					</div>
-					<h5 class="f_600 f_p t_color3">Our Mission</h5>
-					<p>Every student of ALLEN becomes a success story.</p>
+			 </div>
+			 <div class="row">
+				<div class="col-lg-1 text-right"><i class="dropcap-bg fa fa-sign-out"></i></div>
+				<div class="col-lg-11">
+				   <h5><span class="color-orange">Through EMI </span></h5>
+				   <p>You can pay fee in easy EMI at no Extra Cost. For more details visit our website
+					  or <a href="https://campusdunia.com/allen-fee-no-cost-emi/home" target="_blank"> Click
+					  Here</a> 
+				   </p>
 				</div>
-			</div>
-			<div class="col-lg-6 col-sm-6">
-				<div class="p_service_item agency_service_item pl_20 pr_70">
-					<div class="icon">
-						<i class="fa fa-thumbs-o-up"></i>
-					</div>
-					<h5 class="f_600 f_p t_color3">Our Values</h5>
-					<p>Determination  |  Honesty  |  Authenticity  |  Integrity  |  Devotion  |  Humanism <br>We infuse these values in every bit of the ALLEN experience.</p>				</div>
-			</div>
-			
-		</div>
-    </div>
-</section>
-<!-- End  content Section -->
-
-<!--Footer-->
-<!-- #Include virtual="include/footer.asp" -->
-<!--/Footer-->
+			 </div>
+			 <div class="row mb-3 mt-0">
+				<div class="col-lg-1 text-right"><i class="dropcap-bg fa fa-retweet"></i></div>
+				<div class="col-lg-11">
+				   <h5><span>Through RTGS / NEFT </span></h5>
+				   <p><span class="color-red">In case of ASAT</span>, this option is available after confirm
+					  selection in ASAT / <span>in case of Direct Admission</span> this option
+					  is available after
+					  the Form has been scanned at ALLEN (Offline) or Form No. has been generated (Online).
+				   </p>
+				   <p><strong>Fee can be deposited by filling details in RTGS form of any bank other than HDFC
+					  Bank.</strong>
+				   </p>
+				   <p>For details <a href="https://www.allen.ac.in/appsmvc2021/FormStatus/Login">
+					  Click Here </a> OR For getting details send sms <span>RTGS to
+					  9829988255</span>
+				   </p>
+				</div>
+			 </div>
+			 <div class="row mb-3 mt-3">
+				<div class="col-lg-1 text-right"><i class="dropcap-bg fa fa-inr"></i></div>
+				<div class="col-lg-11">
+				   <h5><span class="color-orange">Through Cash Deposition in Bank</span></h5>
+				   <p>Fee in cash can also be deposited at any Branch of Central Bank of India / HDFC Bank after
+					  downloading Fee Challan from our website. (Bank Charges Extra) 
+				   </p>
+				</div>
+			 </div>
+			 <div class="row mb-0 mt-3">
+				<div class="col-lg-1 text-right"><i class="dropcap-bg fa fa-credit-card"></i></div>
+				<div class="col-lg-11">
+				   <h5><span class="color-orange">Through Credit / Debit Card at office premises </span></h5>
+				   <p>Fee can also be deposited at any Center office by swiping Credit Card / Debit Card. ( No
+					  Extra Charges ).
+				   </p>
+				</div>
+			 </div>
+			 <div class="row mb-0 mt-3">
+				<div class="col-lg-1 text-right"><i class="dropcap-bg fa fa-money"></i></div>
+				<div class="col-lg-11">
+				   <h5><span class="color-orange">Through CTS Cheque</span></h5>
+				   <p><b>Fee can also be deposited through Single Crossed CTS Cheque of the requisite amount at any of
+					  our Corporate Office / Admission Office.</b>
+				   </p>
+				   <ol class="l_height28">
+					  <li>CTS Cheque should be in favour of <strong>"ALLEN CAREER INSTITUTE"</strong> from Nationalized Bank, payable at center office where fees is being submitted.</li>
+					  <li>Student must write his/her Name, Form Number, Mobile No. on the back side of CTS Cheque.</li>
+					  <li>
+						 Please ensure balance in the account before depositing the Fee by Cheque. cutting &amp; over writing is not allowed. CTS Cheque should be issued from the bank account of either student himself or his/her father / mother only (Third party cheque not allowed).
+						 <blockquote>
+							<p><strong>BY POST</strong>: CTS Cheque can be sent through post / courier. Make sure that FEE must be received at our Corporate Office / Admission Office three days before the course commencement date.</p>
+							<p><strong> BY HAND</strong>: To deposit  CTS Cheque by hand at our office, first the student has to collect a pre-printed fee challan from our any Admission Office and fill it carefully before depositing.</p>
+						 </blockquote>
+					  </li>
+				   </ol>
+				</div>
+			 </div>
+			 <div class="row mb-3 mt-3">
+				<div class="col-lg-1 text-right"><i class="dropcap-bg fa fa-sign-out"></i></div>
+				<div class="col-lg-11">
+				   <p><b>Important Points to Remember</b></p>
+				   <ol class="l_height28">
+					  <li>Fee Deposition Time: <strong>10:00 AM to 07:00 PM</strong>.</li>
+					  <li>Fee in cash is not accepted at our office. Fee in cash can be deposited only at bank branch/counter.</li>
+					  <li>In case of Cheque Return by any reason , Student will not be allowed in class with immediate effect &amp; legal action will be taken under the Negotiable 
+						 Instrument Act. ( CTS Cheque Return charge <span class=" fa fa-inr"></span> 500/-)
+					  </li>
+				   </ol>
+				</div>
+			 </div>
+		  </div>
+	   </div>
+	</div>
+	</div>
+	</div>
+	</div>
+ </section>
+ <!-- End  content Section -->
+ <!--Footer-->
+ <!-- #Include virtual="include/footer.asp" -->
+ <!--/Footer-->
+ 
+ 

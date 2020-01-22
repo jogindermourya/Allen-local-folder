@@ -1,12 +1,12 @@
 // JavaScript Document
 
-function allenslider(images, $) {
-	for (var i = 0; i < images.length; i++) {
-		$('<div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1680px;"><div class="owl-item" style="width: 270px; margin-right: 10px;">' + images[i] + '</div></div>').appendTo('#homeSlider .home-slider .owl-stage-outer');
-	}
-	$('.owl-item').first().addClass('active');
-}
-
+//function allenslider(images, $) {
+//	for (var i = 0; i < images.length; i++) {
+//		$('<div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1680px;"><div class="owl-item" style="width: 270px; margin-right: 10px;">' + images[i] + '</div></div>').appendTo('#homeSlider .home-slider .owl-stage-outer');
+//	}
+//	$('.owl-item').first().addClass('active');
+//}
+//
 
 
 

@@ -36,7 +36,7 @@
                         <li class="col-lg-5 col-sm-6 col-md-6 offset-lg-1 " data-responsive=""
                             data-src="/assets/img/aboutus/record-01.jpg">
                             <a href="">
-                                <img class="img-fluid mb-2" src="/assets/img/aboutus/record-01.jpg">
+                                <img class="img-fluid mb-2" src="/assets/img/aboutus/record-01.jpg" alt="">
                             </a>
                             <p class="text-center mb-4 col-12 f_size_15 ">Together more than <b>23000</b> Science
                                 Students sang the <b>National Anthem.</b></p>
@@ -44,7 +44,7 @@
                         <li class="col-lg-5 col-sm-6 col-md-6" data-responsive=""
                             data-src="/assets/img/aboutus/record-02.jpg">
                             <a href="">
-                                <img class="img-fluid mb-2" src="/assets/img/aboutus/record-02.jpg">
+                                <img class="img-fluid mb-2" src="/assets/img/aboutus/record-02.jpg" alt="">
                             </a>
                             <p class="text-center mb-4 col-12 f_size_15 ">More than <b>23000 Students</b> attended the
                                 Independence Day celebrations by <b>wearing a tricolor sticker on their faces</b>.</p>

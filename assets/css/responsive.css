@@ -2400,7 +2400,7 @@
     }
     
     .menu_pos .w_menu .nav-item:hover .nav-link, .w_menu .nav-item.active .nav-link{
-        color: #5e53fb;
+        color: #338CDB;
     }
     .navbar_fixed .menu_pos .container .menu_toggle .hamburger span,.navbar_fixed .menu_pos .container .menu_toggle .hamburger-cross span{
         background: #051441;
@@ -3650,7 +3650,8 @@
     .vdwrper-mobile  {display: block;}
     .vdwrper, .vdwrper2{display: none;}
     .payment_testimonial_info .testimonial_content .icon{display: none;}
-
+    .payment_testimonial_area{padding-top: 20px;padding-bottom: 20px;}
+    .payment_testimonial_area ol {padding-left: 15px;}
 
 }
 
