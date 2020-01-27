@@ -2025,8 +2025,8 @@
     }
     .login_area .login_info{
         padding-right: 0;
-        padding-top: 70px;
-        padding-bottom: 70px;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
     .login_area .login_info:before{
         right: -20%;
@@ -2822,12 +2822,10 @@
     .payment_testimonial_info .testimonial_content p {margin-bottom: 0px;    }
     .payment_testimonial_info .testimonial_content .icon{display: none;}
   
-
-
-
-
-
-
+    .extra .toast {min-width: 450px;}
+    .text_box {margin-bottom: 15px;}
+    .extra .arrow:before{display: none;}
+    .hide{display: none;}
 
 
 
@@ -3653,6 +3651,11 @@
     .payment_testimonial_area{padding-top: 20px;padding-bottom: 20px;}
     .payment_testimonial_area ol {padding-left: 15px;}
 
+    .extra .toast {min-width: 100%;max-width: 100%; position: static; display: block;overflow: visible; opacity: 1;}
+    .hide{display: none;}
+
+
+
 }
 
 
@@ -4239,7 +4242,7 @@
         margin-bottom: 10px;
     }
     .login-form .extra,.security_banner_content .action_btn.d-flex{
-        display: block !important;
+        /* display: block !important; */
     }
     .s_promo_info .promo_item{
         width: 90px;

@@ -71,15 +71,39 @@
                 <img src="/assets/img/popupforregsitration.jpg" class="img-fluid" alt="">
             </div>
             <div class="modal-footer justify-content-center">
-                <button type="button" class="blue_btn d-inline-block popupbtn">Apply Online for New Session 2020-21
-                </button>
-                <button type="button" class=" blue_btn d-inline-block popupbtn">Apply Online for Old Session 2019-20
-                </button>
+                <a href="/apply-online/login.asp" class="blue_btn btn_hover d-inline-block popupbtn">Apply Online for New Session 2020-21
+				</a>
+                <a href="/apply-online/login.asp" class=" blue_btn btn_hover d-inline-block popupbtn">Apply Online for Old Session 2019-20
+				</a>
             </div>
         </div>
     </div>
 </div>
 <!-- end -->
+
+
+<!-- Modal On load popup-->
+<div class="modal fade" id="notificationbanner" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog pop8" role="document">
+        <div class="modal-content">
+            <button type="button" class="close closebtn" data-dismiss="modal" aria-label="Close"><span
+                    aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-body p0">
+               <a href="#" target="_blank"><img src="/assets/img/popup/admission-open-session-2020.jpg" class="img-fluid rounded" alt=""></a> 
+            </div>
+            
+        </div>
+    </div>
+</div>
+<!-- end -->
+
+
+
+
+
+
+
 
     <!-- Main Footer Section --> 
 	<footer class="footer_area_two">
@@ -479,6 +503,7 @@
 			});
 		</script>
 
+	
 
     </body>
 </html>
