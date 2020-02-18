@@ -1,4 +1,4 @@
-;
+
 (function ($) {
     "use strict";
 
@@ -214,6 +214,85 @@ $(document).ready(function(){
 appScreenshotHomeslider();
 
 
+ // Gateway Home slider
+
+ function appScreenshotGatewaySlider() {
+    var app_screenshotGatewaySlider = $(".gatewaySlider");
+    if (app_screenshotGatewaySlider.length) {
+        app_screenshotGatewaySlider.owlCarousel({
+            loop: true,
+            // rtl:true,
+            margin: 10,
+            items: 3,
+            autoplay: true,
+            smartSpeed: 450,
+            responsiveClass: true,
+            nav: true,
+            dots: false,
+            autoplayHoverPause:true,
+            responsive: {
+                0: {
+                    items: 1,
+                    nav: false
+                },
+                650: {
+                    items: 1,
+                    nav: false
+
+                },
+                776: {
+                    items: 3,
+                },
+                1199: {
+                    items: 3,
+                },
+            },
+        })
+    }
+}
+
+
+appScreenshotGatewaySlider();
+
+
+    // result top slider
+
+    function appScreenshotTopperslider() {
+        var app_screenshotSlider = $(".topperslider");
+        if (app_screenshotSlider.length) {
+            app_screenshotSlider.owlCarousel({
+                loop: true,
+                margin: 10,
+                items: 1,
+                autoplay: true,
+                slidesToScroll: 0,
+                smartSpeed: 450,
+                responsiveClass: true,
+                nav: false,
+                dots: true,
+                autoplayHoverPause:true,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    650: {
+                        items: 1,
+                    },
+                    776: {
+                        items: 1,
+                    },
+                    1199: {
+                        items: 1,
+                    },
+                },
+            })
+        }
+    }
+
+
+    appScreenshotTopperslider();
+
+
 
  /*---------------------------------------------------------------------------------- 
   event slider----------------------------------------------------------------*/
@@ -389,18 +468,41 @@ $('.counter-count').each(function () {
 //CENTERS SEARCH OPTION
 
 function search_animal() { 
-let input = document.getElementById('searchbar').value 
+let input = document.getElementById('searchbar').value; 
 input=input.toLowerCase(); 
-let x = document.getElementsByClassName('center'); 
+let x = document.getElementsByClassName('centers'); 
 
 for (i = 0; i < x.length; i++) {  
-if (!x[i].innerHTML.toLowerCase().includes(input)) { 
-    x[i].style.display="none"; 
+    if (!x[i].innerHTML.toLowerCase().includes(input)) { 
+        x[i].style.display="none"; 
+    } 
+    else { 
+        x[i].style.display="block";       
+    } 
 } 
-else { 
-    x[i].style.display="list-item";                  
-} } 
 } 		
+
+//function myFunction() {
+//    var input, filter, ul, li, a, i, txtValue;
+//    input = document.getElementById("myInput");
+//    filter = input.value.toUpperCase();
+//    ul = document.getElementById("myUL");
+//    li = ul.getElementsByTagName("li");
+//    for (i = 0; i < li.length; i++) {
+//        a = li[i].getElementsByTagName("a")[0];
+//        txtValue = a.textContent || a.innerText;
+//        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+//            li[i].style.display = "";
+//			li[21].style.display = "none";
+//
+//        } else {
+//            li[i].style.display = "none";
+//			li[21].style.display = "";
+//        }
+//    }
+//}
+
+
 
 
 // LightBox

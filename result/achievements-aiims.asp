@@ -2,7 +2,6 @@
 <!-- #Include virtual="include/header.asp" -->
 <!--/Header-->
 
-<link rel="stylesheet" href="/assets/vendors/data-table/css/datatables.min.css">
 
 <!-- Breadcrumb Section -->
 <section class="breadcrumb_area">
@@ -10,10 +9,10 @@
     <div class="container">
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">
-                Frequently Asked Questions</h1>
+                Achievements AIIMS </h1>
             <ul class="list-unstyled breadcrumb-links m-0">
                 <li><a href="/">Home</a></li>
-                <li>FAQs</li>
+                <li>Achievements AIIMS</li>
             </ul>
         </div>
     </div>
@@ -25,118 +24,461 @@
 <section class="faq_area bg_color sec_pad">
     <div class="container">
         <div class="row">
-          
-            <!--Left Part for Result Nav-->
-            <!-- #Include virtual="result/result-left-part.asp" -->
-            <!--/Left Part for Result Nav-->
+            <div class="col-lg-3">
+                <!-- Result Nav-->
+                <!-- #Include virtual="result/result-left-part.asp" -->
+                <!--/Result Nav-->
 
+                <!--Download Brochure-->
+                <!-- #Include virtual="common/download_brochure.asp" -->
+                <!--/Download Brochure-->
+
+                <!--Allen Info -->
+                <!-- #Include virtual="common/allen-info-left-part.asp" -->
+                <!--/Allen Info -->
+
+                <!--ASAT  -->
+                <!-- #Include virtual="common/asat-left-part.asp" -->
+                <!--/ASAT -->
+
+                <!--Sample Paper -->
+                <!-- #Include virtual="common/sample-paper-left-part.asp" -->
+                <!--/Sample Paper -->
+
+            </div>
             <div class="col-lg-9">
-                <div class="tab-content faq_content" id="myTabContent">
-                    <div class="tab-pane fade show active" id="purchas" role="tabpanel" aria-labelledby="purchas-tab">
 
-                        <h3 class="f_p f_size_22 f_500 t_color3 mb_20"> About ALLEN </h3>
-                        <div id="accordion">
-                            <div class="card">
-                                <div class="card-header" id="headingOne">
-                                    <h5 class="mb-0">
-                                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
-                                            aria-expanded="true" aria-controls="collapseOne">
-                                            Why ALLEN? <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
-                                        </button>
-                                    </h5>
-                                </div>
+                <!-- box 1  -->
+                <div class="result_show_container p-3">
+                    <div class="row">
+                        <div class="timeline-wrap">
+                            <ul class="timeline list-unstyled">
+                                <!-- <li class="era">
+                                  <h2 class="era__title">Second Era</h2>
+                               </li> -->
 
-                                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
-                                    data-parent="#accordion">
-                                    <div class="card-body">
-                                        We work on 6 key points; Excellence in academics, Aptitude, Skills, Competitive
-                                        exams, Language proficiency, Cultivating Indian values. And these points will
-                                        help them to groom from every prospective.
+                                <!-- box 1 -->
+                                <li class="entry entry--right">
+                                    <div class="entry__content wow animated fadeIn " data-wow-duration="1s"
+                                        data-wow-delay="0.5s">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h3 class="year">Year 2018</h3>
+
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <ul class="list-unstyled score">
+                                                    <li><span>8</span> in Top 20</li>
+                                                    <li><span>20</span> in Top 50</li>
+                                                    <li><span>30</span> in Top 100</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <hr>
+                                                <div>
+                                                    <a href="/result/all-view-result.asp" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
+                                </li>
+                                <!-- /box 1-->
 
-                            <div class="card">
-                                <div class="card-header" id="headingTwo">
-                                    <h5 class="mb-0">
-                                        <button class="btn btn-link collapsed" data-toggle="collapse"
-                                            data-target="#collapseTwo" aria-expanded="false"
-                                            aria-controls="collapseTwo">
-                                            Till today my ward has studied on his own and secured highest aggregate, why
-                                            should she/he join ALLEN?
-                                            <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
+                                <!-- box  2-->
+                                <li class="entry entry--left">
+                                    <div class="entry__content wow animated fadeIn" data-wow-duration="1s"
+                                        data-wow-delay="0.5s">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h3 class="year">Year 2018</h3>
 
-                                        </button>
-                                    </h5>
-                                </div>
-                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
-                                    data-parent="#accordion">
-                                    <div class="card-body">
-                                        Why I say old chap that is spiffing pukka, bamboozled wind up bugger buggered
-                                        zonked hanky panky a blinding shot the little rotter, bubble and squeak vagabond
-                                        cheeky bugger at public school pardon you bloke the BBC. Tickety-boo Elizabeth
-                                        plastered matie.!
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <ul class="list-unstyled score">
+                                                    <li><span>6289</span> Qualified </li>
+                                                    <li><span>4383</span> CCP</li>
+                                                    <li><span>1906</span> DLP</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <ul class="list-unstyled score">
+                                                    <li><span>8</span> in Top 20</li>
+                                                    <li><span>20</span> in Top 50</li>
+                                                    <li><span>30</span> in Top 100</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <hr>
+                                                <div>
+                                                    <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
+                                </li>
+                                <!-- /box 2-->
 
+                                <!-- box  3-->
+                                <li class="entry entry--right">
+                                    <div class="entry__content wow animated fadeIn" data-wow-duration="1s"
+                                        data-wow-delay="0.5s">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h3 class="year">Year 2018</h3>
+
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <ul class="list-unstyled score">
+                                                    <li><span>6289</span> Qualified </li>
+                                                    <li><span>4383</span> CCP</li>
+                                                    <li><span>1906</span> DLP</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <ul class="list-unstyled score">
+                                                    <li><span>8</span> in Top 20</li>
+                                                    <li><span>20</span> in Top 50</li>
+                                                    <li><span>30</span> in Top 100</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <hr>
+                                                <div>
+                                                    <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <!-- /box 3-->
+
+                                <!-- box  4-->
+                                <li class="entry entry--left">
+                                    <div class="entry__content wow animated fadeIn" data-wow-duration="1s"
+                                        data-wow-delay="0.5s">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <h3 class="year">Year 2018</h3>
+
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <ul class="list-unstyled score">
+                                                    <li><span>6289</span> Qualified </li>
+                                                    <li><span>4383</span> CCP</li>
+                                                    <li><span>1906</span> DLP</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <ul class="list-unstyled score">
+                                                    <li><span>8</span> in Top 20</li>
+                                                    <li><span>20</span> in Top 50</li>
+                                                    <li><span>30</span> in Top 100</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <hr>
+                                                <div>
+                                                    <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <!-- /box 4-->
+
+                               
+
+                                                               <!-- box 1 -->
+                                                               <li class="entry entry--right">
+                                                                <div class="entry__content wow animated fadeIn " data-wow-duration="1s"
+                                                                    data-wow-delay="0.5s">
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <h3 class="year">Year 2018</h3>
+                            
+                                                                        </div>
+                                                                    </div>
+                            
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>8</span> in Top 20</li>
+                                                                                <li><span>20</span> in Top 50</li>
+                                                                                <li><span>30</span> in Top 100</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                            
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <hr>
+                                                                            <div>
+                                                                                <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <!-- /box 1-->
+                            
+                                                            <!-- box  2-->
+                                                            <li class="entry entry--left">
+                                                                <div class="entry__content wow animated fadeIn" data-wow-duration="1s"
+                                                                    data-wow-delay="0.5s">
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <h3 class="year">Year 2018</h3>
+                            
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>6289</span> Qualified </li>
+                                                                                <li><span>4383</span> CCP</li>
+                                                                                <li><span>1906</span> DLP</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>8</span> in Top 20</li>
+                                                                                <li><span>20</span> in Top 50</li>
+                                                                                <li><span>30</span> in Top 100</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                            
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <hr>
+                                                                            <div>
+                                                                                <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <!-- /box 2-->
+                            
+                                                            <!-- box  3-->
+                                                            <li class="entry entry--right">
+                                                                <div class="entry__content wow animated fadeIn" data-wow-duration="1s"
+                                                                    data-wow-delay="0.5s">
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <h3 class="year">Year 2018</h3>
+                            
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>6289</span> Qualified </li>
+                                                                                <li><span>4383</span> CCP</li>
+                                                                                <li><span>1906</span> DLP</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>8</span> in Top 20</li>
+                                                                                <li><span>20</span> in Top 50</li>
+                                                                                <li><span>30</span> in Top 100</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                            
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <hr>
+                                                                            <div>
+                                                                                <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <!-- /box 3-->
+                            
+                                                            <!-- box  4-->
+                                                            <li class="entry entry--left">
+                                                                <div class="entry__content wow animated fadeIn" data-wow-duration="1s"
+                                                                    data-wow-delay="0.5s">
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <h3 class="year">Year 2018</h3>
+                            
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>6289</span> Qualified </li>
+                                                                                <li><span>4383</span> CCP</li>
+                                                                                <li><span>1906</span> DLP</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>8</span> in Top 20</li>
+                                                                                <li><span>20</span> in Top 50</li>
+                                                                                <li><span>30</span> in Top 100</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                            
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <hr>
+                                                                            <div>
+                                                                                <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <!-- /box 4-->
+                            
+                                                            <!-- box  5-->
+                                                            <li class="entry entry--right">
+                                                                <div class="entry__content wow animated fadeIn" data-wow-duration="1s"
+                                                                    data-wow-delay="0.5s">
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <h3 class="year">Year 2018</h3>
+                            
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>6289</span> Qualified </li>
+                                                                                <li><span>4383</span> CCP</li>
+                                                                                <li><span>1906</span> DLP</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <ul class="list-unstyled score">
+                                                                                <li><span>8</span> in Top 20</li>
+                                                                                <li><span>20</span> in Top 50</li>
+                                                                                <li><span>30</span> in Top 100</li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                            
+                                                                    <div class="row">
+                                                                        <div class="col-lg-12">
+                                                                            <hr>
+                                                                            <div>
+                                                                                <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <!-- /box 5-->
+
+                            </ul>
                         </div>
-
                     </div>
+                    <!-- /box 1  -->
 
-                    <div class="tab-pane fade" id="returns" role="tabpanel" aria-labelledby="returns-tab">
-                        <h3 class="f_p f_size_22 f_500 t_color3 mb_20">About Admission at ALLEN</h3>
-                        <div id="accordion3">
-                            <div class="card">
-                                <div class="card-header" id="heading10">
-                                    <h5 class="mb-0">
-                                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse10"
-                                            aria-expanded="true" aria-controls="collapse10">
-                                            How do I repair an item? <i class="fa fa-angle-down"></i><i
-                                                class="fa fa-angle-up"></i>
-                                        </button>
-                                    </h5>
-                                </div>
-
-                                <div id="collapse10" class="collapse show" aria-labelledby="heading10"
-                                    data-parent="#accordion3">
-                                    <div class="card-body">
-                                        Why I say old chap that is spiffing pukka, bamboozled wind up bugger buggered
-                                        zonked hanky panky a blinding shot the little rotter, bubble and squeak vagabond
-                                        cheeky bugger at public school pardon you bloke the BBC. Tickety-boo Elizabeth
-                                        plastered matie.!
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="heading11">
-                                    <h5 class="mb-0">
-                                        <button class="btn btn-link collapsed" data-toggle="collapse"
-                                            data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            Where can I find instructions on how to use my watch?
-                                            <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
-                                        </button>
-                                    </h5>
-                                </div>
-                                <div id="collapse11" class="collapse" aria-labelledby="heading11"
-                                    data-parent="#accordion3">
-                                    <div class="card-body">
-                                        Why I say old chap that is spiffing pukka, bamboozled wind up bugger buggered
-                                        zonked hanky panky a blinding shot the little rotter, bubble and squeak vagabond
-                                        cheeky bugger at public school pardon you bloke the BBC. Tickety-boo Elizabeth
-                                        plastered matie.!
-                                    </div>
-                                </div>
-                            </div>
-
+                    <!-- box 1  -->
+                    <!-- <div class="result_show_container p-3 ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <h3 class="year">Year 2018</h3>
+                            
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <ul class="list-unstyled score row">
+                                <li class="col-lg-3"><span>8</span> in Top 20</li>
+                                <li class="col-lg-3"><span>20</span> in Top 50</liclass="col-lg-12">
+                                <li class="col-lg-3"><span>30</span> in Top 100</li>
+                                <li class="col-lg-3"></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <hr>
+                            <div>
+                                <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                    <!-- /box 1  -->
+
+                    <!-- box 1  -->
+                    <!-- <div class="result_show_container p-3 ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <h3 class="year">Year 2018</h3>
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <ul class="list-unstyled score row">
+                                <li class="col-lg-3"><span>8</span> in Top 20</li>
+                                <li class="col-lg-3"><span>20</span> in Top 50</liclass="col-lg-12">
+                                <li class="col-lg-3"><span>30</span> in Top 100</li>
+                                <li class="col-lg-3"></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <hr>
+                            <div>
+                                <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                    <!-- /box 1  -->
 
 
                 </div>
             </div>
         </div>
-    </div>
 </section>
 
 

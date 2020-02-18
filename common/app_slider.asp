@@ -24,7 +24,10 @@
                         </div>
                     </div>
                     <div class="col-lg-5 offset-lg-1 wow fadeInRight">
-                        <img class="protype_img img-fluid " src="/assets/img/appshow/alleninfo.png" alt="">
+                        <div class="app-animation">
+                            <img class="p_one protype_img " src="/assets/img/appshow/infoallen/tablet.png" alt="">
+                            <img class="p_two protype_img " src="/assets/img/appshow/infoallen/mobile.png" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -52,7 +55,10 @@
 
                     </div>
                     <div class="col-lg-5 offset-lg-1 wow fadeInRight">
-                        <img class="protype_img img-fluid " src="/assets/img/appshow/alleninfo.png" alt="">
+                        <div class="app-animation">
+                            <img class="p_one protype_img " src="/assets/img/appshow/infoallen/tablet.png" alt="">
+                            <img class="p_two protype_img " src="/assets/img/appshow/infoallen/mobile.png" alt="">
+                        </div>
                     </div>
                 </div>
             </div>

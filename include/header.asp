@@ -83,7 +83,7 @@
                                 <div class="col-lg-8 col-sm-12 fullwd320">
                                     <ul class="header_contact_info list-unstyled">
                                         <li><a href="#" data-toggle="modal"  data-target="#exampleModalCenter2"><i class="fa fa-globe"></i> Session 2018-19</a></li>
-                                        <li><a href="#"><i class="fa fa-building"></i> Back to Gateway </a></li>
+                                        <li><a href="/"><i class="fa fa-building"></i> Select Center </a></li>
                                     </ul>
                                 </div>
                                 <div class="col-lg-4 col-sm-12 fullwd320">
@@ -110,7 +110,7 @@
                             <span class="hamburger-cross"><span></span><span></span></span>
                         </span>
                     </button>
-                    <a class="navbar-brand" href="/"><img src="/assets/img/logo.png" class="img-fluid" alt="logo"></a>
+                    <a class="navbar-brand" href="/home.asp"><img src="/assets/img/logo.png" class="img-fluid" alt="logo"></a>
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
                         <ul class="navbar-nav menu w_menu ml-auto mr-auto">
@@ -162,7 +162,7 @@
                                 <ul role="menu" class=" dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="/admission/how-to-apply.asp">How to Apply for APPLICATION FORM</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">Apply Online</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/admission/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/admission/fee-deposition-modes.asp">Fee Deposition Modes</a></li>
                                     <li class="nav-item"><a class="nav-link"  href="/admission/scholarship-rules.asp">Scholarship Rules</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/admission/refund-rules.asp"> Refund Rules</a></li>
@@ -173,7 +173,7 @@
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
                                     aria-haspopup="true" aria-expanded="false" href="#"> ASAT Details</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="#">ALLEN Scholarship Admission Test (ASAT)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">ASAT Result</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">ASAT Admit Card</a></li>
                                 </ul>

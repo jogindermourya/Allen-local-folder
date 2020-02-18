@@ -108,35 +108,35 @@
                         <tbody>
                            <tr>
                               <td>NURTURE (X to XI Moving) </td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Nurture.pdf" target="_blank">Sample Paper</a></td>
+                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Nurture.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>ENTHUSIAST ( XI to XII Moving )</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Enthuse.pdf" target="_blank">Sample Paper</a></td>
+                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Enthuse.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>LEADER ( XII PASSED &amp; APPEARED )</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Leader.pdf" target="_blank">Sample Paper</a></td>
+                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Leader.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class VI</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VI.pdf" target="_blank">Sample Paper</a></td>
+                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VI.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class VII</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VII.pdf" target="_blank">Sample Paper</a></td>
+                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VII.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class VIII</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VIII.pdf" target="_blank">Sample Paper</a></td>
+                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VIII.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class IX</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-IX.pdf" target="_blank">Sample Paper</a></td>
+                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-IX.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class X</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-X.pdf" target="_blank">Sample Paper</a></td>
+                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-X.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                         </tbody>
                      </table>
@@ -186,7 +186,7 @@
                </div>
             </div>
             <div class="row mb-3 mt-3">
-               <div class="col-lg-12 mb-lg-4">
+               <div class="col-lg-12 ">
                   <h3 class="subhed-in mt-2 mb-4">ASAT Result</h3>
                   <p>ASAT ResuIt will be available within a week on our website www.allen.ac.in &amp; successful candidates will be informed by SMS on registered Mobile No. as filled in Application Form.</p>
                </div>

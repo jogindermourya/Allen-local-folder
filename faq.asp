@@ -42,23 +42,23 @@
                 </div>
             </div>
             <div class="col-lg-9">
-                <div class="tab-content faq_content" id="myTabContent">
-                    <div class="tab-pane fade show active" id="purchas" role="tabpanel" aria-labelledby="purchas-tab">
+                <div class="tab-content faq_content" id="myTabContent2">
 
+                    <div class="tab-pane fade show active" id="purchas" role="tabpanel" aria-labelledby="purchas-tab">
                         <h3 class="f_p f_size_22 f_500 t_color3 mb_20"> About ALLEN </h3>
-                        <div id="accordion">
+                        <div id="accordion88">
                             <div class="card">
-                                <div class="card-header" id="headingOne">
+                                <div class="card-header" id="heading88">
                                     <h5 class="mb-0">
-                                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
-                                            aria-expanded="true" aria-controls="collapseOne">
+                                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse88"
+                                            aria-expanded="true" aria-controls="collapse88">
                                             Why ALLEN? <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
                                         </button>
                                     </h5>
                                 </div>
 
-                                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
-                                    data-parent="#accordion">
+                                <div id="collapse88" class="collapse show" aria-labelledby="heading88"
+                                    data-parent="#accordion88">
                                     <div class="card-body">
                                         We work on 6 key points; Excellence in academics, Aptitude, Skills, Competitive
                                         exams, Language proficiency, Cultivating Indian values. And these points will
@@ -68,11 +68,11 @@
                             </div>
 
                             <div class="card">
-                                <div class="card-header" id="headingTwo">
+                                <div class="card-header" id="heading99">
                                     <h5 class="mb-0">
                                         <button class="btn btn-link collapsed" data-toggle="collapse"
-                                            data-target="#collapseTwo" aria-expanded="false"
-                                            aria-controls="collapseTwo">
+                                            data-target="#collapse99" aria-expanded="false"
+                                            aria-controls="collapse99">
                                             Till today my ward has studied on his own and secured highest aggregate, why
                                             should she/he join ALLEN?
                                             <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
@@ -80,8 +80,8 @@
                                         </button>
                                     </h5>
                                 </div>
-                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
-                                    data-parent="#accordion">
+                                <div id="collapse99" class="collapse" aria-labelledby="heading99"
+                                    data-parent="#accordion88">
                                     <div class="card-body">
                                         Why I say old chap that is spiffing pukka, bamboozled wind up bugger buggered
                                         zonked hanky panky a blinding shot the little rotter, bubble and squeak vagabond
@@ -140,9 +140,29 @@
                                 </div>
                             </div>
 
-                        </div>
-                    </div>
+                            <div class="card">
+                                <div class="card-header" id="heading12">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                                            data-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                                            Where can I find instructions on how to use my watch?
+                                            <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div id="collapse12" class="collapse" aria-labelledby="heading12"
+                                    data-parent="#accordion3">
+                                    <div class="card-body">
+                                        Why I say old chap that is spiffing pukka, bamboozled wind up bugger buggered
+                                        zonked hanky panky a blinding shot the little rotter, bubble and squeak vagabond
+                                        cheeky bugger at public school pardon you bloke the BBC. Tickety-boo Elizabeth
+                                        plastered matie.!
+                                    </div>
+                                </div>
+                            </div>
 
+                        </div>
+                    </div> 
 
                 </div>
             </div>

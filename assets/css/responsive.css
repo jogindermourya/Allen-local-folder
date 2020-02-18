@@ -1282,11 +1282,13 @@
     }
 }
 
+
+
 /* Ipad 1024px landscape */
 @media (max-width:1024px){
     .menu > .nav-item {padding-bottom: 20px; padding-top: 20px; margin-left: 15px!important; margin-right: 15px;}
     .menu > .nav-item > .nav-link {font-size: 14px;}
-    .slider_area{margin-top: 75px;}
+    .slider_area{margin-top: 94px;}
     .homeslider-wraper {min-height: auto; margin-bottom: 130px;}
     .counter_area{padding:40px 0}
     .s_subscribe_area{padding: 40px 0;}
@@ -2753,7 +2755,7 @@
     .onlineenqury_btn{margin-top: 14px;}
     .slider_content{display: none;}
     .homeslider-wraper .owl-dots{width: 100%;}
-    .slider_area{margin-top: 87px;}
+    .slider_area{margin-top: 95px;}
     .imglu{display: none;}
     .latestInfo .developer_product_content .develor_tab .nav-item{margin: 0px 11%;}
     .courses_area {background: transparent;}
@@ -2791,14 +2793,14 @@
     .footer_top_two .f_widget {margin-bottom: 0px;}
     .appshow_carousel{margin: 0;}
 
+    .hdmrb {margin-bottom: 1.5rem;}
+
     /* Mobile Footer */
     .desktop-footer{display: none;}
     .mobile-footer{display: block;}
     .footer_area_two .footer_top_two {padding: 25px 0;}
-    .faq_content .tab-pane .card .card-header .btn{font: 500 16px/22px "Roboto", sans-serif; margin-bottom: 5px;}
+    .faq_content .tab-pane .card .card-header .btn{font: 500 16px/22px "Roboto", sans-serif; }
    
-
-
 
 /* Top Menu on mobile */
     .allen-header .header_contact_info li a { color: #000 !important; display: block;  padding: 7px; border-bottom: 1px solid #ececec;}
@@ -2827,6 +2829,16 @@
     .extra .arrow:before{display: none;}
     .hide{display: none;}
 
+    /* Getaway Slider */
+    .bg-gateway .owl-carousel{width: 100% !important;left: 0%!important;}
+    .app-animation{display:none;}
+    
+    /* center search */
+    .center-row {margin-right: -5px;margin-left: -5px; overflow: auto;height: 250px; overflow: hidden; overflow-y: scroll; }
+    .center_item{min-height: auto;}
+    
+  
+    
 
 
 
@@ -3629,6 +3641,7 @@
 
     .onlineenqury_btn { margin-top: 14%; font-size: 12px; line-height: 24px; padding: 2px 12px;}
     .homeslider-wraper { margin-bottom: 60px;}
+    .slider_area{margin-top: 86px;}
     .mainhd-section .circle { width: 40px; height: 40px;left: -10px;}
     .latestInfo .latico{display: none;}
     .latestInfo .developer_product_content .develor_tab{white-space: nowrap; overflow: auto;overflow-y: hidden;}
@@ -3653,8 +3666,9 @@
 
     .extra .toast {min-width: 100%;max-width: 100%; position: static; display: block;overflow: visible; opacity: 1;}
     .hide{display: none;}
-
-
+    .gateway_notification .phoneinput.suscrb .green_btn{display: none;}
+    .gateway-tab li a {font-size: 13px;}
+    .faq_content .tab-pane .card .card-header .btn {font: 500 14px/22px "Roboto", sans-serif; }   
 
 }
 
