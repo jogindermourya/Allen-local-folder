@@ -254,7 +254,7 @@
         padding-top: 8px;
     }
     .text_box textarea {
-        height: 140px;
+        /* height: 140px; */
     }
     .ms-left .ms-section.section_2 .split_banner .app_img {
         margin-top: 50px;
@@ -1296,6 +1296,15 @@
     .latestInfo .developer_product_content .develor_tab .nav-item { margin: 0px 12%;}
     .latestInfo .developer_product_content .develor_tab::after{display: none;}
     .price_tab .nav-item { margin: 0px 15px;}
+    /* Course page */
+    .header_coures .hide{display: none;}
+    .header_coures ul {text-align: center;}
+    .header_coures li{width: 42%;}
+    .menu_course_wrp.fixed {top: 78px;}
+    .menu_course_wrp .navbar a {padding: 18px 30px;}
+
+
+
 
 }
 
@@ -1655,9 +1664,7 @@
     .shopping_cart_area .cart_btn{
         padding: 15px 22px;
     }
-    .sign_info .login_info{
-        margin-top: 50px;
-    }
+   
     .sec_title p br{
         display: none;
     }
@@ -2838,8 +2845,10 @@
     .center_item{min-height: auto;}
     
   
-    
-
+    /* Course page */
+    .header_coures li {width: 42%; }
+    .menu_course_wrp.fixed {top: 60px;}
+    .menu_course_wrp .navbar a {padding: 18px 30px;}
 
 
 
@@ -3024,9 +3033,7 @@
     .single_product_item .single_pr_details{
         padding-top: 30px;
     }
-    .sign_info {
-        padding: 50px 30px;
-    }
+   
     .s_promo_info .promo_item{
         opacity: 1;
         left: 0;
@@ -3669,6 +3676,24 @@
     .gateway_notification .phoneinput.suscrb .green_btn{display: none;}
     .gateway-tab li a {font-size: 13px;}
     .faq_content .tab-pane .card .card-header .btn {font: 500 14px/22px "Roboto", sans-serif; }   
+    .sign_info{border: 5px; display: block;}
+    .hed_form{ margin-bottom: 20px;}
+
+    .menu_course_wrp.fixed {top: 50px;}
+
+    .header_coures{margin: 30px 0;}
+    .header_coures li {width: 100%;margin-bottom: 20px; margin-right: 0;margin-left: 0;}
+    .header_coures li:nth-last-of-type(2) { margin-bottom: 20px; }
+
+    .bricurm .blue_btn {float: none;}
+    .bricurm {text-align: center;}
+    .cours_content_wrp .cover_box h3{ font-size: 22px;}
+    .header_coures ul {margin-top: 25px;padding-top: 8px; overflow-y: auto;height:220px;overflow-x: hidden; text-align: center;}
+
+    .get_asstance_wrper{padding: 20px 0;}
+    .get_asstance_wrper .form-inline [class*="col-"] {padding-right: 15px;padding-left: 15px;}
+    .get_asstance_wrper .form-inline .onlineenqury_btn  {margin-top: 0;}
+
 
 }
 
@@ -5089,9 +5114,7 @@
     .product_info_details .pr_tab .nav-item{
         float: none;
     }
-    .sign_info {
-        padding: 30px 15px;
-    }
+    
     .text_box input[type="text"], .text_box textarea, .text_box input[type="password"]{
         padding-left: 10px;
     }
@@ -5285,5 +5308,7 @@
 .popupbtn { padding: 6px 16px; font-size: 13px;}
 .slider_area {margin-top: 80px;}
 .breadcrumb_area {padding: 81px 0px 0;}
+.header_coures{display: none;}
+.menu_course_wrp.fixed { top:45px;}
 
 }

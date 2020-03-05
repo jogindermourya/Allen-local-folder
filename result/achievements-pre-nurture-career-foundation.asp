@@ -1,6 +1,6 @@
-<!--Header-->
+
 <!-- #Include virtual="include/header.asp" -->
-<!--/Header-->
+
 
 <!-- Breadcrumb Section -->
 <section class="breadcrumb_area">
@@ -31,7 +31,7 @@
             </div>
 
             <div class="col-lg-9">
-                <div class="innerbox">
+                <div class="innerbox light-bg">
                     <div class="headinginn">
                         <h3>International Olympiad Mentored by HBCSE (Stages of Official International Olympaid)</h3>
                     </div>

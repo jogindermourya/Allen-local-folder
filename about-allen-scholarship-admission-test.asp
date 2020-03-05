@@ -1,6 +1,6 @@
-<!--Header-->
+
 <!-- #Include virtual="include/header.asp" -->
-<!--/Header-->
+
 <link rel="stylesheet" href="/assets/vendors/data-table/css/datatables.min.css">
 <!-- Breadcrumb Section -->
 <section class="breadcrumb_area">
@@ -108,35 +108,35 @@
                         <tbody>
                            <tr>
                               <td>NURTURE (X to XI Moving) </td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Nurture.pdf" target="_blank"><b>Sample Paper</b></a></td>
+                              <td><a href="#" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>ENTHUSIAST ( XI to XII Moving )</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Enthuse.pdf" target="_blank"><b>Sample Paper</b></a></td>
+                              <td><a href="#" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>LEADER ( XII PASSED &amp; APPEARED )</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Leader.pdf" target="_blank"><b>Sample Paper</b></a></td>
+                              <td><a href="#" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class VI</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VI.pdf" target="_blank"><b>Sample Paper</b></a></td>
+                              <td><a href="#" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class VII</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VII.pdf" target="_blank"><b>Sample Paper</b></a></td>
+                              <td><a href="#" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class VIII</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-VIII.pdf" target="_blank"><b>Sample Paper</b></a></td>
+                              <td><a href="#" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class IX</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-IX.pdf" target="_blank"><b>Sample Paper</b></a></td>
+                              <td><a href="#" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                            <tr>
                               <td>Class X</td>
-                              <td><a href="/asat-sample-papers/Sample-Paper-ASAT-X.pdf" target="_blank"><b>Sample Paper</b></a></td>
+                              <td><a href="#" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
                         </tbody>
                      </table>

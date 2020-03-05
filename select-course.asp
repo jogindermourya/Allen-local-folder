@@ -284,13 +284,13 @@
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <a href="/home.asp" class="item_course">
                             <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/1.png" alt=""></div>
-                            <h5 class="col-lg-12">VISIT WEBSITE <span class="subtitle">For Class XI, XII & XII Passed</span></h5>
+                            <h5 class="col-lg-12">For Class XI, XII & XII Passed <span class="subtitle">VISIT WEBSITE </span></h5>
                         </a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <a href="#" class="item_course">
                             <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/2.png" alt=""></div>
-                            <h5 class="col-lg-12">VISIT WEBSITE <span class="subtitle">For PNCF Class VI to X</span></h5>
+                            <h5 class="col-lg-12">For PNCF Class VI to X <span class="subtitle">VISIT WEBSITE </span></h5>
                         </a>
                     </div>
                 </div>

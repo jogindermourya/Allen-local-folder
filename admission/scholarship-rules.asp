@@ -1,6 +1,6 @@
-<!--Header-->
+
 <!-- #Include virtual="include/header.asp" -->
-<!--/Header-->
+
 
 <link rel="stylesheet" href="/assets/vendors/data-table/css/datatables.min.css">
 

@@ -60,13 +60,12 @@
 
     <!-- light box -->
     <link href="/assets/vendors/lightbox/css/lightgallery.min.css" rel="stylesheet">
-	
-
-
+	   
 
 </head>
 
 <body>
+    
     <!-- Header Section -->
         <header class="header_area header_area_six">
            
@@ -126,6 +125,7 @@
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/sanskar-mahotsav.asp">ALLEN Sanskar Mahotsav</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/toppers-talk.asp">Topper's Talk Show</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/allen-world-records.asp">ALLEN World Records</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/allen-student-welfare-society.asp">ASWS</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu mega_menu position-relative">
@@ -136,22 +136,22 @@
                                         <li class="nav-item">
                                             <h6 class="menu-hed-course">Classroom Courses</h6>
                                             <ul class="dropdown-menu">
-                                                <li class="nav-item"><a class="nav-link" href="#">JEE (Main)</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="#">JEE (Main+Advanced)</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="#">Pre-Medical</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="/courses/jee-main-coaching.asp">JEE (Main)</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="/courses/iit-jee-main-Advanced-coaching.asp">JEE (Main+Advanced)</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="/courses/neet-ug-aiims-coaching.asp">Pre-Medical</a></li>
                                                 <li class="nav-item"><a class="nav-link" href="#">Pre-nurture & Career Foundation</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="#">Intellibrain (HKG To V)</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="#">AGSD</a></li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://theintellibrain.com/">Intellibrain (HKG To V)</a></li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.allen.ac.in/globalstudies/">Global Studies</a></li>
                                             </ul>
                                         </li>
                                         <li class="nav-item">
                                             <h6 class="menu-hed-course">DLP/E-Learning</h6>
                                             <ul class="dropdown-menu">
-                                                <li class="nav-item"><a class="nav-link" href="#">Distance Learning Programme </a></li>
-                                                <li class="nav-item"><a class="nav-link" href="#">Online Test Series</a> </li>
-                                                <li class="nav-item"><a class="nav-link" href="#">Allen Tab</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="#">GATE Online Test Series</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="#">Pre-PG Online Test Series</a></li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://dlp.allen.ac.in/">Distance Learning Programme </a></li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.onlinetestseries.in/allenkota/">Online Test Series</a> </li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://tab.allen.ac.in/">Allen Tab</a></li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.gate.onlinetestseries.in/">GATE Online Test Series</a></li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.prepg.onlinetestseries.in/">Pre-PG Online Test Series</a></li>
                                             </ul>
                                         </li>
                                     </ul>

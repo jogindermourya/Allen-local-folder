@@ -2,7 +2,6 @@
 
 //Meta tags for all pages
 
-
 // "use strict"; 
 
 $(document).ready(function () {

@@ -12,7 +12,7 @@
                             <span class="appsubtxt">It’s Free to Download For Everyone.</span>
                             <p class="f_400 l_height28 mb_20 ">ALLEN Career Institute, India’s biggest coaching
                                 institute, brings to you an App MyKlips, which is the most comprehensive and
-                                amazing collection of the articles of your interest clipped...<a href="#"> Read More</a>
+                                amazing collection of the articles of your interest clipped...<a href="/apps_show/allen_info.asp"> Read More</a>
                             </p>
                             <form method="post">
                                 <div class="input-group phoneinput">

@@ -1,7 +1,7 @@
-<!--Header-->
+
 <!-- #Include virtual="include/header.asp" -->
-<!--/Header-->
-<link rel="stylesheet" href="/assets/vendors/data-table/css/datatables.min.css">
+
+
 <!-- Breadcrumb Section -->
 <section class="breadcrumb_area">
    <img class="breadcrumb_shap" src="/assets/img/aboutus/innerbghead.png" alt="">

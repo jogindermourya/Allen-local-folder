@@ -503,7 +503,7 @@
 
 
 <!-- Optional JavaScript -->
-<script src="/assets/js/jquery-3.2.1.min.js"></script>
+<script src="/assets/js/jquery-3.4.1.min.js"></script>
 <script src="/assets/js/propper.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 <script src="/assets/js/metatags.js"></script>
@@ -511,15 +511,18 @@
 <script src="/assets/vendors/wow/wow.min.js"></script>
 <script src="/assets/vendors/owl-carousel/owl.carousel.min.js"></script>
 <script src="/assets/vendors/scroll/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/assets/js/jquery.nav.js"></script>
 <script src="/assets/js/main.js"></script>
 <script src="/assets/vendors/data-table/js/datatables.min.js"></script>
 <script src="/assets/vendors/lightbox/js/lightgallery-all.min.js"></script>
+
+
 <script src="/assets/js/js/conditional-js/method.js"></script>
 
 <script type="text/javascript">
 	$(document).ready(function () {
 		var images = latest_slider.concat(kota_main_slider);
-		allenslider(images, $);
+		// allenslider(images, $);
 	});
 </script>
 <script src="/assets/js/js/conditional-js/notification.js"></script>

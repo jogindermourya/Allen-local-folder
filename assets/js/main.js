@@ -11,8 +11,12 @@
                 var scroll = $(window).scrollTop();
                 if (scroll) {
                     $(".header_area").addClass("navbar_fixed");
+
+
                 } else {
                     $(".header_area").removeClass("navbar_fixed");
+
+
                 }
             });
         };
@@ -40,6 +44,8 @@
     });
 
 
+
+
     /*------------------------------------------------------------------------------- 
     onload Notification banner
     -----------------------------------------------------------------------------*/
@@ -47,36 +53,36 @@
         // $('#notificationbanner').modal('show');
     });
 
-    
-
- /*------------------------------------------------------------------------------- 
-    Top of the page scrolling button
-    -----------------------------------------------------------------------------*/
-$(document).ready(function(){
-    $(window).scroll(function () {
-           if ($(this).scrollTop() > 50) {
-               $('#back-to-top').fadeIn();
-           } else {
-               $('#back-to-top').fadeOut();
-           }
-       });
-       // scroll body to 0px on click
-       $('#back-to-top').click(function () {
-           $('#back-to-top').tooltip('hide');
-           $('body,html').animate({
-               scrollTop: 0
-           }, 800);
-           return false;
-       });
-       
-       $('#back-to-top').tooltip('show');
-
-});
 
 
-     /*-------------------------------------------------------------------------------
-	  mCustomScrollbar js
-	-------------------------------------------------------------------------------*/
+    /*------------------------------------------------------------------------------- 
+       Top of the page scrolling button
+       -----------------------------------------------------------------------------*/
+    $(document).ready(function () {
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 50) {
+                $('#back-to-top').fadeIn();
+            } else {
+                $('#back-to-top').fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        $('#back-to-top').click(function () {
+            $('#back-to-top').tooltip('hide');
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+
+        //    $('#back-to-top').tooltip('show');
+
+    });
+
+
+    /*-------------------------------------------------------------------------------
+     mCustomScrollbar js
+   -------------------------------------------------------------------------------*/
     $(window).on("load", function () {
         if ($('.mega_menu_two .scroll').length) {
             $(".mega_menu_two .scroll").mCustomScrollbar({
@@ -116,14 +122,14 @@ $(document).ready(function(){
                     0: {
                         items: 1,
                         stagePadding: 0,
-                        
+
                     },
-                   
+
                     768: {
                         items: 3,
                         stagePadding: 0,
                         margin: 15
-                    
+
                     },
                     992: {
                         items: 4,
@@ -147,14 +153,14 @@ $(document).ready(function(){
             appshow_slider.owlCarousel({
                 loop: true,
                 margin: 30,
-                items:1,
+                items: 1,
                 autoplay: false,
                 smartSpeed: 1000,
                 responsiveClass: true,
                 nav: true,
                 dots: false,
                 navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right "></i>'],
-                 responsive: {
+                responsive: {
                     0: {
                         items: 1,
                         stagePadding: 0,
@@ -191,7 +197,7 @@ $(document).ready(function(){
                 responsiveClass: true,
                 nav: false,
                 dots: true,
-                autoplayHoverPause:true,
+                autoplayHoverPause: true,
                 responsive: {
                     0: {
                         items: 1
@@ -211,48 +217,48 @@ $(document).ready(function(){
     }
 
 
-appScreenshotHomeslider();
+    appScreenshotHomeslider();
 
 
- // Gateway Home slider
+    // Gateway Home slider
 
- function appScreenshotGatewaySlider() {
-    var app_screenshotGatewaySlider = $(".gatewaySlider");
-    if (app_screenshotGatewaySlider.length) {
-        app_screenshotGatewaySlider.owlCarousel({
-            loop: true,
-            // rtl:true,
-            margin: 10,
-            items: 3,
-            autoplay: true,
-            smartSpeed: 450,
-            responsiveClass: true,
-            nav: true,
-            dots: false,
-            autoplayHoverPause:true,
-            responsive: {
-                0: {
-                    items: 1,
-                    nav: false
-                },
-                650: {
-                    items: 1,
-                    nav: false
+    function appScreenshotGatewaySlider() {
+        var app_screenshotGatewaySlider = $(".gatewaySlider");
+        if (app_screenshotGatewaySlider.length) {
+            app_screenshotGatewaySlider.owlCarousel({
+                loop: true,
+                // rtl:true,
+                margin: 10,
+                items: 3,
+                autoplay: true,
+                smartSpeed: 450,
+                responsiveClass: true,
+                nav: true,
+                dots: false,
+                autoplayHoverPause: true,
+                responsive: {
+                    0: {
+                        items: 1,
+                        nav: false
+                    },
+                    650: {
+                        items: 1,
+                        nav: false
 
+                    },
+                    776: {
+                        items: 3,
+                    },
+                    1199: {
+                        items: 3,
+                    },
                 },
-                776: {
-                    items: 3,
-                },
-                1199: {
-                    items: 3,
-                },
-            },
-        })
+            })
+        }
     }
-}
 
 
-appScreenshotGatewaySlider();
+    appScreenshotGatewaySlider();
 
 
     // result top slider
@@ -270,7 +276,7 @@ appScreenshotGatewaySlider();
                 responsiveClass: true,
                 nav: false,
                 dots: true,
-                autoplayHoverPause:true,
+                autoplayHoverPause: true,
                 responsive: {
                     0: {
                         items: 1
@@ -294,41 +300,61 @@ appScreenshotGatewaySlider();
 
 
 
- /*---------------------------------------------------------------------------------- 
-  event slider----------------------------------------------------------------*/
-  function eventSlider() {
-    var event_slider = $(".event_carousel");
-    if (event_slider.length) {
-        event_slider.owlCarousel({
-            loop: false,
-            margin: 5,
-            items: 4,
-            autoplay: false,
-            smartSpeed: 1000,
-            responsiveClass: true,
-            nav: false,
-            dots: true,
-             responsive: {
-                0: {
-                    items: 1,
-                    stagePadding: 0,
+    /*---------------------------------------------------------------------------------- 
+     event slider----------------------------------------------------------------*/
+    function eventSlider() {
+        var event_slider = $(".event_carousel");
+        if (event_slider.length) {
+            event_slider.owlCarousel({
+                loop: false,
+                margin: 5,
+                items: 4,
+                autoplay: false,
+                smartSpeed: 1000,
+                responsiveClass: true,
+                nav: false,
+                dots: true,
+                responsive: {
+                    0: {
+                        items: 1,
+                        stagePadding: 0,
+                    },
+                    578: {
+                        items: 2,
+                        stagePadding: 0,
+                    },
+                    992: {
+                        items: 3,
+                        stagePadding: 0,
+                    },
+                    1200: {
+                        items: 4,
+                    }
                 },
-                578: {
-                    items: 2,
-                    stagePadding: 0,
-                },
-                992: {
-                    items: 3,
-                    stagePadding: 0,
-                },
-                1200: {
-                    items: 4,
-                }
-            },
-        })
+            })
+        }
     }
-}
-eventSlider();
+    eventSlider();
+
+
+    /*-------------------------- ASWS Testimonials silder-------------------------*/
+
+    function app_testimonialSlider() {
+        var app_testimonialSlider = $(".app_testimonial_slider");
+        if (app_testimonialSlider.length) {
+            app_testimonialSlider.owlCarousel({
+                loop: true,
+                margin: 10,
+                items: 1,
+                autoplay: true,
+                smartSpeed: 2000,
+                nav: false,
+                dot: true
+               
+            })
+        }
+    }
+    app_testimonialSlider();
 
 
 
@@ -339,7 +365,7 @@ eventSlider();
         $('.selectpickers').niceSelect();
     }
 
-   
+
 
 
 
@@ -368,7 +394,7 @@ eventSlider();
     if ($('[data-toggle="tooltip"]').length) {
         $('[data-toggle="tooltip"]').tooltip()
     }
-   
+
     /*-------------------------------------------------------------------------------
 	  search js
 	-------------------------------------------------------------------------------*/
@@ -467,81 +493,60 @@ $('.counter-count').each(function () {
 
 //CENTERS SEARCH OPTION
 
-function search_animal() { 
-let input = document.getElementById('searchbar').value; 
-input=input.toLowerCase(); 
-let x = document.getElementsByClassName('centers'); 
+function search_animal() {
+    let input = document.getElementById('searchbar').value;
+    input = input.toLowerCase();
+    let x = document.getElementsByClassName('centers');
 
-for (i = 0; i < x.length; i++) {  
-    if (!x[i].innerHTML.toLowerCase().includes(input)) { 
-        x[i].style.display="none"; 
-    } 
-    else { 
-        x[i].style.display="block";       
-    } 
-} 
-} 		
-
-//function myFunction() {
-//    var input, filter, ul, li, a, i, txtValue;
-//    input = document.getElementById("myInput");
-//    filter = input.value.toUpperCase();
-//    ul = document.getElementById("myUL");
-//    li = ul.getElementsByTagName("li");
-//    for (i = 0; i < li.length; i++) {
-//        a = li[i].getElementsByTagName("a")[0];
-//        txtValue = a.textContent || a.innerText;
-//        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-//            li[i].style.display = "";
-//			li[21].style.display = "none";
-//
-//        } else {
-//            li[i].style.display = "none";
-//			li[21].style.display = "";
-//        }
-//    }
-//}
-
-
+    for (i = 0; i < x.length; i++) {
+        if (!x[i].innerHTML.toLowerCase().includes(input)) {
+            x[i].style.display = "none";
+        }
+        else {
+            x[i].style.display = "block";
+        }
+    }
+}
 
 
 // LightBox
-$(document).ready(function(){
+$(document).ready(function () {
     $('#lightgallery').lightGallery();
     $('.lightgallery').lightGallery();
-    
+
 });
 
- /*------------------------------------------------------------------------------- 
-   Data Table for ASAT
-    -----------------------------------------------------------------------------*/
-    $(document).ready(function() {
-        $('#datatable').DataTable();
-    } );
+/*------------------------------------------------------------------------------- 
+  Data Table for ASAT
+   -----------------------------------------------------------------------------*/
+$(document).ready(function () {
+    $('#datatable').DataTable();
+});
 
- /*------------------------------------------------------------------------------- 
-   Menu Active
-    -----------------------------------------------------------------------------*/
-	jQuery(document).ready(function($){
-		$('a[href="' + this.location.pathname + '"]').parents('li,ul').addClass('active');
-		$('ul.navbar-nav li a[href="' + this.location.pathname + '"]').parent().siblings().removeClass('active').end().addClass('active', 'dropdown-menu');
-	});
-
-
- /*------------------------------------------------------------------------------- 
-    Toast 
-    -----------------------------------------------------------------------------*/
-	$(document).ready(function(){  
-        $('.trm, .close').click(function(){  
-         $(".toast").toggleClass("toast-show");  
-     });  
- });  
+/*------------------------------------------------------------------------------- 
+  Menu Active
+   -----------------------------------------------------------------------------*/
+jQuery(document).ready(function ($) {
+    $('a[href="' + this.location.pathname + '"]').parents('li,ul').addClass('active');
+    $('ul.navbar-nav li a[href="' + this.location.pathname + '"]').parent().siblings().removeClass('active').end().addClass('active', 'dropdown-menu');
+});
 
 
- /*------------------------------------------------------------------------------- 
-    form validation 
-    -----------------------------------------------------------------------------*/
- (function () {
+/*------------------------------------------------------------------------------- 
+   Toast 
+   -----------------------------------------------------------------------------*/
+$(document).ready(function () {
+    $('.trm, .close').click(function () {
+        $(".toast").toggleClass("toast-show");
+    });
+
+});
+
+
+/*------------------------------------------------------------------------------- 
+   form validation 
+   -----------------------------------------------------------------------------*/
+(function () {
     'use strict';
     window.addEventListener('load', function () {
         // Fetch all the forms we want to apply custom Bootstrap validation styles to
@@ -558,3 +563,47 @@ $(document).ready(function(){
         });
     }, false);
 })();
+
+
+
+/*----courseNav fixed class add with scrolling function---------*/
+
+function navbarcrsFixed() {
+    if ($('.menu_course_wrp').length) {
+        $(window).scroll(function () {
+            var scroll = $(window).scrollTop();
+            if (scroll >= 496) {
+                $(".menu_course_wrp").addClass("fixed");
+
+            } else {
+                $(".menu_course_wrp").removeClass("fixed");
+
+            }
+        });
+    };
+};
+navbarcrsFixed();
+
+$(document).ready(function () {
+    $('#navscrolling').onePageNav({
+        currentClass: 'active',
+        changeHash: true,
+        scrollSpeed: 800,
+        scrollThreshold: 0.5,
+        filter: '',
+        easing: 'swing',
+        begin: function () {
+            //Hack so you can click other menu items after the initial click
+            // $('.bricurm').css({'margin-top': '20px'}); 
+  
+        },
+        end: function () {
+            // $('.bricurm').css({'margin-top': '0px'}); 
+        },
+        scrollChange: function ($currentListItem) {
+            //I get fired when you enter a section and I pass the list item of the section
+        }
+    });
+});
+
+/*---------------------------------------END----------------------------------------*/

@@ -1,6 +1,6 @@
-<!--Header-->
+
 <!-- #Include virtual="include/header.asp" -->
-<!--/Header-->
+
 
 <!-- Breadcrumb Section -->
 <section class="breadcrumb_area">
@@ -58,7 +58,7 @@
 						</div>
 						<div class="form-group text_box col-md-6">
 							<label class="f_p text_c f_400">How do you come to know about ALLEN?</label>
-							<select class="custom-select text_box f_size_15">
+							<select class="custom-select text_box ">
 								<option selected>Please Select </option>
 								<option value="5">Academic Magazines</option>
 								<option value="2">Ex-Allen Students</option>
