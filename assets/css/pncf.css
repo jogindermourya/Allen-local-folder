@@ -1,0 +1,75 @@
+.slider_area {
+    background-image: -moz-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
+    background-image: -webkit-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
+    background-image: -ms-linear-gradient(40deg,  #639a1af0 0%, #6fac35 90%);
+   
+}
+
+.breadcrumb_area{ background-image: -moz-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
+    background-image: -webkit-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
+    background-image: -ms-linear-gradient(40deg,  #639a1af0 0%, #6fac35 90%);}
+
+.allen-header {background: #64942d;}
+
+/* .menu>.nav-item:hover .nav-link ,  .menu>.nav-item.active .nav-link {color: #64942d;}
+.submenu .nav-item:hover .nav-link , .submenu  .nav-item.active .nav-link {color: #000;}
+.menu>.nav-item>.nav-link:before {background: #64942d;} */
+/* .onlineenqury_btn:hover {border: 2px solid #6cac17;background: #6cac17;}
+.onlineenqury_btn {border: 2px solid #338CDB;background: #338CDB;} */
+
+
+.vdhome_area{background: #f4faff;}
+
+
+.h_security_area {
+    padding: 60px 0px;
+  }
+  
+  .h_security_area .row {
+    margin-bottom: -45px;
+  }
+  
+  .h_security_item {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 15px 0px;
+  }
+  
+  .h_security_item img {
+    margin-right: 40px;
+  }
+  
+  .h_security_item .media-body h4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #2c2c51;
+    line-height: 28px;
+    margin-bottom: 18px;
+  }
+  
+  .h_security_item .media-body p {
+    margin-bottom: 0;
+    color: #7b7b93;
+  }
+
+
+  .center_item_static{text-align: center;border: 1px solid #e8e8e8; border-radius: 4px; display: block; padding: 20px 10px;margin-bottom: 25px; min-height: 60px;}
+  .center_item_static h5{font-size: 16px; color: #666;}
+  .lists-v1 i {
+    color: #fff;
+    width: 15px;
+    height: 15px;
+    padding: 1px;
+    font-size: 13px;
+    margin-right: 7px;
+    text-align: center;
+    background: #72c02c;
+    display: inline-block;
+    border-radius: 50% !important;
+}
+
+.lists-v1 li{margin-bottom: 5px;}
+
+.calender .customtbl tr th{    font-size: 12px; text-align: center;}
+.calender .customtbl tr td{    font-size: 12px;text-align: center;}

@@ -1,6 +1,6 @@
-<!-- Modal SESSION IIT-JEE-ADV -->
-<div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-hidden="true">
-	<div class="modal-dialog pop8" role="document">
+<!-- Modal SESSION PNCF-->
+<div class="modal fade" id="exampleModalCenter3" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog pop4" role="document">
 		<div class="modal-content">
 			<div class="modal-header gp">
 				<button aria-hidden="true" data-dismiss="modal" class="close closebtn2" type="button">×</button>
@@ -8,49 +8,21 @@
 			</div>
 			<div class="modal-body sessionwrpr">
 				<div class="row">
-					<div class="col-xs-6 col-md-4">
-						<h5>JEE (Main+Advanced)-IIT-JEE</h5>
+					<div class="col-xs-12 col-md-12">
+						<h5>Pre-Nurture & Career Foundation</h5>
 						<ul class="list-unstyled">
-							<li> <a
-									href="/2019-20/iit-jee-main-advanced-coaching/jee-main-advanced-teaching-methodology-2019-20.asp">Teaching
-									Methodology</a></li>
-							<li><a
-									href="/2019-20/iit-jee-main-advanced-coaching/courses-for-jee-main-advanced-2019-20.asp">Courses</a>
+							<li> 
+								<a href="/2019-20/iit-jee-main-advanced-coaching/jee-main-advanced-teaching-methodology-2019-20.asp">Teaching Methodology</a></li>
+							<li>
+								<a href="/2019-20/iit-jee-main-advanced-coaching/courses-for-jee-main-advanced-2019-20.asp">Courses</a>
 							</li>
 						</ul>
 					</div>
-					<div class="col-xs-6 col-md-4">
-						<h5>JEE (MAIN)-AIEEE</h5>
-						<ul class="list-unstyled">
-							<li> <a href="/2019-20/jee-main-coaching/jee-main-teaching-methodology-2019-20.asp">Teaching
-									Methodology</a></li>
-							<li> <a href="/2019-20/jee-main-coaching/courses-for-jee-main-2019-20.asp">Courses</a></li>
-						</ul>
-					</div>
+					
 
-					<div class="col-xs-6 col-md-4">
-						<h5>NEET-UG, AIIMS</h5>
-						<ul class="list-unstyled">
-							<li> <a
-									href="/2019-20/neet-ug-aiims-coaching/neet-ug-aiims-teaching-methodology-2019-20.asp">Teaching
-									Methodology</a></li>
-							<li> <a
-									href="/2019-20/neet-ug-aiims-coaching/courses-for-neet-ug-aiims-2019-20.asp">Courses</a>
-							</li>
-						</ul>
-					</div>
+					
 
-					<div class="col-xs-6 col-md-4">
-						<h5>Pre-Nurture &amp; Career Foundation</h5>
-						<ul class="list-unstyled ">
-							<li> <a
-									href="/pncf/kota/2019-20/pre-nurture-career-foundation-coaching/pncf-teaching-methodology-2019-20.asp">Teaching
-									Methodology</a></li>
-							<li> <a
-									href="/pncf/kota/2019-20/pre-nurtute-career-foundation-coaching/courses-for-pncf-2019-20.asp">Courses</a>
-							</li>
-						</ul>
-					</div>
+					
 				</div>
 			</div>
 
@@ -58,8 +30,6 @@
 	</div>
 </div>
 <!-- end -->
-
-
 
 <!-- Modal Online Apply-->
 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-hidden="true">

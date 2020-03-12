@@ -57,6 +57,7 @@
     <!--Custom CSS-->
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="stylesheet" href="/assets/css/responsive.css">
+    <link rel="stylesheet" href="/assets/css/pncf.css">
 
     <!-- light box -->
     <link href="/assets/vendors/lightbox/css/lightgallery.min.css" rel="stylesheet">
@@ -64,8 +65,7 @@
 
 </head>
 
-<body>
-    
+<body>    
     <!-- Header Section -->
         <header class="header_area header_area_six">
            
@@ -81,7 +81,7 @@
                             <div class="navbar-nav navbar-nav-hover align-items-lg-center topmenu row">
                                 <div class="col-lg-8 col-sm-12 fullwd320">
                                     <ul class="header_contact_info list-unstyled">
-                                        <li><a href="#" data-toggle="modal"  data-target="#exampleModalCenter2"><i class="fa fa-globe"></i> Session 2018-19</a></li>
+                                        <li><a href="#" data-toggle="modal"  data-target="#exampleModalCenter3"><i class="fa fa-globe"></i> Session 2018-19</a></li>
                                         <li><a href="/"><i class="fa fa-building"></i> Select Center </a></li>
                                     </ul>
                                 </div>
@@ -109,87 +109,39 @@
                             <span class="hamburger-cross"><span></span><span></span></span>
                         </span>
                     </button>
-                    <a class="navbar-brand" href="/home.asp"><img src="/assets/img/logo.png" class="img-fluid" alt="logo"></a>
+                    <a class="navbar-brand" href="/pncf/kota/"><img src="/pncf/img/pncf_kota.jpg" class="img-fluid" alt="logo"></a>
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
-                        <ul class="navbar-nav menu w_menu ml-auto mr-auto">
-                            <li class="dropdown submenu nav-item" id="home">
-                                <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
-                                    aria-haspopup="true" aria-expanded="false" href="#">About</a>
-                                <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/about-allen.asp">About ALLEN</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/our-inspiration.asp">Our Inspiration</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/directors-message.asp">Directors Message</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/allen-system.asp">ALLEN System</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/lead-with-allen.asp">Lead with ALLEN</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/sanskar-mahotsav.asp">ALLEN Sanskar Mahotsav</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/toppers-talk.asp">Topper's Talk Show</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/allen-world-records.asp">ALLEN World Records</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/aboutus/allen-student-welfare-society.asp">ASWS</a></li>
-                                </ul>
+                        <ul class="navbar-nav menu w_menu ml-auto">
+                      
+                            <li class="nav-item">
+                                <a class="nav-link" href="/pncf/kota/courses/pre-nurture-and-career-foundation-coaching.asp"> Course</a>
                             </li>
-                            <li class="nav-item dropdown submenu mega_menu position-relative">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Course
-                                </a>
-                                <div class="mega_menu_inner coursemenu">
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <h6 class="menu-hed-course">Classroom Courses</h6>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a class="nav-link" href="/courses/jee-main-coaching.asp">JEE (Main)</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="/courses/iit-jee-main-advanced-coaching.asp">JEE (Main+Advanced)</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="/courses/neet-ug-aiims-coaching.asp">Pre-Medical</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="/pncf/kota/">Pre-nurture & Career Foundation</a></li>
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://theintellibrain.com/">Intellibrain (HKG To V)</a></li>
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.allen.ac.in/globalstudies/">Global Studies</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <h6 class="menu-hed-course">DLP/E-Learning</h6>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://dlp.allen.ac.in/">Distance Learning Programme </a></li>
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.onlinetestseries.in/allenkota/">Online Test Series</a> </li>
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://tab.allen.ac.in/">Allen Tab</a></li>
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.gate.onlinetestseries.in/">GATE Online Test Series</a></li>
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.prepg.onlinetestseries.in/">Pre-PG Online Test Series</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
+                            <li class="nav-item">
+                                <a href="http://workshop.allen.ac.in/about/about-workshops.aspx" class="nav-link" target="_blank">ALLEN Workshops</a>
                             </li>
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Admission</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/admission/how-to-apply.asp">How to Apply for APPLICATION FORM</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/how-to-apply.asp">How to Apply for APPLICATION FORM</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">Apply Online</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/admission/fee-deposition-modes.asp">Fee Deposition Modes</a></li>
-                                    <li class="nav-item"><a class="nav-link"  href="/admission/scholarship-rules.asp">Scholarship Rules</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/admission/refund-rules.asp"> Refund Rules</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/admission/allen-kohinoor-hostel.asp">Kohinoor  Hostel Scheme (ACES)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/fee-deposition-modes.asp">Fee Deposition Modes</a></li>
+                                    <li class="nav-item"><a class="nav-link"  href="/pncf/kota/2020-21/scholarship-rules.asp">Scholarship Rules</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/refund-rules.asp"> Refund Rules</a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/allen-kohinoor-hostel.asp">Kohinoor  Hostel Scheme (ACES)</a></li> -->
                                 </ul>
                             </li>
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
-                                    aria-haspopup="true" aria-expanded="false" href="#"> ASAT Details</a>
+                                    aria-haspopup="true" aria-expanded="false" href="#"> ASAT Details</a>   
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">ASAT Result</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">ASAT Admit Card</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown submenu nav-item">
-                                <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Results</a>
-                                <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aipmt.asp">NEET/AIPMT</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aiims.asp">AIIMS</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/cbsex.asp">CBSE Class X</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
-
-                                </ul>
-                            </li>
+                
                             <li class="nav-item dropdown submenu mega_menu">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false"> Fee Deposit
@@ -210,7 +162,7 @@
                                                     <a href="#" class="nav-link"> Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a href="/campus-dunia.asp" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu"
+                                                    <a href="/campus-dunia.asp" target="_blank" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu"
                                                      alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> </a>
                                                </li>
                                             </ul>
@@ -223,7 +175,7 @@
                                                     <a href="#" class="nav-link">Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a href="/campus-dunia.asp" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
+                                                    <a  href="/campus-dunia.asp" target="_blank"  class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
                                                     </a>
                                                 </li>
                                             </ul>
@@ -234,7 +186,7 @@
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Student Zone</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="#">Competitive Exam Calendar</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/pncf/olympiads-competitions-exam-calender.asp">Competitive Exam Calendar</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">All India Open Test (AIOT) : Result 2019-20</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">Periodic Test Results</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#">Attendance of Classroom  Students</a></li>

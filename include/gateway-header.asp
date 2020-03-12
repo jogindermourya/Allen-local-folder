@@ -126,6 +126,7 @@
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/sanskar-mahotsav.asp">ALLEN Sanskar Mahotsav</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/toppers-talk.asp">Topper's Talk Show</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/allen-world-records.asp">ALLEN World Records</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/aboutus/allen-student-welfare-society.asp">ASWS</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="dropdown-toggle nav-link" href="/jobs.asp">Jobs</a></li>

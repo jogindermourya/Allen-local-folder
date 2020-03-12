@@ -34,7 +34,7 @@
                </ul>
             </div>
             <div class="col-lg-2 col-sm-3">
-               <a href="/courses/iit-jee-main-Advanced-coaching-details.asp"
+               <a href="/courses/iit-jee-main-advanced-coaching-details.asp"
                   class=" blue_btn btn_hover d-inline-block">Course Details</a>
             </div>
          </div>

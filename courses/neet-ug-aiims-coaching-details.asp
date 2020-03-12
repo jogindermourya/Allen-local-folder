@@ -56,13 +56,10 @@
             <h3>Course Details</h3>
             <div class="col-md-12">
                <!-- Accordion v1 -->
-               <div class="headline-left margin-bottom-20">
-
-                   <h2 class="headline-brd heading-md">Course <span class="color-green">Details</span></h2>
-               </div>
-               <h4 class="color-red"><strong>NURTURE :  <span class="color-darker"> Two Year Course for Class XI Students</span></strong></h4>
+               
+               <h4 class="color-green"><strong>NURTURE :  <span class="color-darker"> Two Year Course for Class XI Students</span></strong></h4>
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" style="width: 80%;">
+                   <table class="table table-bordered table-striped" >
                        <tbody>
                            <tr>
                                <th colspan="2">Admission Mode</th>
@@ -124,7 +121,7 @@
                </div>
                <h4 class="color-red"><strong>ENTHUSIAST : <span class="color-darker"> One Year Course for Class XII Students (English / Hindi Medium)</span></strong></h4>
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" style="width: 80%;">
+                   <table class="table table-bordered table-striped" >
                        <tbody>
                            <tr>
                                <th colspan="2"><strong>Admission Mode</strong></th>
@@ -172,7 +169,7 @@
                <h4 class="color-red"><strong>LEADER :  <span class="color-darker"> One Year Course for Class XII Passed/Appeared Students (English / Hindi Medium)</span></strong></h4>
 
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" style="width: 80%;">
+                   <table class="table table-bordered table-striped" >
                        <tbody>
                            <tr>
                                <th colspan="2"><strong>Admission Mode</strong></th>

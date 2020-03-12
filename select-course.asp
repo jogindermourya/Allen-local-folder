@@ -288,7 +288,7 @@
                         </a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6">
-                        <a href="#" class="item_course">
+                        <a href="/pncf/kota/default.asp" class="item_course">
                             <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/2.png" alt=""></div>
                             <h5 class="col-lg-12">For PNCF Class VI to X <span class="subtitle">VISIT WEBSITE </span></h5>
                         </a>

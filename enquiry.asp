@@ -12,7 +12,7 @@
 <section class="enquiry sec_pad">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-9 offset-lg-1">
+			<div class="col-lg-9 m-auto">
 				<!-- <div class="success_wrp">	
 					<div class="alert success">
 						<div class="alert_body">

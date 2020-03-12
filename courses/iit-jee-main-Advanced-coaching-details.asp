@@ -40,7 +40,7 @@
            </ul>
         </div>
          <div class="col-lg-2 col-sm-3 ">
-            <a href="/courses/iit-jee-main-Advanced-coaching.asp" class=" blue_btn btn_hover d-inline-block"><i class="fa fa-angle-left f_size_20 mr-1"></i> Back</a>
+            <a href="/courses/iit-jee-main-advanced-coaching.asp" class=" blue_btn btn_hover d-inline-block"><i class="fa fa-angle-left f_size_20 mr-1"></i> Back</a>
          </div>
       </div>
    </div>
@@ -60,9 +60,9 @@
 
                    <h2 class="headline-brd heading-md">Course <span class="color-green">Details</span></h2>
                </div>
-               <h4 class="color-red"><strong>NURTURE :  <span class="color-darker"> Two Year Course for Class XI Students</span></strong></h4>
+               <h4 class="color-green"><strong>NURTURE :  <span class="color-darker"> Two Year Course for Class XI Students</span></strong></h4>
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" style="width: 80%;">
+                   <table class="table table-bordered table-striped" >
                        <tbody>
                            <tr>
                                <th colspan="2">Admission Mode</th>
@@ -122,9 +122,9 @@
                        </tbody>
                    </table>
                </div>
-               <h4 class="color-red"><strong>ENTHUSIAST : <span class="color-darker"> One Year Course for Class XII Students (English / Hindi Medium)</span></strong></h4>
+               <h4 class="color-green"><strong>ENTHUSIAST : <span class="color-darker"> One Year Course for Class XII Students (English / Hindi Medium)</span></strong></h4>
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" style="width: 80%;">
+                   <table class="table table-bordered table-striped">
                        <tbody>
                            <tr>
                                <th colspan="2"><strong>Admission Mode</strong></th>
@@ -169,10 +169,10 @@
                        </tbody>
                    </table>
                </div>
-               <h4 class="color-red"><strong>LEADER :  <span class="color-darker"> One Year Course for Class XII Passed/Appeared Students (English / Hindi Medium)</span></strong></h4>
+               <h4 class="color-green"><strong>LEADER :  <span class="color-darker"> One Year Course for Class XII Passed/Appeared Students (English / Hindi Medium)</span></strong></h4>
 
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" style="width: 80%;">
+                   <table class="table table-bordered table-striped">
                        <tbody>
                            <tr>
                                <th colspan="2"><strong>Admission Mode</strong></th>

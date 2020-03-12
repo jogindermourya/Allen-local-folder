@@ -45,15 +45,18 @@
 
 
 
+	
 
     /*------------------------------------------------------------------------------- 
     onload Notification banner
     -----------------------------------------------------------------------------*/
     $(window).on('load', function () {
         // $('#notificationbanner').modal('show');
+        $('#answerkeyspopup').modal('show');
     });
 
-
+       /*------------------------------------------------------------------------------- 
+  
 
     /*------------------------------------------------------------------------------- 
        Top of the page scrolling button
@@ -574,10 +577,8 @@ function navbarcrsFixed() {
             var scroll = $(window).scrollTop();
             if (scroll >= 496) {
                 $(".menu_course_wrp").addClass("fixed");
-
             } else {
                 $(".menu_course_wrp").removeClass("fixed");
-
             }
         });
     };
