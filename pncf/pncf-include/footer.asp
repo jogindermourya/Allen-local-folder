@@ -39,7 +39,7 @@
 					aria-hidden="true">&times;</span>
 			</button>
 			<div class="modal-body p0">
-				<img src="/assets/img/popupforregsitration.jpg" class="img-fluid" alt="">
+				<img src="/assets/img/popupforregsitration.png" class="img-fluid" alt="">
 			</div>
 			<div class="modal-footer justify-content-center">
 				<a href="/apply-online/login.asp" class="blue_btn btn_hover d-inline-block popupbtn">Apply Online for
@@ -472,8 +472,6 @@
 <a id="back-to-top" href="#" class="btn btn-lg back-to-top"><i class="fa fa-chevron-up"></i></a>
 <!-- END -->
 
-
-
 <!-- Optional JavaScript -->
 <script src="/assets/js/jquery-3.4.1.min.js"></script>
 <script src="/assets/js/propper.js"></script>
@@ -487,7 +485,6 @@
 <script src="/assets/js/main.js"></script>
 <script src="/assets/vendors/data-table/js/datatables.min.js"></script>
 <script src="/assets/vendors/lightbox/js/lightgallery-all.min.js"></script>
-
 
 <script src="/assets/js/js/conditional-js/method.js"></script>
 

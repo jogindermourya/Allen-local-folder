@@ -89,8 +89,12 @@
                                 <div class="col-lg-4 col-sm-12 fullwd320">
                                     <ul class="header_contact_info list-unstyled text-right">
                                         <li>
+                                            <a href="/contactus.asp"> <i class="fa fa-building"></i> Contact</a>
+                                        </li>
+                                        <li>
                                             <a href="/enquiry.asp"> <i class="fa fa-user"></i> Enquiry</a>
                                         </li>
+
                                     </ul>
                                 </div>
                             </div>

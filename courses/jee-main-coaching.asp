@@ -34,7 +34,7 @@
                </ul>
             </div>
             <div class="col-lg-2 col-sm-3">
-               <a href="/courses/iit-jee-main-Advanced-coaching-details.asp"
+               <a href="/courses/jee-main-coaching-details.asp"
                   class=" blue_btn btn_hover d-inline-block">Course Details</a>
             </div>
          </div>
@@ -222,10 +222,10 @@
                      who are known for producing best results year after year. Our meticulously planned courses and
                      well-timed completion of the syllabus renders sufficient.. </p>
                   <div class="table-responsive">
-                     <table class="table table-bordered table-hover  customtbl cetnble">
+                     <table class="table table-bordered table-hover  customtbl2 cetnble">
                         <thead>
                            <tr>
-                              <th><strong>Course</strong></th>
+                              <th class="text-center color-white"><strong>Course</strong></th>
                               <th><strong>Download</strong></th>
                            </tr>
                         </thead>

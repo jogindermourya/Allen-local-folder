@@ -9569,10 +9569,6 @@ margin-top: -7px; */
 }
 
 
-/*====================================================*/
-
-
-/*====================================================*/
 
 
 /*============= portfolio area css ============*/
@@ -10637,7 +10633,7 @@ p span { /* padding: 3px 8px; */}
 .heading_style.regular h1,.heading_style.regular h2,.heading_style.regular h3,.heading_style.regular h4,.heading_style.regular h5,.heading_style.regular h6 {font-weight: 400;}
 .tooltip_p .text-green {color: #49c10e;}
 .tooltip_p .text-red {color: #f0368d;}
-.tooltip>.tooltip-inner {background-color: #f00; color: #fff;}
+.tooltip>.tooltip-inner {background-color: #fff; color: #000;}
 .tooltip>.tooltip-inner .arrow:before {border-bottom-color: red;}
 .drop_text span {float: left; font-size: 54px; color: #2cabed; font-weight: 700; line-height: 50px;}
 .nested {font-size: 16px;color: #627387; line-height: 36px; font-weight: 400;}
@@ -16906,9 +16902,7 @@ font-weight: 500;
 margin-left: 8%;
 }
 
-.pos_developer_product_area {
-background: #fafafc;
-}
+.pos_developer_product_area {background: #fafafc; margin-top: 100px;    padding-bottom: 30px;}
 
 .pos_developer_product_area .tab_img_info {
 z-index: 1;
@@ -17063,7 +17057,7 @@ margin-bottom: 0;
 }
 
 .pos_item+.pos_item {
-margin-top: 150px;
+margin-top: 90px;
 }
 
 .flex-row-reverse .pos_features_content {
@@ -17075,11 +17069,11 @@ padding-top: 50px;
 }
 
 .pos_features_content h2 {
-font-size: 34px;
-color: #2c2c51;
+font-size: 30px;
+color: #000;
 line-height: 44px;
 font-weight: 500;
-margin-bottom: 50px;
+margin-bottom: 30px;
 }
 
 .pos_features_content .h_features_item {
@@ -17113,11 +17107,12 @@ font-weight: 500;
 }
 
 .pos_features_content .h_features_item p {
-color: #7b7b93;
+        color: #333;
+        margin-bottom: 13px;
 }
 
 .pos_features_img {
-padding: 40px 0px 80px;
+padding: 40px 0px 65px;
 position: relative;
 text-align: center;
 }
@@ -17160,6 +17155,9 @@ justify-content: center;
 background: #ffe3a9;
 }
 
+.pos_features_img .shap_img.green {
+        background: #6cac178a;
+        }
 .pos_features_img .shap_img.blue {
 background: #a9e2ff;
 }
@@ -18230,7 +18228,7 @@ color: #fff;
 
 .onlineenqury_btn:hover {border: 2px solid #338CDB;background: #338CDB;}
 .blue_btn {
-margin-top: 8px;
+/* margin-top: 8px; */
 font-size: 14px;
 border: 2px solid #338CDB;
 padding: 4px 15px;
@@ -19201,7 +19199,7 @@ box-shadow: none;font-size: 18px;}
 .other_program {position: relative;}
 .other_program .center_item{padding: 20px 10px;margin-bottom: 25px;}
 .other_program .center_item img{width: 62px; height: 62px;}
-.other_program .center_item h5{margin-bottom: 0; font-size: 17px;}
+.other_program .center_item h5{margin-bottom: 0; font-size: 15px;}
 .other_program .center_item:hover h5{margin-bottom: 0;}
 .other_program .center_item:hover {background: #DBEEFF;
 -webkit-box-shadow: 0px 20px 50px 0px rgba(1, 1, 64, 0.08);
@@ -19251,7 +19249,7 @@ background: url(/assets/img/shield.png) right top no-repeat; width: 66px;height:
 .score li{display: inline-block;margin-right: 10px; margin-bottom: 10px; font-size: 14px; color: #999; font-weight: 500;}
 .score li span{font-size: 18px; color: #000;}
 .result_show_container hr{margin-top: 0rem; margin-bottom: 0rem;}
-.result_show_container .blue_btn{padding: 2px 14px; font-size: 13px;}
+.result_show_container .blue_btn{padding: 2px 14px; font-size: 13px; margin-top: 10px;}
 
 .result_show_container .timeline-wrap {width: 100%;}
 .result_show_container .timeline { position: relative; max-width: 800px; margin: 0 auto;background-color: inherit;}
@@ -19421,7 +19419,31 @@ border-bottom: 1px solid #e4e4e4; padding-bottom: 10px;}
 .bricurm .blue_btn{float: right;margin-top: 0px;  line-height: 20px;}
 
 .cours_content_wrp .cover_box{background: #fff; margin-bottom: 30px; border-radius: 4px; padding: 20px 25px;-webkit-box-shadow: 0px 0 15px rgba(12, 0, 46, 0.06);box-shadow: 0px 0 15px rgba(12, 0, 46, 0.06);}
+.cours_content_wrp .cover_box h4{ font-size: 18px; margin-bottom: 20px;}
+.cours_content_wrp .cover_box .table-responsive{ margin-bottom: 20px;}
+.cours_content_wrp .cover_box .table-responsive .blue_btn {padding: 2px 8px;font-size: 12px;}
 .cours_content_wrp .cover_box h3{color: #338CDB; font-size: 25px;margin-bottom: 25px;}
+.cours_content_wrp .cover_box .table-responsive .customtbl tr th { padding: 4px 10px;  text-align: left;font-size: 14px;border-top: 0;border-bottom: 0;background: transparent;color: #000;  }
+
+.cours_content_wrp .cover_box .table-responsive .customtbl2 tr th { padding: 8px 10px;
+        text-align: center;
+        font-size: 14px;
+        border-top: 0;
+        border-bottom: 0;
+        background: #338CDB;
+        color: #fff;}
+        .customtbl2 tr td {
+                font-weight: normal;
+                vertical-align: middle;
+                font-size: 13px;
+                padding: 6px 10px;
+                text-align: left;
+            }
+
+
+
+
+
 
 /* Get Assistance  */
 .get_asstance_wrper {background: url(/assets/img/get_assistance_bg.png) left top no-repeat #338cdb; padding: 60px 0; position: relative;}
@@ -19477,26 +19499,12 @@ border-bottom: 1px solid #e4e4e4; padding-bottom: 10px;}
 
 /* Course */
 .coursetbl{margin-bottom: 30px;}
-.coursetbl tr td{padding: 4px 8px;
-        font-size: 13px;
-        vertical-align: middle;}
-.coursetbl tr th{padding: 4px 8px;
-        font-size: 13px;
-        vertical-align: middle;}
+.coursetbl tr td{padding: 4px 8px; font-size: 13px; vertical-align: middle;}
+.coursetbl tr th{padding: 4px 8px; font-size: 13px;vertical-align: middle;}
+.listingwrp p{margin-bottom: 8px;}
+.bg_txt{background: #e9f2f9;border-radius: 100px;display: inline-block; padding: 4px 10px;}
+.cover_box_wrp{background: #fff;margin-bottom: 30px; border-radius: 4px; padding: 15px; -webkit-box-shadow: 0px 0 15px rgba(12, 0, 46, 0.06); box-shadow: 0px 0 15px rgba(12, 0, 46, 0.06);}
 
-        .listingwrp p{margin-bottom: 8px;}
-        .bg_txt{    background: #e9f2f9;
-                border-radius: 100px;
-                display: inline-block;
-                padding: 4px 10px;}
-
-
-
-    .cover_box_wrp {
-                        background: #fff;
-                        margin-bottom: 30px;
-                        border-radius: 4px;
-                        padding:15px;
-                        -webkit-box-shadow: 0px 0 15px rgba(12, 0, 46, 0.06);
-                        box-shadow: 0px 0 15px rgba(12, 0, 46, 0.06);
-                    }
+/* App Show */
+.appli li{margin-bottom: 10px;list-style: decimal;margin-left: 18px;}
+.appli2 li {margin-bottom: 10px;list-style: disc; margin-left: 18px;}   

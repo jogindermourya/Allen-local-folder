@@ -69,7 +69,7 @@
 					aria-hidden="true">&times;</span>
 			</button>
 			<div class="modal-body p0">
-				<img src="/assets/img/popupforregsitration.jpg" class="img-fluid" alt="">
+				<img src="/assets/img/popupforregsitration.png" class="img-fluid" alt="">
 			</div>
 			<div class="modal-footer justify-content-center">
 				<a href="/apply-online/login.asp" class="blue_btn btn_hover d-inline-block popupbtn">Apply Online for
@@ -412,8 +412,10 @@
 			</div>
 			<!-- END -->
 		</div>
-	</div>
 
+
+
+	</div>
 
 
 	<!-- Our Apps -->
@@ -436,6 +438,8 @@
 		</div>
 	</div>
 	<!--End Our Apps  -->
+
+
 	<!-- Our Centers Footer -->
 	<div class="footer_bottom">
 		<div class="container">

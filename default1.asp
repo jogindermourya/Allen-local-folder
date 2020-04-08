@@ -838,7 +838,7 @@
                     aria-hidden="true">&times;</span>
             </button>
             <div class="modal-body p0">
-                <img src="img/popupforregsitration.jpg" class="img-fluid" alt="">
+                <img src="img/popupforregsitration.png" class="img-fluid" alt="">
             </div>
             <div class="modal-footer justify-content-center">
                 <button type="button" class="blue_btn d-inline-block popupbtn">Apply Online for New Session 2020-21

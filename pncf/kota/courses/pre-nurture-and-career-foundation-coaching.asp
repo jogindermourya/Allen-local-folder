@@ -629,7 +629,7 @@
                      who are known for producing best results year after year. Our meticulously planned courses and
                      well-timed completion of the syllabus renders sufficient.. </p>
                   <div class="table-responsive">
-                     <table class="table table-bordered table-hover  customtbl cetnble">
+                     <table class="table table-bordered table-hover  customtbl2 cetnble">
                         <thead>
                            <tr>
                               <th><strong>Course</strong></th>

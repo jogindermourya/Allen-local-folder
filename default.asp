@@ -453,14 +453,14 @@
          <div class="col-lg-3 col-md-4 col-sm-6">
             <a href="#" class="center_item">
                <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/1.png" alt=""></div>
-               <h5 class="col-lg-12">DLP </h5>
+               <h5 class="col-lg-12">Distance Learning Programme </h5>
             </a>
          </div>
 
          <div class="col-lg-3 col-md-4 col-sm-6">
             <a href="#" class="center_item">
                <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/2.png" alt=""></div>
-               <h5 class="col-lg-12">ELP </h5>
+               <h5 class="col-lg-12">E-Learning Programme </h5>
             </a>
          </div>
 
@@ -532,12 +532,10 @@
          </div>
          <div class="wow fadeInRight col-lg-8">
             <p class="l_height28 mt-4 text-justify">
-               A premier coaching institute for the preparation of JEE (Main+Advanced), JEE (Main), Pre-Medical
-               (AIPMT (NEET-UG)/ AIIMS), Pre-Nurture & Career Foundation (Class VI to X, NTSE & Olympiads). The
-               Institute is well regarded for the high quality entrance exams preparation and produces best results
-               year after year. At ALLEN, we focus on building a strong foundation of knowledge and concepts in
-               students for their success and provide an excellent platform for the preparation of competitive exams
-               and board level education.
+               Established in the year 1988 by Shri Rajesh Maheshwari, ALLEN Career Institute has come a long way. Today, ALLEN has turned synonymous to quality education and incredible success.
+Over the past three decades, ALLEN has consistently churned out excellent results in prestigious competitive exams like IIT-JEE (Main & Advanced) and NEET-UG.
+It is the expertise of ALLEN that the institute today has tuned the number one choice for engineering and medical aspirants all across the country.
+We take extreme pride in being a part of various success stories that were written in the ALLEN campus.	
                <br> <a class="blue_btn btn_hover" href="#"> Read More</a>
             </p>
          </div>

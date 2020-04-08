@@ -36,7 +36,7 @@
          <div class="col-lg-10 col-sm-9 ">
             <ul class="list-unstyled breadcrumb-links m-0">
                <li><a href="/">Home</a></li>
-               <li>IIT-JEE (MAIN + ADVANCED)</li>
+               <li>JEE Main / AIEEE Coaching Details</li>
            </ul>
         </div>
          <div class="col-lg-2 col-sm-3 ">
@@ -56,18 +56,15 @@
             <h3>Course Details</h3>
             <div class="col-md-12">
                <!-- Accordion v1 -->
-               <div class="headline-left margin-bottom-20">
-
-                   <h2 class="headline-brd heading-md">Course <span class="color-green">Details</span></h2>
-               </div>
+              
                <h4 class="color-green"><strong>NURTURE :  <span class="color-darker"> Two Year Course for Class XI Students</span></strong></h4>
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" >
+                   <table class="table table-bordered table-striped customtbl table-hover">
                        <tbody>
                            <tr>
                                <th colspan="2">Admission Mode</th>
                                <td><strong>Direct Admission</strong></td>
-                               <td colspan="2"><strong>ASAT / TALLENTEX</strong> <a href="../About-ALLEN-Scholarship-Admission-Test.asp" class="btn-u btn-u-sm rounded btn-u-green pull-right" role="button">ASAT Details</a></td>
+                               <td colspan="2"><strong>ASAT / TALLENTEX</strong> <a href="../About-ALLEN-Scholarship-Admission-Test.asp" class=" blue_btn btn_hover d-inline-block pull-right" role="button">ASAT Details</a></td>
                            </tr>
                            <tr>
                                <th colspan="2"><strong>Phases</strong></th>
@@ -122,9 +119,9 @@
                        </tbody>
                    </table>
                </div>
-               <h4 class="color-red"><strong>ENTHUSIAST : <span class="color-darker"> One Year Course for Class XII Students (English / Hindi Medium)</span></strong></h4>
+               <h4 class="color-green"><strong>ENTHUSIAST : <span class="color-darker"> One Year Course for Class XII Students (English / Hindi Medium)</span></strong></h4>
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" >
+                   <table class="table table-bordered table-striped customtbl table-hover">
                        <tbody>
                            <tr>
                                <th colspan="2"><strong>Admission Mode</strong></th>
@@ -169,14 +166,14 @@
                        </tbody>
                    </table>
                </div>
-               <h4 class="color-red"><strong>LEADER :  <span class="color-darker"> One Year Course for Class XII Passed/Appeared Students (English / Hindi Medium)</span></strong></h4>
+               <h4 class="color-green"><strong>LEADER :  <span class="color-darker"> One Year Course for Class XII Passed/Appeared Students (English / Hindi Medium)</span></strong></h4>
 
                <div class="table-responsive">
-                   <table class="table table-bordered table-striped" >
+                   <table class="table table-bordered table-striped customtbl table-hover">
                        <tbody>
                            <tr>
                                <th colspan="2"><strong>Admission Mode</strong></th>
-                               <td width="70%"><strong><!--<span style="position:relative; top:4px;">Through ASAT/Direct Admission based on JEE-Main 2019 score.</span><a href="../About-ALLEN-Scholarship-cum-Admission-Test.asp" class="btn-u btn-u-sm rounded btn-u-green  " role="button" style="float: right;">ASAT Details</a>-->ASAT</strong>                                        <a href="../About-ALLEN-Scholarship-Admission-Test.asp" class="btn-u btn-u-sm rounded btn-u-green pull-right" role="button">ASAT Details</a></td>
+                               <td width="70%"><strong><!--<span style="position:relative; top:4px;">Through ASAT/Direct Admission based on JEE-Main 2019 score.</span><a href="../About-ALLEN-Scholarship-cum-Admission-Test.asp" class="btn-u btn-u-sm rounded btn-u-green  " role="button" style="float: right;">ASAT Details</a>-->ASAT</strong>                                        <a href="../About-ALLEN-Scholarship-Admission-Test.asp" class=" blue_btn btn_hover d-inline-block pull-right" role="button">ASAT Details</a></td>
 
 
                            </tr>
@@ -215,7 +212,7 @@
                    <p><strong>NOTE</strong>: </p>
                    <p>1. In English Medium, Literature will be in English language and for better explanation mixed language will be used while teaching.</p>
                    <p>2. Information of further phases will be announced later.
-                       </p><h2 class="headline-brd heading-md"><strong>Classroom Center Code : Kota: 1001</strong></h2>
+                       </p><h5 class="headline-brd heading-md"><strong>Classroom Center Code : Kota: 1001</strong></h5>
                </div>
                  </div>
                <div  id="fee_structure"></div>

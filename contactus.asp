@@ -21,6 +21,7 @@
 <!--  content Section -->
 <section class="contact-wrp-bg sec_pad">
 	<div class="container">
+
 		<div class="row centersbox_wrp">
 			<div class="col-lg-12">
 				<nav class="navbar d-flex justify-content-center">
@@ -63,376 +64,421 @@
 				</nav>
 
 			</div>
-	</div>
-			<div class="col-lg-12 mb-lg-5">
-					<div class="row">
-						<div class="col-lg-12">
-								<div class="row ">
-									<h3 class="col-12 text-center mb-3">Admission Office & Classroom Centers</h3>
-								</div>
-							<div class="row centersbox_wrp">
-								<div class="col-lg-5 m-auto">
-									<div class="box-asws">
-										<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-										<div class="cont_details text-lg-left">
-											<h5>SANKALP (C.O.)</h5>
-											<ul class="list-unstyled">
-												<li><a href="#"><i class="fa fa-home"></i></a>
-													CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-												</li>
-												<li>
-													<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-												<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-													 Ph: <span>+91-744-2757575</span></a>
-												</li>
-												<li class="text-lg-center">
-													<a href="#"  data-toggle="modal"  data-target="#locationshow" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-		</div>
-			
-			<div class="col-lg-12 mb-lg-5">
-				<div class="row">
-					<div class="col-lg-12">
-						<div class="row centersbox_wrp">
-							
-							<div class="col-lg-3">
-								<div class="box-asws">
-									<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-									<div class="cont_details text-lg-left">
-										<h5>SANKALP (C.O.)</h5>
-										<ul class="list-unstyled">
-											<li><a href="#"><i class="fa fa-home"></i></a>
-												CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-											</li>
-											<li>
-												<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-											<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												 Ph: <span>+91-744-2757575</span></a>
-											</li>
-											<li class="text-lg-center">
-												<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-lg-3">
-								<div class="box-asws">
-									<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-									<div class="cont_details text-lg-left">
-										<h5>SANKALP (C.O.)</h5>
-										<ul class="list-unstyled">
-											<li><a href="#"><i class="fa fa-home"></i></a>
-												CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-											</li>
-											<li>
-												<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-											<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												 Ph: <span>+91-744-2757575</span></a>
-											</li>
-											<li class="text-lg-center">
-												<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-lg-3">
-								<div class="box-asws">
-									<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-									<div class="cont_details text-lg-left">
-										<h5>SANKALP (C.O.)</h5>
-										<ul class="list-unstyled">
-											<li><a href="#"><i class="fa fa-home"></i></a>
-												CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-											</li>
-											<li>
-												<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-											<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												 Ph: <span>+91-744-2757575</span></a>
-											</li>
-											<li class="text-lg-center">
-												<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-
-							<div class="col-lg-3">
-								<div class="box-asws">
-									<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-									<div class="cont_details text-lg-left">
-										<h5>SANKALP (C.O.)</h5>
-										<ul class="list-unstyled">
-											<li><a href="#"><i class="fa fa-home"></i></a>
-												CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-											</li>
-											<li>
-												<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-											<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												 Ph: <span>+91-744-2757575</span></a>
-											</li>
-											<li class="text-lg-center">
-												<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>	
-
-
-
-
-
-
-						</div>
-					</div>
-				</div>
-		
 		</div>
 
 
-		<div class="col-lg-12 mb-lg-5">
-			
+		<div class="col-lg-12 mb-lg-5" style="display: block;">
 			<div class="row">
 				<div class="col-lg-12">
-						<div class="row ">
-							<h3 class="col-12 text-center mb-3">Classroom Centers Also </h3>
+					<div class="row ">
+						<h3 class="col-12 text-center mb-3">Admission Office & Classroom Centers</h3>
+					</div>
+					<div class="row centersbox_wrp">
+						<div class="col-lg-5 m-auto">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" data-toggle="modal" data-target="#locationshow"
+												class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
 						</div>
-				
-						<div class="row centersbox_wrp">
-							
-							<div class="col-lg-3">
-								<div class="box-asws">
-									<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-									<div class="cont_details text-lg-left">
-										<h5>SANKALP (C.O.)</h5>
-										<ul class="list-unstyled">
-											<li><a href="#"><i class="fa fa-home"></i></a>
-												CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-											</li>
-											<li>
-												<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-											<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												 Ph: <span>+91-744-2757575</span></a>
-											</li>
-											<li class="text-lg-center">
-												<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-lg-3">
-								<div class="box-asws">
-									<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-									<div class="cont_details text-lg-left">
-										<h5>SANKALP (C.O.)</h5>
-										<ul class="list-unstyled">
-											<li><a href="#"><i class="fa fa-home"></i></a>
-												CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-											</li>
-											<li>
-												<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-											<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												 Ph: <span>+91-744-2757575</span></a>
-											</li>
-											<li class="text-lg-center">
-												<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-lg-3">
-								<div class="box-asws">
-									<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-									<div class="cont_details text-lg-left">
-										<h5>SANKALP (C.O.)</h5>
-										<ul class="list-unstyled">
-											<li><a href="#"><i class="fa fa-home"></i></a>
-												CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-											</li>
-											<li>
-												<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-											<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												 Ph: <span>+91-744-2757575</span></a>
-											</li>
-											<li class="text-lg-center">
-												<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-
-							<div class="col-lg-3">
-								<div class="box-asws">
-									<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-									<div class="cont_details text-lg-left">
-										<h5>SANKALP (C.O.)</h5>
-										<ul class="list-unstyled">
-											<li><a href="#"><i class="fa fa-home"></i></a>
-												CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-											</li>
-											<li>
-												<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-											<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												 Ph: <span>+91-744-2757575</span></a>
-											</li>
-											<li class="text-lg-center">
-												<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>	
-
-							</div>
-
-							<div class="row centersbox_wrp">
-							
-								<div class="col-lg-3">
-									<div class="box-asws">
-										<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-										<div class="cont_details text-lg-left">
-											<h5>SANKALP (C.O.)</h5>
-											<ul class="list-unstyled">
-												<li><a href="#"><i class="fa fa-home"></i></a>
-													CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-												</li>
-												<li>
-													<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-												<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-													 Ph: <span>+91-744-2757575</span></a>
-												</li>
-												<li class="text-lg-center">
-													<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-	
-								<div class="col-lg-3">
-									<div class="box-asws">
-										<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-										<div class="cont_details text-lg-left">
-											<h5>SANKALP (C.O.)</h5>
-											<ul class="list-unstyled">
-												<li><a href="#"><i class="fa fa-home"></i></a>
-													CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-												</li>
-												<li>
-													<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-												<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-													 Ph: <span>+91-744-2757575</span></a>
-												</li>
-												<li class="text-lg-center">
-													<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-	
-								<div class="col-lg-3">
-									<div class="box-asws">
-										<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-										<div class="cont_details text-lg-left">
-											<h5>SANKALP (C.O.)</h5>
-											<ul class="list-unstyled">
-												<li><a href="#"><i class="fa fa-home"></i></a>
-													CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-												</li>
-												<li>
-													<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-												<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-													 Ph: <span>+91-744-2757575</span></a>
-												</li>
-												<li class="text-lg-center">
-													<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-	
-	
-								<div class="col-lg-3">
-									<div class="box-asws">
-										<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-										<div class="cont_details text-lg-left">
-											<h5>SANKALP (C.O.)</h5>
-											<ul class="list-unstyled">
-												<li><a href="#"><i class="fa fa-home"></i></a>
-													CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-												</li>
-												<li>
-													<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-												<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-													 Ph: <span>+91-744-2757575</span></a>
-												</li>
-												<li class="text-lg-center">
-													<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>	
-
-								
-	
-								</div>
-								<div class="row centersbox_wrp">
-							
-									<div class="col-lg-3">
-										<div class="box-asws">
-											<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
-											<div class="cont_details text-lg-left">
-												<h5>SANKALP (C.O.)</h5>
-												<ul class="list-unstyled">
-													<li><a href="#"><i class="fa fa-home"></i></a>
-														CP-6, Indra Vihar,	Kota (Rajasthan) INDIA  - 	324005
-													</li>
-													<li>
-														<a href="mailto:info@allen.ac.in"><i class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-													<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-														 Ph: <span>+91-744-2757575</span></a>
-													</li>
-													<li class="text-lg-center">
-														<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
-				
+					</div>
 				</div>
 			</div>
-	
-	</div>
+		</div>
+
+		<div class="col-lg-12 mb-lg-5" style="display: block;">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="row centersbox_wrp">
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
 
 
 
 
 
-	
-	</div>
+
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+
+		<div class="col-lg-12" style="display: block;">
+
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="row ">
+						<h3 class="col-12 text-center mb-3">Classroom Centers Also </h3>
+					</div>
+
+					<div class="row centersbox_wrp">
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="row centersbox_wrp">
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+
+
+					</div>
+					<div class="row centersbox_wrp">
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANKALP (C.O.)</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										</li>
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+										<li class="text-lg-center">
+											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
+												MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="col-lg-12 mb-lg-5" style="display: none;">
+
+			<!-- Include ASAT Test center -->
+			<!-- #Include virtual="common/asat-test-centers.asp" -->
+			<!-- end -->
+
+		</div>
+
+		<div class="col-lg-12 mb-lg-5" style="display: block;">
+
+			<!-- Include ASAT Test center -->
+			<!-- #Include virtual="common/information-centers.asp" -->
+			<!-- end -->
+
+		</div>
+
+
+
+
 </section>
 <!-- End  content Section -->
 
@@ -446,7 +492,9 @@
 			</div>
 			<div class="modal-body mr-3 ml-3">
 				<div class="row">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d7223.531494422269!2d75.8444102709732!3d25.14360935838201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x396f84dddbe9f469%3A0xc45235140bd828cb!2sALLEN%20Savinay%20%7C%20Neet-Medical%2C%20IIT-JEE%20%26%20Foundation%20Coaching%20Classes%20in%20%2CIndra%20vihar-Kota%2C%20Millenium%20Tower%20CP-1%2C%20Indra%20Vihar%20SAVINAY%20Building%2C%20Kota%2C%20Rajasthan%20324005!3m2!1d25.1447744!2d75.8470636!5e0!3m2!1sen!2sin!4v1583388781302!5m2!1sen!2sin" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+					<iframe
+						src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d7223.531494422269!2d75.8444102709732!3d25.14360935838201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x396f84dddbe9f469%3A0xc45235140bd828cb!2sALLEN%20Savinay%20%7C%20Neet-Medical%2C%20IIT-JEE%20%26%20Foundation%20Coaching%20Classes%20in%20%2CIndra%20vihar-Kota%2C%20Millenium%20Tower%20CP-1%2C%20Indra%20Vihar%20SAVINAY%20Building%2C%20Kota%2C%20Rajasthan%20324005!3m2!1d25.1447744!2d75.8470636!5e0!3m2!1sen!2sin!4v1583388781302!5m2!1sen!2sin"
+						width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 				</div>
 			</div>
 
