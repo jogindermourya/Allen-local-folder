@@ -94,55 +94,47 @@
        <div class="row">
           <div class="col-md-12 wow fadeInRight">
              <div class="owl-carousel courses_carousel">
+               
+              
                 <div class="courses_item">
-                   <a href="#" title="">
-                      <div class="icon"><img src="/assets/img/course-ico/crs1.png" class="img-fluid" alt=""></div>
-                      <h4 class="coursename">JEE (Main+advanced) <br>IIT-JEE </h4>
-                   </a>
-                </div>
-                <div class="courses_item">
-                   <a href="#" title="">
-                      <div class="icon"><img src="/assets/img/course-ico/crs1.png" class="img-fluid" alt=""></div>
-                      <h4 class="coursename">JEE (Main+advanced) <br> IIT-JEE</h4>
-                   </a>
-                </div>
-                <div class="courses_item">
-                   <a href="#" title="">
-                      <div class="icon "><img src="/assets/img/course-ico/crs1.png" class="img-fluid" alt="">
+                   <a href="/courses/iit-jee-main-advanced-coaching.asp/" title="">
+                      <div class="icon "><img src="/assets/img/course-ico/1.png" class="img-fluid" alt="">
                       </div>
                       <h4 class="coursename">JEE (Main+advanced) <br>IIT-JEE</h4>
                    </a>
                 </div>
                 <div class="courses_item">
-                   <a href="#" title="">
-                      <div class="icon"><img src="/assets/img/course-ico/crs1.png" class="img-fluid" alt=""></div>
-                      <h4 class="coursename">JEE (Main+advanced) <br> IIT-JEE </h4>
+                   <a href="/courses/jee-main-coaching.asp/" title="">
+                      <div class="icon"><img src="/assets/img/course-ico/2.png" class="img-fluid" alt=""></div>
+                      <h4 class="coursename">JEE Main / AIEEE </h4>
                    </a>
                 </div>
                 <div class="courses_item">
-                   <a href="#" title="">
-                      <div class="icon"><img src="/assets/img/course-ico/crs1.png" class="img-fluid" alt=""></div>
-                      <h4 class="coursename">JEE (Main+advanced) <br> IIT-JEE </h4>
+                   <a href="/courses/neet-ug-aiims-coaching.asp/" title="">
+                      <div class="icon"><img src="/assets/img/course-ico/3.png" class="img-fluid" alt=""></div>
+                      <h4 class="coursename">NEET-UG</h4>
                    </a>
                 </div>
                 <div class="courses_item">
-                   <a href="#" title="">
-                      <div class="icon"><img src="/assets/img/course-ico/crs1.png" class="img-fluid" alt=""></div>
-                      <h4 class="coursename">JEE (Main+advanced) <br>IIT-JEE</h4>
+                   <a href="/pncf/kota/" title="">
+                      <div class="icon"><img src="/assets/img/course-ico/4.png" class="img-fluid" alt=""></div>
+                      <h4 class="coursename">PRE-NURTURE AND CAREER FOUNDATION   </h4>
                    </a>
                 </div>
                 <div class="courses_item">
-                   <a href="#" title="">
-                      <div class="icon"><img src="/assets/img/course-ico/crs1.png" class="img-fluid" alt=""></div>
-                      <h4 class="coursename">JEE (Main+advanced) <br> IIT-JEE </h4>
+                   <a href="https://theintellibrain.com/" title=""  target="_blank">
+                      <div class="icon"><img src="/assets/img/course-ico/6.png" class="img-fluid" alt=""></div>
+                      <h4 class="coursename">IntelliBrain </h4>
                    </a>
                 </div>
                 <div class="courses_item">
-                   <a href="#" title="">
-                      <div class="icon"><img src="/assets/img/course-ico/crs1.png" class="img-fluid" alt=""></div>
-                      <h4 class="coursename">JEE (Main+advanced) <br>IIT-JEE </h4>
-                   </a>
-                </div>
+                  <a href="https://www.allen.ac.in/globalstudies/" title="" target="_blank">
+                     <div class="icon"><img src="/assets/img/course-ico/7.png" class="img-fluid" alt=""></div>
+                     <h4 class="coursename"> ALLEN Global Studies </h4>
+                  </a>
+               </div>
+              
+               
              </div>
           </div>
        </div>
@@ -334,7 +326,7 @@
                                </div>
                                <h5>Nikhil Agrsain</h5>
                                <span class="d-block">NEET-UG 2019 (Classroom)</span>
-                               <span class="fn d-block colrgrye">AF No. :17211165 (CCP)</span>
+                               <span class="fn d-block colrgrye">Lorml Lormlipum Lormlipum ipum</span>
                             </div>
                          </a>
                       </li>
@@ -348,7 +340,7 @@
                                </div>
                                <h5>Nikhil Agrsain</h5>
                                <span class="d-block">NEET-UG 2019 (Classroom)</span>
-                               <span class="fn d-block colrgrye">AF No. :17211165 (CCP)</span>
+                               <span class="fn d-block colrgrye">LormlipumLormlipumL ormlipumLormlipum</span>
                             </div>
                          </a>
                       </li>
@@ -362,7 +354,7 @@
                                </div>
                                <h5>Nikhil Agrsain</h5>
                                <span class="d-block">NEET-UG 2019 (Classroom)</span>
-                               <span class="fn d-block colrgrye">AF No. :17211165 (CCP)</span>
+                               <span class="fn d-block colrgrye">Lormlipum LormlipumLorm lipumLormlipum </span>
                             </div>
                          </a>
                       </li>
@@ -376,7 +368,7 @@
                                </div>
                                <h5>Nikhil Agrsain</h5>
                                <span class="d-block">NEET-UG 2019 (Classroom)</span>
-                               <span class="fn d-block colrgrye">AF No. :17211165 (CCP)</span>
+                               <span class="fn d-block colrgrye">Lormlipum sdsd sdsdsLormlipum</span>
                             </div>
                          </a>
                       </li>

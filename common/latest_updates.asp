@@ -16,16 +16,16 @@
                     <ul class="nav nav-tabs develor_tab mb-30" id="myTab2" role="tablist">
                         <li class="nav-item">
                             <a class="nav-link active show" id="ruby-tab" data-toggle="tab" href="#ruby" role="tab"
-                                aria-controls="ruby" aria-selected="false"><i class="latico"></i>Latest Update </a>
+                                aria-controls="ruby" aria-selected="false"><i class="latico"><img src="/assets/img/notification/info.png" class="img-fluid" alt="">  </i>Latest Update </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" id="curl-tab" data-toggle="tab" href="#curl" role="tab"
-                                aria-controls="curl" aria-selected="false"><i class="latico"></i> Result
+                                aria-controls="curl" aria-selected="false"><i class="latico"><img src="/assets/img/notification/result-notification.png" class="img-fluid"  alt=""></i> Result
                                 Notification</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" id="resize-tab" data-toggle="tab" href="#resize" role="tab"
-                                aria-controls="resize" aria-selected="false"><i class="latico"></i> Latest Event</a>
+                                aria-controls="resize" aria-selected="false"><i class="latico"><img src="/assets/img/notification/events.png" class="img-fluid"  alt=""></i> Latest Event</a>
                         </li>
                     </ul>
 
