@@ -2,7 +2,7 @@
 
 <!-- Breadcrumb Section -->
 <!-- <section class="breadcrumb_area">
-    <img class="breadcrumb_shap" src="/assets/img/aboutus/innerbghead.png" alt="">
+    <img class="breadcrumb_shap" src="/assets/img/aboutus/innerbghead.png" alt=""> 
     <div class="container">
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">ALLEN INFO</h1>
@@ -242,6 +242,18 @@
         </div>
     </section>
 
+    <section>
+        <div class="container">
+    
+            <div class="row">
+                <div class="col-lg-12">
+                    <!--Apps Menu-->
+                    <!-- #Include virtual="/appshow/applinks.asp" -->
+                    <!--/Apps Menu-->
+                    </div>
+                </div>
+            </div>
+  </section>
 
 
 

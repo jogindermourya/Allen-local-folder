@@ -42,7 +42,7 @@
 
 					<div class="col-xs-6 col-md-4">
 						<h5>Pre-Nurture &amp; Career Foundation</h5>
-						<ul class="list-unstyled ">
+						<ul class="list-unstyled">
 							<li> <a
 									href="/pncf/kota/2019-20/pre-nurture-career-foundation-coaching/pncf-teaching-methodology-2019-20.asp">Teaching
 									Methodology</a></li>
@@ -127,12 +127,13 @@
 
 								<div class="f_social_icon">
 									<h3 class="f-title f_600 t_color2 f_size_16 mb_10 mt-4">Follow Us</h3>
-									<a href="#" class="fb" title="Facebook"><i class="fa fa-facebook"></i></a>
-									<a href="#" class="linkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a>
-									<a href="#" class="twitter" title="Twitter"><i class="fa fa-twitter"></i></a>
-									<a href="#" class="instagram" title="Instagram"><i class="fa fa-instagram"></i></a>
-									<a href="#" class="youtube" title="Youtube"><i class="fa fa-youtube"></i></a>
-									<a href="#" class="rss" title="RSS"><i class="fa fa-rss"></i></a>
+									<a href="https://www.facebook.com/ALLENKota" class="fb" title="Facebook"><i class="fa fa-facebook"></i></a>
+									<a href="https://www.linkedin.com/company/allen-career-institute/" class="linkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a>
+									<a href="https://twitter.com/ALLENkota" class="twitter" title="Twitter"><i class="fa fa-twitter"></i></a>
+									<a href="https://instagram.com/allen_career_institute" class="instagram" title="Instagram"><i class="fa fa-instagram"></i></a>
+									<a href="https://youtube.com/AllenCareerInstituteOfficial" class="youtube" title="Youtube"><i class="fa fa-youtube"></i></a>
+									<a href="https://myexam.allen.ac.in/" class="rss" title="RSS"><i class="fa fa-rss"></i></a>
+									<a href="https://www.pinterest.com/allenkota/" class="pintrest" title="Pinterest"><i class="fa fa-pinterest"></i></a>
 								</div>
 
 							</div>
@@ -146,12 +147,11 @@
 							<div class="f_widget about-widget">
 								<h3 class="f-title f_600 t_color2 f_size_16 mb_15">Classroom Courses</h3>
 								<ul class="list-unstyled f_list">
-									<li><a href="#">JEE (Main) </a></li>
-									<li><a href="#">JEE (Advanced)</a></li>
-									<li><a href="#">NEET-UG</a></li>
-									<li><a href="#">PNCF (Class 6<sup>th</sup> to 10<sup>th</sup>)</a></li>
-									<li><a href="#">Intellibrain ( HKG to 5<sup>th</sup>)</a></li>
-
+									<li><a href="/kota/jee-main-coaching.asp">JEE (Main) </a></li>
+									<li><a href="/kota/iit-jee-main-advanced-coaching.asp">JEE (Advanced)</a></li>
+									<li><a href="/kota/neet-ug-aiims-coaching.asp">NEET-UG</a></li>
+									<li><a href="/pncf/kota/">PNCF (Class 6<sup>th</sup> to 10<sup>th</sup>)</a></li>
+									<li><a href="https://www.theintellibrain.com/">Intellibrain ( HKG to 5<sup>th</sup>)</a></li>
 								</ul>
 							</div>
 						</div>
@@ -159,12 +159,24 @@
 							<div class="f_widget about-widget">
 								<h3 class="f-title f_600 t_color2 f_size_16 mb_15">Quick Links</h3>
 								<ul class="list-unstyled f_list">
-									<li><a href="#">Employee Zone</a></li>
-									<li><a href="/jobs.asp">Jobs</a></li>
-									<li><a href="#">Allenites</a></li>
-									<li><a href="#">Gallery</a></li>
-									<li><a href="/faq.asp">Faq</a></li>
-									<li><a href="/contactus.asp">Contact</a></li>
+									<li><a href="">Employee Zone</a>
+										<ul class="subfootermenu list-unstyled">
+										<li>- <a href="https://www.allen.ac.in/apps1617/employeezone/login.aspx"  target="_blank">Employee Login</a></li>
+										<li>- <a href="https://hrms.allen.ac.in/essALLEN/login.aspx" target="_blank">HRMS-ESS</a></li>
+									    <li>- <a href="http://mail.allen.in/appsuite/" target="_blank">Webmail</a></li>
+									</ul>
+									</li>
+									<li><a href="">Gallery</a>
+										<ul class="subfootermenu list-unstyled">
+										<li>- <a href="/photogallery.asp">Photo Gallery</a></li>
+										<li>- <a href="/mediabox/allen-news-media.asp">Media Box</a></li>
+										<li>- <a href="/mediabox/allen-online-news-media-2019.asp">Online Media</a></li>
+									</ul>
+									</li>
+									<li><a href="http://www.allen.ac.in/apps/career/general/default.asp">Jobs</a></li>
+									<li><a href="https://www.allenites.com/">Allenites</a></li>
+								
+
 								</ul>
 							</div>
 						</div>
@@ -173,13 +185,13 @@
 							<div class="f_widget about-widget">
 								<h3 class="f-title f_600 t_color2 f_size_16 mb_15">Programmes</h3>
 								<ul class="list-unstyled f_list">
-									<li><a href="#">Online Test Series</a></li>
-									<li><a href="#">DLP</a></li>
-									<li><a href="#"> TAB Elearning Tool</a></li>
-									<li><a href="#">GATE Online Test Series</a></li>
-									<li><a href="#">NEET-PG Online Test Series</a></li>
-									<li><a href="#"> AECD-Intellibrain</a></li>
-									<li><a href="#"> Workshops</a></li>
+									<li><a href="https://www.onlinetestseries.in/allenkota">Online Test Series</a></li>
+									<li><a href="https://dlp.allen.ac.in/">DLP</a></li>
+									<li><a href="https://tab.allen.ac.in/"> TAB Elearning Tool</a></li>
+									<li><a href="https://www.gate.onlinetestseries.in/">GATE Online Test Series</a></li>
+									<li><a href="https://www.prepg.onlinetestseries.in/">NEET-PG Online Test Series</a></li>
+									<li><a href="https://www.theintellibrain.com/"> AECD-Intellibrain</a></li>
+									<li><a href="https://workshop.allen.ac.in/"> Workshops</a></li>
 								</ul>
 							</div>
 						</div>
@@ -188,13 +200,12 @@
 							<div class="f_widget about-widget">
 								<h3 class="f-title f_600 t_color2 f_size_16 mb_15">Results</h3>
 								<ul class="list-unstyled f_list">
-									<li><a href="/result/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
-									<li><a href="/result/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
-									<li><a href="/result/achievements-aipmt.asp"> NEET/AIPMT</a></li>
-									<li><a href="/result/achievements-aiims.asp">AIIMS</a></li>
-									<li><a href="/result/cbsex.asp">CBSE Class X</a></li>
-									<li><a href="/result/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE,
-											KVPY, Scholarship etc</a></li>
+									<li><a href="/apps/selection-results/yesteryears/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
+									<li><a href="/apps/selection-results/yesteryears/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
+									<li><a href="/apps/selection-results/yesteryears/achievements-aipmt.asp"> NEET/AIPMT</a></li>
+									<li><a href="/apps/selection-results/yesteryears/achievements-aiims.asp">AIIMS</a></li>
+									<li><a href="/apps/selection-results/yesteryears/cbsex.asp">CBSE Class X</a></li>
+									<li><a href="/apps/selection-results/yesteryears/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
 								</ul>
 							</div>
 						</div>
@@ -203,14 +214,14 @@
 							<div class="f_widget about-widget">
 								<h3 class="f-title f_600 t_color2 f_size_16 mb_15">Websites</h3>
 								<ul class="list-unstyled f_list">
-									<li><a href="#">Klipinterest</a></li>
-									<li><a href="#">Gyan Se Pehchan</a></li>
-									<li><a href="#">Kliponar</a></li>
-									<li><a href="#">NTSE Helpline</a></li>
-									<li><a href="#">ALLEN Champ</a></li>
-									<li><a href="#">TALLENTEX</a></li>
-									<li><a href="#">ALLEN Blog</a></li>
-									<li><a href="#">ALLEN Alumni Network</a></li>
+									<li><a href="https://www.klipinterest.com/">Klipinterest</a></li>
+									<li><a href="https://www.allengsp.com/">Gyan Se Pehchan</a></li>
+									<li><a href="https://www.kliponar.com/">Kliponar</a></li>
+									<li><a href="https://ntsehelpline.com/">NTSE Helpline</a></li>
+									<li><a href="https://www.allenchamp.com/">ALLEN Champ</a></li>
+									<li><a href="https://www.tallentex.com/">TALLENTEX</a></li>
+									<li><a href="https://myexam.allen.ac.in/">ALLEN Blog</a></li>
+									<li><a href="https://www.allenites.com/">ALLEN Alumni Network</a></li>
 								</ul>
 							</div>
 						</div>
@@ -286,11 +297,11 @@
 								data-parent="#accordion">
 								<div class="card-body">
 									<ul class="list-unstyled f_list">
-										<li><a href="#">JEE (Main) </a></li>
-										<li><a href="#">JEE (Advanced)</a></li>
-										<li><a href="#">NEET-UG</a></li>
-										<li><a href="#">PNCF (Class 6<sup>th</sup> to 10<sup>th</sup>)</a></li>
-										<li><a href="#">Intellibrain ( HKG to 5<sup>th</sup>)</a></li>
+										<li><a href="/kota/jee-main-coaching.asp">JEE (Main) </a></li>
+										<li><a href="/kota/iit-jee-main-advanced-coaching.asp">JEE (Advanced)</a></li>
+										<li><a href="/kota/neet-ug-aiims-coaching.asp">NEET-UG</a></li>
+										<li><a href="/pncf/kota/">PNCF (Class 6<sup>th</sup> to 10<sup>th</sup>)</a></li>
+										<li><a href="https://www.theintellibrain.com/">Intellibrain ( HKG to 5<sup>th</sup>)</a></li>
 									</ul>
 								</div>
 							</div>
@@ -312,12 +323,24 @@
 									data-parent="#accordion">
 									<div class="card-body">
 										<ul class="list-unstyled f_list">
-											<li><a href="#">Employee Zone</a></li>
-											<li><a href="#">Career</a></li>
-											<li><a href="#">Allenites</a></li>
-											<li><a href="#">Gallery</a></li>
-											<li><a href="/faq.asp">Faq</a></li>
-											<li><a href="/contactus.asp">Contact</a></li>
+											<li><a href="">Employee Zone</a>
+												<ul class="subfootermenu list-unstyled">
+												<li> <a href="https://www.allen.ac.in/apps1617/employeezone/login.aspx"  target="_blank"> - Employee Login</a></li>
+												<li> <a href="https://hrms.allen.ac.in/essALLEN/login.aspx" target="_blank">- HRMS-ESS</a></li>
+												<li><a href="http://mail.allen.in/appsuite/" target="_blank">- Webmail</a></li>
+											</ul>
+											</li>
+											<li><a href="">Gallery</a>
+												<ul class="subfootermenu list-unstyled">
+												<li> <a href="/photogallery.asp">-  Photo Gallery</a></li>
+												<li><a href="/mediabox/allen-news-media.asp">-  Media Box</a></li>
+												<li> <a href="/mediabox/allen-online-news-media-2019.asp">-  Online Media</a></li>
+											</ul>
+											</li>
+											<li><a href="http://www.allen.ac.in/apps/career/general/default.asp">Jobs</a></li>
+											<li><a href="https://www.allenites.com/">Allenites</a></li>
+										
+		
 										</ul>
 									</div>
 								</div>
@@ -338,13 +361,13 @@
 									data-parent="#accordion">
 									<div class="card-body">
 										<ul class="list-unstyled f_list">
-											<li><a href="#">Online Test Series</a></li>
-											<li><a href="#">DLP</a></li>
-											<li><a href="#">TAB Elearning Tool</a></li>
-											<li><a href="#">GATE Online Test Series</a></li>
-											<li><a href="#">NEET-PG Online Test Series</a></li>
-											<li><a href="#">AECD-Intellibrain</a></li>
-											<li><a href="#">Workshops</a></li>
+											<li><a href="https://www.onlinetestseries.in/allenkota">Online Test Series</a></li>
+											<li><a href="https://dlp.allen.ac.in/">DLP</a></li>
+											<li><a href="https://tab.allen.ac.in/"> TAB Elearning Tool</a></li>
+											<li><a href="https://www.gate.onlinetestseries.in/">GATE Online Test Series</a></li>
+											<li><a href="https://www.prepg.onlinetestseries.in/">NEET-PG Online Test Series</a></li>
+											<li><a href="https://www.theintellibrain.com/"> AECD-Intellibrain</a></li>
+											<li><a href="https://workshop.allen.ac.in/"> Workshops</a></li>
 										</ul>
 									</div>
 								</div>
@@ -365,14 +388,12 @@
 									data-parent="#accordion">
 									<div class="card-body">
 										<ul class="list-unstyled f_list">
-											<li><a href="/result/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a>
-											</li>
-											<li><a href="/result/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
-											<li><a href="/result/achievements-aipmt.asp"> NEET/AIPMT</a></li>
-											<li><a href="/result/achievements-aiims.asp">AIIMS</a></li>
-											<li><a href="/result/cbsex.asp">CBSE Class X</a></li>
-											<li><a href="/result/achievements-pre-nurture-career-foundation.asp">Olympiad,
-													NTSE, KVPY, Scholarship etc</a></li>
+											<li><a href="/apps/selection-results/yesteryears/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
+											<li><a href="/apps/selection-results/yesteryears/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
+											<li><a href="/apps/selection-results/yesteryears/achievements-aipmt.asp"> NEET/AIPMT</a></li>
+											<li><a href="/apps/selection-results/yesteryears/achievements-aiims.asp">AIIMS</a></li>
+											<li><a href="/apps/selection-results/yesteryears/cbsex.asp">CBSE Class X</a></li>
+											<li><a href="/apps/selection-results/yesteryears/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
 										</ul>
 									</div>
 								</div>
@@ -393,14 +414,14 @@
 									data-parent="#accordion">
 									<div class="card-body">
 										<ul class="list-unstyled f_list">
-											<li><a href="#">Klipinterest</a></li>
-											<li><a href="#">Gyan Se Pehchan</a></li>
-											<li><a href="#">Kliponar</a></li>
-											<li><a href="#">NTSE Helpline</a></li>
-											<li><a href="#">ALLEN Champ</a></li>
-											<li><a href="#">TALLENTEX</a></li>
-											<li><a href="#">ALLEN Blog</a></li>
-											<li><a href="#">ALLEN Alumni Network</a></li>
+											<li><a href="https://www.klipinterest.com/">Klipinterest</a></li>
+											<li><a href="https://www.allengsp.com/">Gyan Se Pehchan</a></li>
+											<li><a href="https://www.kliponar.com/">Kliponar</a></li>
+											<li><a href="https://ntsehelpline.com/">NTSE Helpline</a></li>
+											<li><a href="https://www.allenchamp.com/">ALLEN Champ</a></li>
+											<li><a href="https://www.tallentex.com/">TALLENTEX</a></li>
+											<li><a href="https://myexam.allen.ac.in/">ALLEN Blog</a></li>
+											<li><a href="https://www.allenites.com/">ALLEN Alumni Network</a></li>
 										</ul>
 									</div>
 								</div>
@@ -425,13 +446,13 @@
 				<div class="col-lg-12">
 					<p class="ourcentertxt"><b>Our Apps</b></p>
 					<ul class="list-unstyled f_menu2  mb-1">
-						<li><a href="#">ALLEN Info</a></li>
-						<li><a href="#">ALLENGk</a></li>
-						<li><a href="#">GSP App</a></li>
-						<li><a href="#">Test My Prep PG</a></li>
-						<li><a href="#">Test My Prep GATE</a></li>
-						<li><a href="#">ALLEN C-SAT</a></li>
-						<li><a href="#">ALLEN D-SAT</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=in.allen.alleninfo&hl=en">ALLEN Info</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=in.allen.aiimsgk">ALLENGk</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=in.allen.gsp">GSP App</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=series.test.online.com.onlinetestseries&hl=en_IN">Test My Prep OLTS</a></li>	<li><a href="https://play.google.com/store/apps/details?id=prepg.series.test.online.com.prepgonlinetestseries&hl=en_IN">Test My Prep PG</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=gate.series.test.online.com.gateonlinetestseries">Test My Prep GATE</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=com.allen.csat&hl=en">ALLEN C-SAT</a></li>
+						<li><a href="https://play.google.com/store/apps/details?id=com.allen.dsat&hl=en">ALLEN D-SAT</a></li>
 					</ul>
 				</div>
 			</div>
@@ -488,11 +509,15 @@
 				</div>
 				<div class="col-lg-8 col-md-8">
 					<ul class="list-unstyled f_menu text-right mb-1">
-						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="#">Payment Terms</a></li>
-						<li><a href="#">Refund & Cancellation</a></li>
+						<li><a href="/terms-of-use.asp">Terms of Use</a></li>
+						<li><a href="/privacy-policy.asp">Privacy Policy</a></li>
+						<li><a href="/payment-terms.asp">Payment Terms</a></li>
+						<li><a href="/refund-cancellation.asp">Refund & Cancellation</a></li>
 					</ul>
-					<p class="text-right">ALLEN Career Institute ©2020 All Rights Reserved.</p>
+					<ul class="list-unstyled f_menu text-right mb-1">
+					<li>© 2020 ALLEN Career Institute </li>
+					<li>All Rights Reserved.</li>
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -523,27 +548,7 @@
 <script src="/assets/vendors/lightbox/js/lightgallery-all.min.js"></script>
 
 
-<script src="/assets/js/js/conditional-js/method.js"></script>
-
-<script type="text/javascript">
-	$(document).ready(function () {
-		var images = latest_slider.concat(kota_main_slider);
-		// allenslider(images, $);
-	});
-</script>
-<script src="/assets/js/js/conditional-js/notification.js"></script>
-<script type="text/javascript">
-	$(document).ready(function () {
-		var update = kota_updates_notification;
-		updateLists(update, $);
-
-		var results = kota_results_notification;
-		resultsLists(results, $);
-
-		var events = kota_events_notification;
-		eventsLists(events, $);
-	});
-</script>
+<script src="/assets/js/notification.js"></script>
 
 
 

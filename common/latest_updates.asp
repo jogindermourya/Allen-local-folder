@@ -23,6 +23,7 @@
                                 aria-controls="curl" aria-selected="false"><i class="latico"><img src="/assets/img/notification/result-notification.png" class="img-fluid"  alt=""></i> Result
                                 Notification</a>
                         </li>
+
                         <li class="nav-item">
                             <a class="nav-link" id="resize-tab" data-toggle="tab" href="#resize" role="tab"
                                 aria-controls="resize" aria-selected="false"><i class="latico"><img src="/assets/img/notification/events.png" class="img-fluid"  alt=""></i> Latest Event</a>
@@ -34,7 +35,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-lg-5 imglu wow fadeInLeft">
-                                        <img src="/assets/img/alter.png" class="img-fluid" alt="">
+                                        <img src="/assets/img/notification/1.png" class="img-fluid" alt="">
                                     </div>
                                     <div class="col-lg-7 latestupdate-wrp wow fadeInRight" >
 										<div id="updateLists">
@@ -50,7 +51,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-5 imglu">
-                                        <img src="/assets/img/alter.png" class="img-fluid" alt="">
+                                        <img src="/assets/img/notification/2.png" class="img-fluid" alt="">
                                     </div>
                                     <div class="col-md-7 latestupdate-wrp" >
 										<div id="resultsLists">
@@ -66,7 +67,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-5 imglu ">
-                                        <img src="/assets/img/alter.png" class="img-fluid" alt="">
+                                        <img src="/assets/img/notification/3.png" class="img-fluid" alt="">
                                     </div>
                                     <div class="col-md-7 latestupdate-wrp  " >
 										<div id="eventsLists">
@@ -76,7 +77,8 @@
 										</div>	
                                     </div>
                                 </div>
-                            </div>                        </div>
+                            </div>                        
+                        </div>
                     </div>
                 </div>
             </div>

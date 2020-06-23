@@ -50,7 +50,7 @@
                     <div class="pos_features_img mt-lg-5">
                         <div class="shape_img blue"></div>
                         <div class="shap_img blue">
-                            <img src="/assets/img/pos/item3.png" class="img-fluid" alt="features">
+                            <img src="/assets/img/appshow/app-landing-pages/dsat.png" class="img-fluid" alt="">
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                                         "To aim is not enough, you must hit!"
                                         
                                     </li>
-
+ 
                                   
 
                                 </ul>
@@ -101,6 +101,18 @@
         </div>
     </section>
 
+    <section>
+        <div class="container">
+    
+            <div class="row">
+                <div class="col-lg-12">
+                    <!--Apps Menu-->
+                    <!-- #Include virtual="/appshow/applinks.asp" -->
+                    <!--/Apps Menu-->
+                    </div>
+                </div>
+            </div>
+  </section>
 
 
 

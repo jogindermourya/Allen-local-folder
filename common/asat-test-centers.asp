@@ -42,16 +42,16 @@
                   <i class="fa fa-map-marker"></i>     </button>
                </td>
             </tr>
-            <tr>
-               <td>AGRA</td>
-               <td>UTTAR PRADESH</td>
-               <td>Shri Ram Krishna Inter College,Khandari Road Near District Jail</td>
-               <td>105</td>
-               <td class="text-center">
-                  <button type="button" class="btn btn-success map_button" orilat="27.1579478" orilan="77.9866936" deslat="27.2042178" deslan="77.9886951" placequery="Shri Ram Krishna Inter College" data-toggle="modal" data-target="#myModal">
-                  <i class="fa fa-map-marker"></i>     </button>
-               </td>
-            </tr>
+				<tr>
+				   <td>AGRA</td>
+				   <td>UTTAR PRADESH</td>
+				   <td>Shri Ram Krishna Inter College,Khandari Road Near District Jail</td>
+				   <td>105</td>
+				   <td class="text-center">
+					  <button type="button" class="btn btn-success map_button" orilat="27.1579478" orilan="77.9866936" deslat="27.2042178" deslan="77.9886951" placequery="Shri Ram Krishna Inter College" data-toggle="modal" data-target="#myModal">
+					  <i class="fa fa-map-marker"></i>     </button>
+				   </td>
+				</tr>
           </tbody>
        </table>
      

@@ -76,7 +76,7 @@
 					<div class="row centersbox_wrp">
 						<div class="col-lg-5 m-auto">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid " src="/assets/img/contactus/kota/sankalp-building.jpg" alt="">
 								<div class="cont_details text-lg-left">
 									<h5>SANKALP (C.O.)</h5>
 									<ul class="list-unstyled">
@@ -89,9 +89,11 @@
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+										
 										<li class="text-lg-center">
-											<a href="#" data-toggle="modal" data-target="#locationshow"
-												class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
 									</ul>
 								</div>
@@ -103,29 +105,36 @@
 		</div>
 
 		<div class="col-lg-12 mb-lg-5" style="display: block;">
-			<div class="row">
+			<div class="row" >
 				<div class="col-lg-12">
 					<div class="row centersbox_wrp">
-
 						<div class="col-lg-3">
-							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+							<div class="box-asws ">
+								<img class="img-fluid " src="/assets/img/contactus/kota/samnvaye.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SAMANVAYA (PNCF)</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											C-210/2, Talwandi, KOTA (Rajasthan) India - 324005
 										</li>
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
-													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+													class="fa fa-envelope"></i>prenurture@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+<!--
 										<li class="text-lg-center">
 											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
 												MAP </a>
 										</li>
+-->
+										<li class="text-lg-center">
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
+										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -133,23 +142,21 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/sangyan.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SANGYAN</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
-										</li>
-										<li>
-											<a href="mailto:info@allen.ac.in"><i
-													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
-										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												Ph: <span>+91-744-2757575</span></a>
+										 Plot No. Sp-Corner 4,
+										 Block FGH Landmark City,
+										 Kunhari, Kota(Rajasthan)
 										</li>
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -157,23 +164,28 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/satyart-2.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SATYARTH - 2</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											Plot No. 5 & 6 District Center, Jawahar Nagar
+Kota (Rajasthan)
 										</li>
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -182,23 +194,30 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/supath.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SUPATH</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											 Naya Nohra, Baran Road,
+Kota (Rajasthan)
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -228,23 +247,29 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/samarth.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SAMARTH</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											CP-14, Indra Vihar KOTA (Rajasthan) India - 324005
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -252,23 +277,29 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/sabal.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SABAL</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											 CP-07, Indra Vihar, KOTA (Rajasthan) India - 324005
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -276,23 +307,29 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/saflya.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SAFALYA</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											PLOT NO.: 1, Rajeev Gandhi Nagar, KOTA (Rajasthan) India - 324005
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -301,23 +338,29 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/sakar.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SAAKAR</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											PLOT NO.: 6, Rajeev Gandhi Nagar, Opp. City Mall, Jhalawar Road, KOTA (Rajasthan) India - 324005
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -329,23 +372,30 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/sakar-2.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SAAKAR - 2</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											Commercial Plot No. 2A, Rajeev Gandhi Nagar,
+Kota (Rajasthan)
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+										
+-->
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -353,23 +403,29 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/sarokar.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SAROKAR</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											 C-10, Talwandi, KOTA (Rajasthan) India - 324005
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -377,23 +433,30 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/sarokar-2.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SAROKAR - 2</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+											 Plot No. 607 A Talwandi
+Kota (Rajasthan)
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -402,23 +465,29 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/savinay.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SAVINAY</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										 (Millenium Tower), CP-1,Indra vihar KOTA (Rajasthan) India - 324005
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -431,23 +500,182 @@
 
 						<div class="col-lg-3">
 							<div class="box-asws">
-								<img class="img-fluid" src="/assets/img/aboutus/asws/3.jpg" alt="">
+								<img class="img-fluid" src="/assets/img/contactus/kota/sukalp.jpg" alt="">
 								<div class="cont_details text-lg-left">
-									<h5>SANKALP (C.O.)</h5>
+									<h5>SUKALP</h5>
 									<ul class="list-unstyled">
 										<li><a href="#"><i class="fa fa-home"></i></a>
-											CP-6, Indra Vihar, Kota (Rajasthan) INDIA - 324005
+										A-781 Indira Vihar, KOTA (Rajasthan) India - 324005
 										</li>
+										
+<!--
 										<li>
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
 												Ph: <span>+91-744-2757575</span></a>
 										</li>
+-->
+										
 										<li class="text-lg-center">
-											<a href="#" class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in
-												MAP </a>
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
 										</li>
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/contactus/kota/samarth.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SAMAYIK</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+										A-588, Talwandi, KOTA (Rajasthan) India - 324005
+										</li>
+										
+<!--
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+-->
+										<li class="text-lg-center">
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
+										</li>
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/contactus/kota/satyarth.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SATYARTH</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+										 District Center, Jawahar Nagar KOTA (Rajasthan) India
+										</li>
+										
+<!--
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+-->
+										
+										<li class="text-lg-center">
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/contactus/kota/samunnat.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SAMMUNNAT</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+										Plot No. Commercial 4/A,
+District Center, Jawahar Nagar,
+Kota (Rajasthan)
+										</li>
+										
+<!--
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+-->
+										
+										<li class="text-lg-center">
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
+										</li>
+
+									</ul>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					
+					<div class="row centersbox_wrp">
+
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/contactus/kota/samyak.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SAMYAK</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+										Landmark City, Bundi Road,
+KOTA (Rajasthan) India
+
+										</li>
+										
+<!--
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+-->
+										
+										<li class="text-lg-center">
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
+										</li>
+
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="box-asws">
+								<img class="img-fluid" src="/assets/img/contactus/kota/sangyan-2.jpg" alt="">
+								<div class="cont_details text-lg-left">
+									<h5>SANGYAN - 2</h5>
+									<ul class="list-unstyled">
+										<li><a href="#"><i class="fa fa-home"></i></a>
+										 Khasra No. 375/450 Landmark Prime, Landmark City, Kunhari
+Kota (Rajasthan)
+										</li>
+										
+<!--
+										<li>
+											<a href="mailto:info@allen.ac.in"><i
+													class="fa fa-envelope"></i>info@allen.ac.in</a></li>
+										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
+												Ph: <span>+91-744-2757575</span></a>
+										</li>
+-->
+										
+										<li class="text-lg-center">
+										<a href="#" onclick="LoadMap_onclick(0,1)" role="button"  orilat="25.223867" orilan="75.878609" deslat="25.1375237" deslan="75.8465139" placequery="ALLEN Career Institute" > </a>	
+										<a href="#" data-toggle="modal" data-target="#locationshow"
+										class="btn btn_nill "><i class="fa fa-map-marker"></i>Locate in MAP </a>
+										</li>
+
 									</ul>
 								</div>
 							</div>

@@ -1,4 +1,16 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
 (function ($) {
     "use strict";
 
@@ -11,12 +23,8 @@
                 var scroll = $(window).scrollTop();
                 if (scroll) {
                     $(".header_area").addClass("navbar_fixed");
-
-
                 } else {
                     $(".header_area").removeClass("navbar_fixed");
-
-
                 }
             });
         };
@@ -34,6 +42,7 @@
             })
         }
     }
+
     offcanvasActivator();
 
     $('.offcanfas_menu .dropdown').on('show.bs.dropdown', function (e) {
@@ -45,7 +54,7 @@
 
 
 
-	
+
 
     /*------------------------------------------------------------------------------- 
     onload Notification banner
@@ -55,12 +64,12 @@
         $('#answerkeyspopup').modal('show');
     });
 
-       /*------------------------------------------------------------------------------- 
-  
-
     /*------------------------------------------------------------------------------- 
-       Top of the page scrolling button
-       -----------------------------------------------------------------------------*/
+ 
+
+ /*------------------------------------------------------------------------------- 
+    Top of the page scrolling button
+    -----------------------------------------------------------------------------*/
     $(document).ready(function () {
         $(window).scroll(function () {
             if ($(this).scrollTop() > 50) {
@@ -87,6 +96,7 @@
      mCustomScrollbar js
    -------------------------------------------------------------------------------*/
     $(window).on("load", function () {
+		$(body).show();
         if ($('.mega_menu_two .scroll').length) {
             $(".mega_menu_two .scroll").mCustomScrollbar({
                 mouseWheelPixels: 50,
@@ -158,6 +168,7 @@
                 margin: 30,
                 items: 1,
                 autoplay: false,
+                mouseDrag: false,
                 smartSpeed: 1000,
                 responsiveClass: true,
                 nav: true,
@@ -188,35 +199,47 @@
     // Home slider
 
     function appScreenshotHomeslider() {
-        var app_screenshotSlider = $(".homeslider");
-        if (app_screenshotSlider.length) {
-            app_screenshotSlider.owlCarousel({
-                loop: true,
-                margin: 10,
-                items: 1,
-                autoplay: true,
-                slidesToScroll: 0,
-                smartSpeed: 450,
-                responsiveClass: true,
-                nav: false,
-                dots: true,
-                autoplayHoverPause: true,
-                responsive: {
-                    0: {
-                        items: 1
+        $(".homeslider").html('');
+        $.get("/assets/json/customData.json", function (data) {
+            var sliderData = data[center];
+
+            for (var i = 0; i < sliderData.length; i++) {
+                $(".homeslider").append(sliderData[i].item)
+            }
+
+            var app_screenshotSlider = $(".homeslider");
+            if (app_screenshotSlider.length) {
+                app_screenshotSlider.owlCarousel({
+                    loop: true,
+                    margin: 10,
+                    items: 1,
+                    autoplay: true,
+                    slidesToScroll: 0,
+                    smartSpeed: 450,
+                    responsiveClass: true,
+                    nav: false,
+                    dots: true,
+                    autoplayHoverPause: true,
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        650: {
+                            items: 1,
+                        },
+                        776: {
+                            items: 1,
+                        },
+                        1199: {
+                            items: 1,
+                        },
                     },
-                    650: {
-                        items: 1,
-                    },
-                    776: {
-                        items: 1,
-                    },
-                    1199: {
-                        items: 1,
-                    },
-                },
-            })
-        }
+                })
+            }
+        });
+
+
+
     }
 
 
@@ -225,44 +248,58 @@
 
     // Gateway Home slider
 
-    function appScreenshotGatewaySlider() {
-        var app_screenshotGatewaySlider = $(".gatewaySlider");
-        if (app_screenshotGatewaySlider.length) {
-            app_screenshotGatewaySlider.owlCarousel({
-                loop: true,
-                // rtl:true,
-                margin: 10,
-                items: 3,
-                autoplay: true,
-                smartSpeed: 450,
-                responsiveClass: true,
-                nav: true,
-                dots: false,
-                autoplayHoverPause: true,
-                responsive: {
-                    0: {
-                        items: 1,
-                        nav: false
-                    },
-                    650: {
-                        items: 1,
-                        nav: false
 
+    // Home slider
+    function appScreenshotGatewaySlider() {
+        $(".gatewaySlider").html('');
+        $.get("/assets/json/customData.json", function (data) {
+            var sliderData = data[center];
+
+            for (var i = 0; i < sliderData.length; i++) {
+                $(".gatewaySlider").append(sliderData[i].item)
+            }
+
+            var app_screenshotSlider = $(".gatewaySlider");
+            if (app_screenshotSlider.length) {
+                app_screenshotSlider.owlCarousel({
+                    loop: true,
+                    margin: 10,
+                    items: 1,
+                    autoplay: true,
+                    slidesToScroll: 0,
+                    smartSpeed: 450,
+                    responsiveClass: true,
+                    nav: true,
+                    dots: false,
+                    autoplayHoverPause: true,
+                    responsive: {
+                        0: {
+                            items: 1,
+                            nav: false
+                        },
+                        650: {
+                            items: 1,
+                            nav: false
+
+                        },
+                        776: {
+                            items: 3,
+                        },
+                        1199: {
+                            items: 3,
+                        },
                     },
-                    776: {
-                        items: 3,
-                    },
-                    1199: {
-                        items: 3,
-                    },
-                },
-            })
-        }
+                })
+            }
+        });
+
+
+
     }
 
 
     appScreenshotGatewaySlider();
-
+  
 
     // result top slider
 
@@ -353,7 +390,7 @@
                 smartSpeed: 2000,
                 nav: false,
                 dot: true
-               
+
             })
         }
     }
@@ -516,13 +553,13 @@ function search_animal() {
 $(document).ready(function () {
     $('#lightgallery').lightGallery();
     $('.lightgallery').lightGallery();
-
 });
 
 /*------------------------------------------------------------------------------- 
   Data Table for ASAT
    -----------------------------------------------------------------------------*/
 $(document).ready(function () {
+    $('#datatable-course').DataTable();
     $('#datatable').DataTable();
     $('#datatable-info-centers').DataTable();
 });
@@ -584,6 +621,7 @@ function navbarcrsFixed() {
         });
     };
 };
+
 navbarcrsFixed();
 
 $(document).ready(function () {
@@ -597,7 +635,7 @@ $(document).ready(function () {
         begin: function () {
             //Hack so you can click other menu items after the initial click
             // $('.bricurm').css({'margin-top': '20px'}); 
-  
+
         },
         end: function () {
             // $('.bricurm').css({'margin-top': '0px'}); 
@@ -609,3 +647,93 @@ $(document).ready(function () {
 });
 
 /*---------------------------------------END----------------------------------------*/
+
+
+
+//  sms 
+
+    $(document).ready(function () {
+
+        $(".get_link").click(function () {
+
+            var mobile = $(this).parent().find(".mobile_no").val();
+            var type = $(this).parent().find(".mobile_no").attr("attr");
+     
+            if (mobile == "") {
+                alert("Please fill mobile number");
+                return false;
+            }
+
+            if (isNaN(mobile)) {
+                alert("Please fill only numberic Value");
+                return false;
+            }
+
+            if (mobile.length < 10) {
+                alert("Please fill only 10 digit Value");
+                return false;
+            }
+
+            if (mobile.length > 10) {
+                alert("Please fill only 10 digit Value");
+                return false;
+            }
+            
+         
+          // alert(mobile + " : " + type);
+            $.ajax({
+                url: '',
+                data: { mobile: mobile, type: type },
+                type: 'post',
+
+                success: function (data) {
+                    
+                    alert("Successfully");
+                },
+
+                error: function () {
+                    alert("error");
+                }
+            });
+            
+        });
+    });
+
+
+
+
+//  end
+
+//
+
+
+
+$(document).ready(function() {
+  
+  var scrollLink = $('.scroll');
+  
+	// Smooth scrolling
+	scrollLink.click(function(e) {
+//		e.preventDefault();
+		$('body,html').animate({
+		scrollTop: $(this.hash).offset().top-177
+		}, 1000 );
+	});
+  
+  // Active link switching
+  $(window).scroll(function() {
+    var scrollbarLocation = $(this).scrollTop();
+    
+    	scrollLink.each(function() {
+      
+      var sectionOffset = $(this.hash).offset().top - 182;
+      
+      if ( sectionOffset <= scrollbarLocation ) {
+        $(this).parent().addClass('active');
+        $(this).parent().siblings().removeClass('active');
+      }
+    })
+    
+  })
+  
+})

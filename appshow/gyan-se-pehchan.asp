@@ -61,7 +61,7 @@
 
                 <div class="col-lg-6">
                     <div class="pos_features_content pl_70">
-                        <h2> Game Rules</h2>
+                        <h2> Game Rules</h2> 
                         <div class="media h_features_item">
                             <div class="media-body">
                                 <ul class="list-unstyled appli">
@@ -102,7 +102,7 @@
                     <div class="pos_features_img img_left">
                         <div class="shape_img green"></div>
                         <div class="shap_img green">
-                            <img src="/assets/img/pos/item2.png" alt="features">
+                            <img src="/assets/img/appshow/app-landing-pages/gsp.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                     <div class="pos_features_img">
                         <div class="shape_img green"></div>
                         <div class="shap_img green">
-                            <img src="/assets/img/pos/item2.png" alt="features">
+                            <img src="/assets/img/appshow/app-landing-pages/gsp1.png" alt="features">
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                     <div class="pos_features_img img_left">
                         <div class="shape_img green"></div>
                         <div class="shap_img green">
-                            <img src="/assets/img/pos/item2.png" alt="features">
+                            <img src="/assets/img/appshow/app-landing-pages/gsp3.png" alt="features">
                         </div>
                     </div>
                 </div>
@@ -240,7 +240,23 @@
             </div>
         </div>
     </section>
+
+
+
+
 </div>
+    <section>
+        <div class="container">
+    
+            <div class="row">
+                <div class="col-lg-12">
+                    <!--Apps Menu-->
+                    <!-- #Include virtual="/appshow/applinks.asp" -->
+                    <!--/Apps Menu-->
+                    </div>
+                </div>
+            </div>
+  </section>
 
 <!--Footer-->
 <!-- #Include virtual="include/footer.asp" -->

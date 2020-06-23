@@ -14,7 +14,7 @@
     </div>
 </section> -->
 <!-- End Breadcrumb Section -->
-
+ 
 
 
 <div class="body_wrapper">
@@ -63,7 +63,7 @@
                     <div class="pos_features_img">
                         <div class="shape_img blue"></div>
                         <div class="shap_img blue">
-                            <img src="/assets/img/pos/item3.png" alt="features">
+                            <img src="/assets/img/pos/item3.png" alt="feaures">
                         </div>
                     </div>
                 </div>
@@ -134,7 +134,18 @@
     </section>
 
 
-
+    <section>
+        <div class="container">
+    
+            <div class="row">
+                <div class="col-lg-12">
+                    <!--Apps Menu-->
+                    <!-- #Include virtual="/appshow/applinks.asp" -->
+                    <!--/Apps Menu-->
+                    </div>
+                </div>
+            </div>
+  </section>
 
 
 </div>

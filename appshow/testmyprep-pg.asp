@@ -54,7 +54,7 @@
                 </div>
 
             </div>
-        </div>
+        </div> 
     </section>
 
     <section class="pos_features_area sec_pad wow fadeInLeft">
@@ -95,6 +95,18 @@
         </div>
 
     </section>
+    <section>
+        <div class="container">
+    
+            <div class="row">
+                <div class="col-lg-12">
+                    <!--Apps Menu-->
+                    <!-- #Include virtual="/appshow/applinks.asp" -->
+                    <!--/Apps Menu-->
+                    </div>
+                </div>
+            </div>
+  </section>
 
    
 </div>

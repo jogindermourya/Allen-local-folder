@@ -17,13 +17,15 @@
                                 amazing collection of the articles of your interest clipped...
                                 <a href="/appshow/allen_info.asp"> Read More</a>
                             </p>
-                            <form method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="allen_info" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+
+                            </div>
+                           
+                           
                         </div>
                     </div>
                     <div class="col-lg-5 offset-lg-1 wow fadeInRight">
@@ -51,13 +53,13 @@
                                  It is the most trusted and valued institute for the preparation...
                                 <a href="/appshow/myklips.asp"> Read More</a>
                             </p>
-                            <form class="mailchimp" method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="myklips" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+
+                            </div>
                         </div>
 
                     </div>
@@ -85,13 +87,13 @@
                                 the most trusted and valued institute for the preparation...
                                 <a href="/appshow/allen-gk.asp"> Read More</a>
                             </p>
-                            <form class="mailchimp" method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="allen_gk" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+
+                            </div>
                         </div>
 
                     </div>
@@ -120,13 +122,13 @@
                                 the most trusted and valued institute for the preparation...
                                 <a href="/appshow/gyan-se-pehchan.asp"> Read More</a>
                             </p>
-                            <form class="mailchimp" method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="gsp" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+
+                            </div>
                         </div>
 
                     </div>
@@ -154,13 +156,13 @@
                                 the most trusted and valued institute for the preparation...
                                 <a href="/appshow/testmyprep-olts.asp"> Read More</a>
                             </p>
-                            <form class="mailchimp" method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="test_my_prep_olts" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+
+                            </div>
                         </div>
 
                     </div>
@@ -188,15 +190,13 @@
                                 the most trusted and valued institute for the preparation...
                                 <a href="/appshow/testmyprep-pg.asp"> Read More</a>
                             </p>
-                            <form class="mailchimp" method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="test_my_prep_pg" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+                            </div>
                         </div>
-
                     </div>
                     <div class="col-lg-5 offset-lg-1 wow fadeInRight">
                         <div class="app-animation">
@@ -222,13 +222,12 @@
                                 the most trusted and valued institute for the preparation...
                                 <a href="/appshow/testmyprep-gate.asp"> Read More</a>
                             </p>
-                            <form class="mailchimp" method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="test_my_prep_gate" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+                            </div>
                         </div>
 
                     </div>
@@ -257,13 +256,12 @@
                                 the most trusted and valued institute for the preparation...
                                 <a href="/appshow/allen-c-sat.asp"> Read More</a>
                             </p>
-                            <form class="mailchimp" method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="allen-c-sat" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+                            </div>
                         </div>
 
                     </div>
@@ -291,13 +289,12 @@
                                 the most trusted and valued institute for the preparation...
                                 <a href="/appshow/allen-d-sat.asp"> Read More</a>
                             </p>
-                            <form class="mailchimp" method="post">
-                                <div class="input-group phoneinput">
-                                    <input type="text" name="EMAIL" class="form-control memail"
-                                        placeholder="Enter Your Phone Number">
-                                    <button class="blue_btn" type="submit">Get Link</button>
-                                </div>
-                            </form>
+                            <div class="input-group phoneinput">
+                                <input type="text" class="form-control memail mobile_no"
+                                    attr="allen-d-sat" placeholder="Enter Your Phone Number"
+                                    maxlength="10" id="mobilenumber">
+                                <button class="blue_btn get_link" type="button">Get Link</button>
+                            </div>
                         </div>
 
                     </div>
@@ -326,13 +323,12 @@
                     the most trusted and valued institute for the preparation...
                     <a href="/appshow/allen-test-my-prep.asp">Read More</a>
                 </p>
-                <form class="mailchimp" method="post">
-                    <div class="input-group phoneinput">
-                        <input type="text" name="EMAIL" class="form-control memail"
-                            placeholder="Enter Your Phone Number">
-                        <button class="blue_btn" type="submit">Get Link</button>
-                    </div>
-                </form>
+                <div class="input-group phoneinput">
+                    <input type="text" class="form-control memail mobile_no"
+                        attr="allen-test-my-prep" placeholder="Enter Your Phone Number"
+                        maxlength="10" id="mobilenumber">
+                    <button class="blue_btn get_link" type="button">Get Link</button>
+                </div>
             </div>
 
         </div>
@@ -352,3 +348,6 @@
 
     </div>
 </section>
+
+
+

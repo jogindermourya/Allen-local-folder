@@ -28,7 +28,7 @@
             <div class="row agency_featured_item mb-5 flex-row-reverse">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right">
-                        <img src="/assets/img/aboutus/leadwithallen/1.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/1.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -45,7 +45,7 @@
             <div class="row agency_featured_item mb-5 agency_featured_item_two">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right">
-                        <img src="/assets/img/aboutus/leadwithallen/2.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/2.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -65,7 +65,7 @@
             <div class="row agency_featured_item mb-5 flex-row-reverse">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right ">
-                        <img src="/assets/img/aboutus/leadwithallen/3.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/3.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -82,7 +82,7 @@
             <div class="row agency_featured_item mb-5 agency_featured_item_two">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right">
-                        <img src="/assets/img/aboutus/leadwithallen/4.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/4.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -102,7 +102,7 @@
             <div class="row agency_featured_item mb-5 flex-row-reverse">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right">
-                        <img src="/assets/img/aboutus/leadwithallen/5.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/5.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -120,7 +120,7 @@
             <div class="row agency_featured_item mb-5 agency_featured_item_two">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right">
-                        <img src="/assets/img/aboutus/leadwithallen/6.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/6.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -139,7 +139,7 @@
             <div class="row agency_featured_item mb-5 flex-row-reverse">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right">
-                        <img src="/assets/img/aboutus/leadwithallen/7.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/7.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -159,7 +159,7 @@
             <div class="row agency_featured_item mb-5 agency_featured_item_two">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right">
-                        <img src="/assets/img/aboutus/leadwithallen/8.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/8.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -177,7 +177,7 @@
             <div class="row agency_featured_item flex-row-reverse">
                 <div class="col-md-4">
                     <div class="agency_featured_img text-right">
-                        <img src="/assets/img/aboutus/leadwithallen/10.png" alt="">
+                        <img src="/assets/img/aboutus/lead-with-allen/9.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">

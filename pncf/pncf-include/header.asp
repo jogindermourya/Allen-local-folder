@@ -115,7 +115,7 @@
                         <ul class="navbar-nav menu w_menu ml-auto">
                       
                             <li class="nav-item">
-                                <a class="nav-link" href="/pncf/kota/courses/pre-nurture-and-career-foundation-coaching.asp"> Course</a>
+                                <a class="nav-link" href="/pncf/kota/pre-nurture-and-career-foundation-coaching.asp"> Course</a>
                             </li>
                             <li class="nav-item">
                                 <a href="http://workshop.allen.ac.in/about/about-workshops.aspx" class="nav-link" target="_blank">ALLEN Workshops</a>
@@ -124,7 +124,7 @@
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Admission</a>
                                 <ul role="menu" class=" dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/how-to-apply.asp">How to Apply for APPLICATION FORM</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Apply Online</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/appsmvc2021/appforms/Login">Apply Online</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/fee-deposition-modes.asp">Fee Deposition Modes</a></li>
                                     <li class="nav-item"><a class="nav-link"  href="/pncf/kota/2020-21/scholarship-rules.asp">Scholarship Rules</a></li>
@@ -135,11 +135,11 @@
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
                                     aria-haspopup="true" aria-expanded="false" href="#"> ASAT Details</a>   
-                                <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">ASAT Result</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">ASAT Admit Card</a></li>
-                                </ul>
+									<ul role="menu" class=" dropdown-menu">
+										<!-- <li class="nav-item"><a class="nav-link" href="/pncf/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li> -->
+										<li class="nav-item"><a class="nav-link" href="https://allen.ac.in/ASATRESULTNEW/Results.aspx">ASAT Result</a></li>
+										<!-- <li class="nav-item"><a class="nav-link" href="#">ASAT Admit Card</a></li> -->
+									</ul>
                             </li>
                 
                             <li class="nav-item dropdown submenu mega_menu">
@@ -151,18 +151,22 @@
                                         <li class="nav-item">
                                             <h6 class="menu-hed-course">SESSION 2020-21</h6>
                                             <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="#" class="nav-link">Download Gst Receipt</a></li>
+                                                <li class="nav-item"><a href="https://www.allen.ac.in/appsmvc2021/gst/Login" class="nav-link">Download Gst Receipt</a></li>
                                                 <li class="nav-item">
-                                                    <a href="#" class="nav-link">TALLENTEX 2020 Qualified (New &amp;
+                                                    <a href="https://www.allen.ac.in/appsmvc2021/ttex/default" class="nav-link">TALLENTEX 2020 Qualified (New &amp;
                                                         Existing Students)  <img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt="">
                                                     </a>
                                                 </li>
-                                                <li class="nav-item"><a href="#" class="nav-link">Nurture 2nd Year (Enthusiast) / Privilege Fees</a></li>
+                                                <li class="nav-item"><a href="https://www.allen.ac.in/appsmvc2021/formstatus/Login" class="nav-link">Nurture 2nd Year (Enthusiast) / Privilege Fees</a></li>
                                                 <li class="nav-item">
-                                                    <a href="#" class="nav-link"> Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
+                                                    <a href="https://www.allen.ac.in/appsmvc2021/formstatus/Login" class="nav-link"> Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a href="/campus-dunia.asp" target="_blank" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu"
+                                                    <a href="/bfl.asp" class="nav-link">Educational courses on Easy EMI from  <img src="/assets/img/bajaj-logo.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/campus-dunia.asp" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu"
                                                      alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> </a>
                                                </li>
                                             </ul>
@@ -170,12 +174,16 @@
                                         <li class="nav-item">
                                             <h6 class="menu-hed-course">SESSION 2019-20</h6>
                                             <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="#" class="nav-link">Download GST Receipt</a></li>
+                                                <li class="nav-item"><a href="https://allen.ac.in/appsmvc1920/gst/Login" class="nav-link">Download GST Receipt</a></li>
                                                 <li class="nav-item">
-                                                    <a href="#" class="nav-link">Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
+                                                    <a href="https://www.allen.ac.in/appsmvc1920/formstatus/Login" class="nav-link">Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a  href="/campus-dunia.asp" target="_blank"  class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
+                                                    <a href="/bfl.asp" class="nav-link">Educational courses on Easy EMI from  <img src="/assets/img/bajaj-logo.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/campus-dunia.asp" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
                                                     </a>
                                                 </li>
                                             </ul>
@@ -186,10 +194,10 @@
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Student Zone</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/pncf/olympiads-competitions-exam-calender.asp">Competitive Exam Calendar</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">All India Open Test (AIOT) : Result 2019-20</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Periodic Test Results</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Attendance of Classroom  Students</a></li>
+                                    <!-- <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/pre_nurture/olympiads-competitions-exam-calender.asp">Competitive Exam Calendar</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/aiotresult1819/Results.aspx">All India Open Test (AIOT) : Result 2019-20</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://csat.allen.ac.in/">Periodic Test Results</a></li> -->
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/StudAttn/ATTLogin.aspx">Attendance of Classroom  Students</a></li>
                                 </ul>
                             </li>
                         </ul>

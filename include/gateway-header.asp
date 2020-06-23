@@ -83,18 +83,19 @@
                             <div class="navbar-nav navbar-nav-hover align-items-lg-center topmenu row">
                                 <div class="col-lg-8 col-sm-12 fullwd320">
                                     <ul class="header_contact_info list-unstyled">
-                                        <li><a href="#"><i class="fa fa-globe"></i> Employee Zone</a></li>
+                                        <li><a href="/apps/career/general/default.asp"><i class="fa fa-briefcase"></i> Jobs</a></li>
+                                        <li><a href="https://www.allenites.com/" target="_blank"><i class="fa fa-globe"></i> Allenites</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-lg-4 col-sm-12 fullwd320">
                                     <ul class="header_contact_info list-unstyled text-right">
+                                        <li><a href="/faq.asp"><i class="fa fa-question-circle"></i> Faq</a></li>
                                         <li>
                                             <a href="/contactus.asp"> <i class="fa fa-building"></i> Contact</a>
                                         </li>
                                         <li>
                                             <a href="/enquiry.asp"> <i class="fa fa-user"></i> Enquiry</a>
                                         </li>
-
                                     </ul>
                                 </div>
                             </div>
@@ -114,7 +115,7 @@
                             <span class="hamburger-cross"><span></span><span></span></span>
                         </span>
                     </button>
-                    <a class="navbar-brand" href="/"><img src="/assets/img/logo.png" class="img-fluid" alt="logo"></a>
+                    <a class="navbar-brand" href="/"><img src="/assets/img/allen-logo-kota.jpg" class="img-fluid" alt="logo"></a>
 
                     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                         <ul class="navbar-nav menu w_menu">
@@ -133,32 +134,45 @@
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/allen-student-welfare-society.asp">ASWS</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="dropdown-toggle nav-link" href="/jobs.asp">Jobs</a></li>
-                            <li class="nav-item"><a class="dropdown-toggle nav-link" href="#">Allenites</a></li>
-                            <li class="nav-item"><a class="dropdown-toggle nav-link" href="/faq.asp">Faq</a></li>
-                            <li class="nav-item"><a class="dropdown-toggle nav-link" href="/contactus.asp">Contact</a></li>
-
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Results</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aipmt.asp">NEET/AIPMT</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aiims.asp">AIIMS</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/cbsex.asp">CBSE Class X</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-aipmt.asp">NEET/AIPMT</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-aiims.asp">AIIMS</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/cbsex.asp">CBSE Class X</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
 
                                 </ul>
                             </li>
 
-                           
+                            <li class="dropdown submenu nav-item">
+                                <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Employee Zone</a>
+                                <ul role="menu" class=" dropdown-menu">
+                                    <li class="nav-item"> <a class="nav-link"  href="https://www.allen.ac.in/apps1617/employeezone/login.aspx"  target="_blank">Employee Login</a></li>
+                                    <li class="nav-item"> <a class="nav-link"  href="https://hrms.allen.ac.in/essALLEN/login.aspx" target="_blank">HRMS-ESS</a></li>
+                                    <li class="nav-item"> <a class="nav-link"  href="http://mail.allen.in/appsuite/" target="_blank">Webmail</a></li>
+                                    </ul>
+                            </li>
+
+                            <li class="dropdown submenu nav-item">
+                                <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Gallery</a>
+                                <ul role="menu" class=" dropdown-menu">
+                                    <li class="nav-item"> <a class="nav-link"  href="/photogallery.asp">Photo Gallery</a></li>
+                                    <li class="nav-item"> <a class="nav-link"  href="/mediabox/allen-news-media.asp">Media Box</a></li>
+                                    <li class="nav-item"> <a class="nav-link"  href="/mediabox/allen-online-news-media-2019.asp">Online Media</a></li>
+                                </ul>
+
+                            </li>
+                          
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Student Zone</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="#">Competitive Exam Calendar</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">All India Open Test (AIOT) : Result 2019-20</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Periodic Test Results</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Attendance of Classroom  Students</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/pre_nurture/olympiads-competitions-exam-calender.asp">Competitive Exam Calendar</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/aiotresult1819/Results.aspx">All India Open Test (AIOT) : Result 2019-20</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://csat.allen.ac.in/">Periodic Test Results</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/StudAttn/ATTLogin.aspx">Attendance of Classroom  Students</a></li>
                                 </ul>
                             </li>
                         </ul>

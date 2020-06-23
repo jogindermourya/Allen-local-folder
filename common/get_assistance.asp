@@ -1,4 +1,4 @@
-<section class="get_asstance_wrper">
+<section class="get_asstance_wrper" id="get_assistance">
     <div class="container">
 
         <div class="row text-center">

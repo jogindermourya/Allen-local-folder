@@ -48,57 +48,57 @@
                     <ul class="list-unstyled row basepic lightgallery">
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/os-01.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/os-01.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/os-02.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/os-02.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/os-03.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/os-03.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/os-04.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/os-04.jpg">
                             </a>
                         </li>
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/os-05.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            </a>
-                        </li>
-
-                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/os-05.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/os-06.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/os-06.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/os-07.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/os-07.jpg">
+                            </a>
+                        </li>
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/os-08.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/os-08.jpg">
                             </a>
                         </li>
 
@@ -136,88 +136,94 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/classroom-session-1.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <p class="text-justify p-1 m-0">Classes are held in morning and evening sessions.
-                                    Separate Batches are formed for different Medium.
-                                    Strength is accommodated in classrooms which are air-cooled and are equipped with
-                                    Audio-Video systems.</p>
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session-1.jpg">
+                                <p class="text-justify p-1 m-0">Properly planned learning sessions that keep you engaged and help you meet your learning objectives.</p>
                             </a>
                         </li>
                     </ul>
 
                     <div class="list-unstyled row basepic">
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-4 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/classroom-session-hitech.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/classroom-session-hitech.jpg">
                                     </a>
+                                    <h4 class="color-light">Hi-Tec Classroom</h4>
                                 </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Comprehensive Study Material</h5>
-                                <p class="f_400 mb-0">The study material that we provide is meticulously prepared by our
-                                    experts to help students prepare subjectively for their exams. It is simplified yet
-                                    comprehensive; specially tailored to give a leading edge to our students. This
-                                    serves as a treasuretrove of concepts and questions.</p>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-4 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/classroom-session-sm.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/classroom-session-sm.jpg">
                                     </a>
+                                    <h4 class="color-light">Comprehensive Study Material</h4>
                                 </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Education with Indian values</h5>
-                                <p class="f_400 mb-0">We infuse Indian values in our students during classroom sessions
-                                    to uphold our ethics and culture; this is done by regular prayer, oath, motivational
-                                    talks and other similar endeavors. </p>
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-4 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/classroom-session-prarthana.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/classroom-session-prarthana.jpg">
                                     </a>
+                                    <h4 class="color-light">Education with Indian values</h4>
                                 </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Yoga Sessions</h5>
-                                <p class="f_400 mb-0">To inculcate positivity and freshness among the students.</p>
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-12  text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/classroom-session-board.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/classroom-session-board.jpg">
                                     </a>
+                                    <h4 class="color-light">Board Exam Guidance</h4>
                                 </div>
                             </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Science Lab</h5>
-                                <p class="f_400 mb-0">Students can take advantage of 'Learning by Doing' at our well
-                                    equipped Science lab.</p>
+                        </div>
+
+                        <div class="col-lg-6 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/classroom-session-slab.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/classroom-session-slab.jpg">
+                                    </a>
+                                    <h4 class="color-light">Science Lab</h4>
+                                </div>
                             </div>
                         </div>
+                        <div class="col-lg-6 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/yoga.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/yoga.jpg">
+                                    </a>
+                                    <h4 class="color-light">Yoga Sessions</h4>
+                                </div>
+                            </div>
+                        </div>
+                        
+    
                         <div class="blog_single col-12 mt-3">
                             <div class="blog_content note cus_p">
                                 <blockquote class="blockquote">
@@ -250,47 +256,62 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/doubt-counter.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <p class="text-justify p-1 m-0">Doubt removal counters are a <b>unique platform</b> that
-                                    ALLEN
-                                    offers to its students- so that their doubts are clarified,
-                                    concepts are strengthened and confidence is boosted up by our <b>expert faculty</b>
-                                    members
-                                    during one to one
-                                    interactions. This meticulously planned platform paves the beginning of progress,
-                                    the genius of reason and the
-                                    <b> pathway to success</b> by clarifying the doubts from the very grass root
-                                    level .</p>
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/doubt-counter.jpg">
+                                <p class="text-justify p-1 m-0">This is our unique system that allows you to clear your doubts without any hesitation and get solutions from expert faculty members to enhance your knowledge.</p>
                             </a>
                         </li>
                     </ul>
 
                     <ul class="list-unstyled row basepic lightgallery">
 
-                        <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/doubt-removal-01.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/doubt-removal-01.jpg">
                             </a>
                         </li>
 
-                        <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                        <li class="col-lg-6 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/doubt-removal-02.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/doubt-removal-02.jpg">
                             </a>
                         </li>
 
-                        <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/doubt-removal-03.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/doubt-removal-03.jpg">
                             </a>
                         </li>
-
+                        <li class="col-lg-6 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/doubt-removal-04.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/doubt-removal-04.jpg">
+                            </a>
+                        </li>
+                        <li class="col-lg-6 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/doubt-removal-05.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/doubt-removal-05.jpg">
+                            </a>
+                        </li>
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/doubt-removal-06.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/doubt-removal-06.jpg">
+                            </a>
+                        </li>
+                        <li class="col-lg-9 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/doubt-removal-07.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/doubt-removal-07.jpg">
+                            </a>
+                        </li>                       
                     </ul>
+                
                 </div>
 
             </div>
@@ -322,103 +343,86 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/p-test-full.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <p class="text-justify p-1 m-0">Periodic Tests are taken at regular intervals to give
-                                    ample practice to the students,
-                                    so that they learn to respond promptly to tricky questions within the defined time
-                                    frame.</p>
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/p-test-full.jpg">
+                                <p class="text-justify p-1 m-0">This is a system designed to help you evaluate and self-analyze your preparation consistently, on the basis of which you get to improve your performance.</p>
                             </a>
                         </li>
                     </ul>
                     <div class="list-unstyled row basepic">
-                        <div class="col-lg-4 col-sm-6 col-md-6">
+                        <div class="col-lg-4 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/pt-analysis.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/pt-analysis.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
                                 <h5 class="f_p f_size_18 f_500  mb_10">Multidimensional Performance Analysis</h5>
-                                <p class="f_400 mb-0">This is ALLEN’s unique initiative in the form of mobile app which
-                                    gives you a window to monitor your child’s strong and weak areas of the subjects,
-                                    previous performances and a detailed analysis of it all. All this can also be
-                                    reviewed via csat.allen.ac.in or by installing "ALLEN CSAT" mobile app.</p>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-4 col-sm-6 col-md-6">
+                        <div class="col-lg-4 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/pt-feedback.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/pt-feedback.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
                                 <h5 class="f_p f_size_18 f_500  mb_10">Faculty Feedback System</h5>
-                                <p class="f_400 mb-0">Feedback of Faculties on specific parameters is taken from
-                                    students at regular intervals.</p>
                             </div>
                         </div>
-
-                        <div class="col-lg-4 col-sm-6 col-md-6">
+                        <div class="col-lg-4 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/pt-award.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/pt-award.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
                                 <h5 class="f_p f_size_18 f_500  mb_10">Periodic Test Awards</h5>
-                                <p class="f_400 mb-0">ALLEN encourages excellence and instills perseverance in students
-                                    by rewarding them “silver medal” for their performance in periodic tests.</p>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-4 col-sm-6 col-md-6">
+                        <div class="col-lg-4 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/pt-slot.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/pt-slot.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
                                 <h5 class="f_p f_size_18 f_500  mb_10">TOP Lab for Online Test</h5>
-                                <p class="f_400 mb-0">Lab for Online Tests is operational to familiarize our students
-                                    with online test environment and methodology.</p>
                             </div>
                         </div>
-                        <div class="col-lg-8 col-sm-6 col-md-6">
+                        <div class="col-lg-8 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/cbt-lab.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/cbt-lab.jpg">
                                     </a>
                                 </div>
                             </div>
-                            <div class="covertxt">
+                            <div class="covertxt text">
                                 <h5 class="f_p f_size_18 f_500  mb_10">Computer Based Test (CBT)</h5>
-                                <p class="f_400 mb-0">ALLEN has instituted Real Time Computer Based Test (CBT) for CCP
-                                    Students to help them prepare, practice and get familiarized with the actual
-                                    platform before appearing in actual JEE Advanced / AIIMS CBT.</p>
                             </div>
                         </div>
                     </div>
@@ -452,88 +456,73 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/mentoring-full.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <p class="text-justify p-1 m-0">ALLEN Mentors Student Mentorship Programme
-
-                                    To help overcome academic and non-academic problems faced by our students, we
-                                    nominate our Faculties as mentors of specific batches. They
-                                    provide academic guidance, personal care and motivation to make students feel at
-                                    home and utilize all of their energy to be successful.</p>
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/mentoring-full.jpg">
+                                <p class="text-justify p-1 m-0">The mentoring sessions are part of our consistent endeavor to provide you with proper guidance, personal care and motivation from the proficient ALLEN faculties.</p>
                             </a>
                         </li>
                     </ul>
 
                     <div class="list-unstyled row basepic">
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/mentoring-1.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/mentoring-1.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Comprehensive Study Material</h5>
-                                <p class="f_400 mb-0">The study material that we provide is meticulously prepared by our
-                                    experts to help students prepare subjectively for their exams. It is simplified yet
-                                    comprehensive; specially tailored to give a leading edge to our students. This
-                                    serves as a treasuretrove of concepts and questions.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Academic Motivation by Director & HODs</h5>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/mentoring-2.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/mentoring-2.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Education with Indian values</h5>
-                                <p class="f_400 mb-0">We infuse Indian values in our students during classroom sessions
-                                    to uphold our ethics and culture; this is done by regular prayer, oath, motivational
-                                    talks and other similar endeavors. </p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Academic Tips & Tricks by Subject HODs</h5>
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/mentoring-3.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/mentoring-3.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Yoga Sessions</h5>
-                                <p class="f_400 mb-0">To inculcate positivity and freshness among the students.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Assessment Classes</h5>
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/mentoring-4.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/mentoring-4.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Science Lab</h5>
-                                <p class="f_400 mb-0">Students can take advantage of 'Learning by Doing' at our well
-                                    equipped Science lab.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Parent Teacher Meeting</h5>
                             </div>
                         </div>
                         <div class="blog_single col-12 mt-3">
@@ -569,16 +558,11 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                            data-src="/assets/img/aboutus/allen-system/ope-session.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt=""
-                                    src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
-                                <p class="text-justify p-1 m-0">In Open Session the top performers of periodic tests are
-                                    awarded ‘Saraswati Silver Medal ‘. The music that plays
-                                    soothes the students and the motivation thus received fine-tunes their potential
-                                    with their aspirations. By the end
-                                    of each session, the students overflow with enthusiasm to attain never-before
-                                    heights in life.</p>
+                                    src="/assets/img/aboutus/allen-system/ope-session.jpg">
+                                <p class="text-justify p-1 m-0">We want you to grow in the light of positivity & perseverance; open sessions work as the right platform to provide you with some motivational talks.</p>
                             </a>
                         </li>
                     </ul>
@@ -586,43 +570,43 @@
                     <ul class="list-unstyled row basepic lightgallery">
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/op1.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/op1.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/op2.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/op2.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/op3.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/op3.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/op4.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/op4.jpg">
                             </a>
                         </li>
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/op5.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/op5.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-4 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/op6.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/op6.jpg">
                             </a>
                         </li>
                     </ul>
@@ -636,7 +620,6 @@
                             <h6 class="mb-0 f_size_18 l_height30 f_p f_400 d-inline-block">Musical Motivational Session
                                 To Build Up
                                 An Aura Of Positivity And Passion</h6>
-
                         </blockquote>
                     </div>
                 </div>
@@ -653,34 +636,35 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Activities</h4>
+                <h4 class="mb_20 text-center mb-3">PRE-NURTURE & CAREER FOUNDATION ACTIVITIES</h4>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="demo-gallery">
+                    <p class="mb_20 text-center mb-3">It is our unique approach to nurture your talent and prepare you for future success and provide you with holistic development.</p>
+
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/Activities_01.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <div class="text-center mt-3">
-                                    <h4>New Initiative IntelliBrain Workshop</h4>
-                                    <p>The early childhood brain development program for the age group of 6 to 11 years.
-                                    </p>
-                                </div>
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/Activities_01.jpg">
                             </a>
                         </li>
                     </ul>
-
-                    <div class="row basepic">
+                    <div class="row">
+                        <div class="col-lg-12 mb-lg-4 mb-md-3">
+                            <h4 class="mb_20 text-center mb-3">IntelliBrain Workshop</h4>
+                        </div>
+                    </div>
+                                <div class="row basepic">
                         <div class="col-lg-3 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_02.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_02.jpg">
                                     </a>
                                 </div>
                             </div>
@@ -690,15 +674,13 @@
                                     purpose.</p>
                             </div>
                         </div>
-
-
                         <div class="col-lg-3 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_03.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_03.jpg">
                                     </a>
                                 </div>
                             </div>
@@ -712,10 +694,10 @@
                         <div class="col-lg-3 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_04.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_04.jpg">
                                     </a>
                                 </div>
                             </div>
@@ -727,10 +709,10 @@
                         <div class="col-lg-3 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_05.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_05.jpg">
                                     </a>
                                 </div>
                             </div>
@@ -739,155 +721,149 @@
                                 <p class="f_400 mb-0"></p>
                             </div>
                         </div>
-
-
-                    </div>
-
-
+                   </div>
                     <div class="row basepic">
                         <div class="col-lg-3 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_06.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_06.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Assembly </h5>
-                                <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                    purpose.</p>
-                            </div>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Raksha Bandhan </h5>
+                           </div>
                         </div>
-
 
                         <div class="col-lg-3 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_07.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_07.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                <p class="f_400 mb-0"> To help in quieting the
-                                    fluctuations of the mind and focus on goal.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Nand Utsav Celebration</h5>
                             </div>
                         </div>
 
                         <div class="col-lg-3 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_08.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_08.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Painting Competition</h5>
-                                <p class="f_400 mb-0">Offbeat activity to take them in the world of imagination.</p>
-                            </div>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Garba Celebration</h5>
+                           </div>
                         </div>
                         <div class="col-lg-3 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_09.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_09.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Independence Day Celebration</h5>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Makar Sankranti Celebration</h5>
                                 <p class="f_400 mb-0"></p>
                             </div>
                         </div>
-                    </div>
-
-
-
-                    <div class="row basepic">
-                        <div class="col-lg-12">
-                            <ul class="list-unstyled row basepic lightgallery">
-                                <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
-                                    data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                    <a href="#">
-                                       <img class="img-fluid "  alt=""
-                                            src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                        <div class="text-center mt-3">
-                                            <p><b>Sports To sustain energy, enthusiasm and vigor, sports are
-                                                    encouraged.</b></p>
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-
-
-                    <div class="row basepic">
                         <div class="col-lg-4 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_1112.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_1112.jpg">
                                     </a>
                                 </div>
                             </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Parents Teacher Meeting (PTM) </h5>
-                                <p class="f_400 mb-0">Interaction between Parents & Teachers. </p>
-                            </div>
                         </div>
-
-
                         <div class="col-lg-4 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_1113.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_1113.jpg">
                                     </a>
                                 </div>
                             </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Support for Participation</h5>
-                                <p class="f_400 mb-0">Our team members accompany students to various external tours and
-                                    events.</p>
+                        </div>
+                        <div class="col-lg-4 col-sm-6 col-md-6">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Activities_1114.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Activities_1114.jpg">
+                                    </a>
+                                </div>
                             </div>
                         </div>
 
                         <div class="col-lg-4 col-sm-6 col-md-6">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Activities_1115.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Activities_1115.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Mentorship Meeting</h5>
-                                <p class="f_400 mb-0">To understand the psyche & needs of students</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Parents Teacher Meeting (PTM) -</h5>
+                                <p class="f_400 mb-0">Interaction between Parents & Teachers.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6 col-md-6">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Activities_1116.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Activities_1116.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="covertxt">
+                                <h5 class="f_p f_size_18 f_500  mb_10">Support for Participation - </h5>
+                                <p class="f_400 mb-0">Our team members accompany students to various external tours and events.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6 col-md-6">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Activities_1117.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Activities_1117.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="covertxt">
+                                <h5 class="f_p f_size_18 f_500  mb_10">Mentorship Meeting - </h5>
+                                <p class="f_400 mb-0">To understand the psyche & needs of students.</p>
                             </div>
                         </div>
 
+
                     </div>
-
-
                 </div>
 
             </div>
@@ -913,164 +889,90 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Administration</h4>
+                <h4 class="mb_20 text-center mb-3">ADMINISTRATION</h4>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
-                        <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                        <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-top.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <div class="text-center mt-3">
-                                    <h5>Founder Director Addressing Team ALLEN</h5>
-                                    <p>Motivating the team for the overall developement and caring of students.</p>
-                                </div>
-                            </a>
-                        </li>
-                        <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                            <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <div class="text-center mt-3">
-                                    <h5>MANTHAN : UNIFICATION for IMPROVISATION</h5>
-                                    <p>Our Galaxy of Academic and Administrative Leaders come together on this platform
-                                        MANTHAN for a brainstorming session where deep careful analysis and discussions
-                                        of all possible improvements and future advancements are done.</p>
-                                </div>
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/admin-top.jpg">
+                                <p class="text-justify p-1 m-0">From academics to non-academic, we have a strong system designed to help you at every step & provide you with the ideal study culture.</p>
                             </a>
                         </li>
                     </ul>
 
-                    <div class="row basepic">
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Medical Consultation </h5>
-                                <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                    purpose.</p>
-                            </div>
-                        </div>
+                    <ul class="list-unstyled row basepic lightgallery">
 
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-03.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/admin-03.jpg">
+                            </a>
+                        </li>
 
-                        <div class="col-lg-6 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Expert Counselling</h5>
-                                <p class="f_400 mb-0">Our expert counselling cell provides our students with all the
-                                    information and help related to various Competitive Exams, Admissions in Colleges,
-                                    Eligibility and Counselling.</p>
-                            </div>
-                        </div>
+                        <li class="col-lg-6 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-04.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/admin-04.jpg">
+                            </a>
+                        </li>
 
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-05.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/admin-05.jpg">
+                            </a>
+                        </li>
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Attendance Monitoring</h5>
-                                <p class="f_400 mb-0">To supervise the attendance of our students, a highly computerized
-                                    attendance monitoring system has been installed in our buildings.</p>
-                            </div>
-                        </div>
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-07.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/admin-07.jpg">
+                            </a>
+                        </li>
 
+                        <li class="col-lg-6 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-06.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/admin-06.jpg">
+                            </a>
+                        </li>
 
-                    </div>
-
-
-                    <div class="row basepic">
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Assembly </h5>
-                                <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                    purpose.</p>
-                            </div>
-                        </div>
-
-
-                        <div class="col-lg-6 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                <p class="f_400 mb-0"> To help in quieting the
-                                    fluctuations of the mind and focus on goal.</p>
-                            </div>
-                        </div>
-
-
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Independence Day Celebration</h5>
-                                <p class="f_400 mb-0"></p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="blog_single">
-                        <div class="blog_content note cus_p">
-                            <blockquote class="blockquote">
-                                <img src="/assets/img/qoute.png" alt="">
-                                <h6 class="mb-0 f_size_18 l_height30 f_p f_400 d-inline-block"> Together We All Make The
-                                    Difference</h6>
-                            </blockquote>
-                        </div>
-                    </div>
-
-
-
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-08.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/admin-08.jpg">
+                            </a>
+                        </li>
+                        
+                        <li class="col-lg-6 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-09.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/admin-09.jpg">
+                            </a>
+                        </li>
+                        <li class="col-lg-6 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/admin-10.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/admin-10.jpg">
+                            </a>
+                        </li>
+                    </ul>
+                
                 </div>
 
+            </div>
+        </div>
+        <div class="blog_single col-12 mt-3">
+            <div class="blog_content note cus_p">
+                <blockquote class="blockquote">
+                    <img src="/assets/img/qoute.png" alt="">
+                    <h6 class="mb-0 f_size_18 l_height30 f_p f_400 d-inline-block">Together We All Make The Difference</h6>
+                </blockquote>
             </div>
         </div>
     </div>
@@ -1091,172 +993,145 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/automation-it.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <div class="text-center mt-3">
-                                    <h5>ERP Development Center </h5>
-                                    <p>The in-house team of software engineers design and develop the required
-                                        applications to automate entire administrative process.</p>
-                                </div>
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/automation-it.jpg">
                             </a>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/automation-pub.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                                <div class="text-center mt-3">
-                                    <h5>Publishing Department</h5>
-                                    <p>Study material & test papers are prepared under the able guidance of R & D Team.
-                                    </p>
-                                </div>
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/automation-pub.jpg">
                             </a>
                         </li>
+                            <div class="col-md-12">
+                                <h4 class="color-light">This is the place where we make technology meet education to help all communication and information channels to work smoothly. </h4>
+                        </div>
+
                     </ul>
 
                     <div class="row basepic">
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/automation--07.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/automation--07.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Medical Consultation </h5>
-                                <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                    purpose.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Highly Automated Admission Process </h5>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/automation--06.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/automation--06.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Expert Counselling</h5>
-                                <p class="f_400 mb-0">Our expert counselling cell provides our students with all the
-                                    information and help related to various Competitive Exams, Admissions in Colleges,
-                                    Eligibility and Counselling.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Data Processing Center</h5>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/automation--03.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/automation--03.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Attendance Monitoring</h5>
-                                <p class="f_400 mb-0">To supervise the attendance of our students, a highly computerized
-                                    attendance monitoring system has been installed in our buildings.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">ALLEN Samvad</h5>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/automation--01.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/automation--01.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Attendance Monitoring</h5>
-                                <p class="f_400 mb-0">To supervise the attendance of our students, a highly computerized
-                                    attendance monitoring system has been installed in our buildings.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Internet Support</h5>
                             </div>
                         </div>
-
-
-
                     </div>
 
                     <div class="row basepic">
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/automation--02.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/automation--02.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Medical Consultation </h5>
-                                <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                    purpose.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">ALLEN Sanchar </h5>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/automation--05.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/automation--05.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Expert Counselling</h5>
-                                <p class="f_400 mb-0">Our expert counselling cell provides our students with all the
-                                    information and help related to various Competitive Exams, Admissions in Colleges,
-                                    Eligibility and Counselling.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Creative Designing Section</h5>
                             </div>
                         </div>
 
 
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/automation--08.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/automation--08.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Attendance Monitoring</h5>
-                                <p class="f_400 mb-0">To supervise the attendance of our students, a highly computerized
-                                    attendance monitoring system has been installed in our buildings.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">Multimedia Production Lab</h5>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/automation--04.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/automation--04.jpg">
                                     </a>
                                 </div>
                             </div>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Attendance Monitoring</h5>
-                                <p class="f_400 mb-0">To supervise the attendance of our students, a highly computerized
-                                    attendance monitoring system has been installed in our buildings.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10">ALLEN Digital Samvad</h5>
                             </div>
                         </div>
 
@@ -1300,10 +1175,10 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                            data-src="/assets/img/aboutus/allen-system/result-celebration.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt=""
-                                    src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                                    src="/assets/img/aboutus/allen-system/result-celebration.jpg">
                                 <div class="text-center p-1 m-0">
                                     <h5 class="text-center">Drawing inspiration from the success of the toppers, our future aspirants aim to
                                         outperform.</h5>
@@ -1315,33 +1190,65 @@
                     <ul class="list-unstyled row basepic lightgallery">
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/reslt-celeb-01.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/reslt-celeb-01.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/reslt-celeb-02.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/reslt-celeb-02.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/reslt-celeb-03.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/reslt-celeb-03.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/reslt-celeb-04.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/reslt-celeb-04.jpg">
                             </a>
                         </li>
-                       
+                    </ul>
+
+                    <ul class="list-unstyled row basepic lightgallery">
+                        <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/reslt-celeb-05.jpg">
+                            <a href="#">
+                               <img class="img-fluid "  alt=""
+                                    src="/assets/img/aboutus/allen-system/reslt-celeb-05.jpg">
+                              </a>
+                        </li>
+                        <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
+                        data-src="/assets/img/aboutus/allen-system/reslt-celeb-06.jpg">
+                        <a href="#">
+                           <img class="img-fluid "  alt=""
+                                src="/assets/img/aboutus/allen-system/reslt-celeb-06.jpg">
+                        </a>
+                    </li>
+                    </ul>
+                    <ul class="list-unstyled row basepic lightgallery">
+                        <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/reslt-celeb-07.jpg">
+                            <a href="#">
+                               <img class="img-fluid "  alt=""
+                                    src="/assets/img/aboutus/allen-system/reslt-celeb-07.jpg">
+                              </a>
+                        </li>
+                        <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
+                        data-src="/assets/img/aboutus/allen-system/reslt-celeb-09.jpg">
+                        <a href="#">
+                           <img class="img-fluid "  alt=""
+                                src="/assets/img/aboutus/allen-system/reslt-celeb-09.jpg">
+                        </a>
+                    </li>
                     </ul>
                 </div>
 
@@ -1374,17 +1281,17 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                            data-src="/assets/img/aboutus/allen-system/top-talk-01.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt=""
-                                    src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                                    src="/assets/img/aboutus/allen-system/top-talk-01.jpg">
                               </a>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                        data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                        data-src="/assets/img/aboutus/allen-system/top-talk-02.jpg">
                         <a href="#">
                            <img class="img-fluid "  alt=""
-                                src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                                src="/assets/img/aboutus/allen-system/top-talk-02.jpg">
                         </a>
                     </li>
                     </ul>
@@ -1392,30 +1299,30 @@
                     <ul class="list-unstyled row basepic lightgallery">
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/top-talk-03.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/top-talk-03.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/top-talk-04.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/top-talk-04.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/top-talk-05.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/top-talk-05.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/top-talk-06.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/top-talk-06.jpg">
                             </a>
                         </li>
                        
@@ -1452,17 +1359,17 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                            data-src="/assets/img/aboutus/allen-system/celeb-01.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt=""
-                                    src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                                    src="/assets/img/aboutus/allen-system/celeb-01.jpg">
                               </a>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                        data-src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                        data-src="/assets/img/aboutus/allen-system/celeb-02.jpg">
                         <a href="#">
                            <img class="img-fluid "  alt=""
-                                src="/assets/img/aboutus/allen-system/orientation-session-full.jpg">
+                                src="/assets/img/aboutus/allen-system/celeb-02.jpg">
                         </a>
                     </li>
                     </ul>
@@ -1470,57 +1377,57 @@
                     <ul class="list-unstyled row basepic lightgallery">
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/celeb-03.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/celeb-03.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/celeb-04.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/celeb-04.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/celeb-05.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/celeb-05.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/celeb-06.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/celeb-06.jpg">
                             </a>
                         </li>
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/celeb-07.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            </a>
-                        </li>
-
-                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                            <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/celeb-07.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/celeb-08.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/celeb-08.jpg">
                             </a>
                         </li>
 
                         <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
-                            data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/celeb-09.jpg">
                             <a href="#">
-                                <img class="img-fluid " alt="" src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/celeb-09.jpg">
+                            </a>
+                        </li>
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/celeb-10.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/celeb-10.jpg">
                             </a>
                         </li>
                        
@@ -1544,11 +1451,11 @@
 <!-- End content Section -->
 
 <!--  content Section 12-->
-<section class="payment_testimonial_area  bg-2">
+<section class="payment_testimonial_area ">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Humanism</h4>
+                <h4 class="mb_20 text-center mb-3">HUMANISM</h4>
             </div>
         </div>
         <div class="row">
@@ -1556,391 +1463,350 @@
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/hum-01.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg"  alt="">
-                            </a>
+                               <img class="img-fluid "  alt=""
+                                    src="/assets/img/aboutus/allen-system/hum-01.jpg">
+                              </a>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
-                            <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg"  alt="">
-                            </a>
-                        </li>
+                        data-src="/assets/img/aboutus/allen-system/hum-02.jpg">
+                        <a href="#">
+                           <img class="img-fluid "  alt=""
+                                src="/assets/img/aboutus/allen-system/hum-02.jpg">
+                        </a>
+                    </li>
                     </ul>
 
-                    <div class="row basepic">
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
+                    <ul class="list-unstyled row basepic lightgallery">
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/hum-sb-01.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/hum-sb-01.jpg">
+                            </a>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Assembly </h5>
-                                <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                    purpose.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10 text-center">Bharat Abhiyan </h5>
                             </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
+                        </li>
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/hum-ent.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/hum-ent.jpg">
+                            </a>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Independence Day Celebration</h5>
-                                <p class="f_400 mb-0"></p>
+                                <h5 class="f_p f_size_18 f_500  mb_10 text-center">ENT Camp </h5>
                             </div>
-                        </div>
+                        </li>
 
-                        <div class="col-lg-6 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-2.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-2.jpg">
-                                    </a>
-                                </div>
-                            </div>
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/hum-eye.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/hum-eye.jpg">
+                            </a>
                             <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                <p class="f_400 mb-0"> To help in quieting the
-                                    fluctuations of the mind and focus on goal.</p>
+                                <h5 class="f_p f_size_18 f_500  mb_10 text-center">Eye Check-up Camp </h5>
                             </div>
-                        </div>  
-                        </div>
 
-                        <div class="row basepic">
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt="" 
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Assembly </h5>
-                                    <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                        purpose.</p>
-                                </div>
+                        </li>
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/hum-cbf.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/hum-cbf.jpg">
+                            </a>
+                            <div class="covertxt">
+                                <h5 class="f_p f_size_18 f_500  mb_10 text-center">Donation Camp</h5>
                             </div>
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt="" 
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Independence Day Celebration</h5>
-                                    <p class="f_400 mb-0"></p>
-                                </div>
+
+                        </li>
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/hum-05.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/hum-05.jpg">
+                            </a>
+                            <div class="covertxt">
+                                <h5 class="f_p f_size_18 f_500  mb_10 text-center">Initiative for ‘Smart City Kota’ </h5>
+                                <p class="f_400 mb-0">Installed two smart garbage receptacles in the city.</p>
                             </div>
-    
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt=""
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                    <p class="f_400 mb-0"> To help in quieting the
-                                        fluctuations of the mind and focus on goal.</p>
-                                </div>
+
+                        </li>
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/hum-10.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/hum-10.jpg">
+                            </a>
+                            <div class="covertxt">
+                                <h5 class="f_p f_size_18 f_500  mb_10 text-center">Study Material Distribution </h5>
+                                <p class="f_400 mb-0"> for Navodaya Vidyalya & Govt. Schools free of cost to help financially challenged students.</p>
+
                             </div>
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt="" 
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                    <p class="f_400 mb-0"> To help in quieting the
-                                        fluctuations of the mind and focus on goal.</p>
-                                </div>
+
+                        </li>
+
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/hum-07.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/hum-07.jpg">
+                            </a>
+                            <div class="covertxt">
+                                <h5 class="f_p f_size_18 f_500  mb_10 text-center">Mission Sadbhawna - </h5>
+                                <p class="f_400 mb-0">Teachers from remote locations of Kashmir visited ALLEN under Sadhbhavna Mission organized by 58th Rashtriya Rifles Battalion of Army.</p>
+
                             </div>
-    
-                     
-                        </div>
 
+                        </li>
 
-                        <div class="row basepic">
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt="" 
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Assembly </h5>
-                                    <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                        purpose.</p>
-                                </div>
+                        <li class="col-lg-3 col-sm-6 col-md-6" data-responsive=""
+                            data-src="/assets/img/aboutus/allen-system/hum-08.jpg">
+                            <a href="#">
+                                <img class="img-fluid " alt="" src="/assets/img/aboutus/allen-system/hum-08.jpg">
+                            </a>
+                            <div class="covertxt">
+                                <h5 class="f_p f_size_18 f_500  mb_10 text-center">A team of Sair-e-Watan - </h5>
+                                <p class="f_400 mb-0">Under Edutainment tour (Operation Sadbhavna) organised by 58th Rashtriya Rifles Battalion of Army Visited Allen.</p>
+
                             </div>
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt="" 
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Independence Day Celebration</h5>
-                                    <p class="f_400 mb-0"></p>
-                                </div>
-                            </div>
-    
-                        </div>
 
-
-
-                    <div class="blog_single">
-                        <div class="blog_content note cus_p">
-                            <blockquote class="blockquote">
-                                <img src="/assets/img/qoute.png" alt="">
-                                <h6 class="mb-0 f_size_18 l_height30 f_p f_400 d-inline-block"> Social Work And Relief Program</h6>
-                            </blockquote>
-                        </div>
-                    </div>
-
-
-
+                        </li>
+                       
+                    </ul>
                 </div>
 
+               <div class="blog_single">
+                    <div class="blog_content note cus_p">
+                        <blockquote class="blockquote">
+                            <img src="/assets/img/qoute.png" alt="">
+                            <h6 class="mb-0 f_size_18 l_height30 f_p f_400 d-inline-block">Social Work And Relief Program</h6>
+                        </blockquote>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </section>
+
 <!-- End content Section -->
 
 
 <!--  content Section 13-->
-<section class="payment_testimonial_area">
+<section class="payment_testimonial_area  bg-2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Positivity Abounds</h4>
+                <h4 class="mb_20 text-center mb-3">POSITIVITY ABOUNDS</h4>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
+                        <div class="col-md-12">
+                            <h4 class="color-light">We have created a system to help you learn key life lessons & grow in positivity through regular seminars and talks covering various aspects of life.</h4>
+                    </div>
+
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/Positivity_01.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/Positivity_01.jpg">
                             </a>
+                            <div class="covertxt">
+                                <p class="f_400 mb-0">Motivation by Arunima Sinha (Padma Shri Awardee)</p>
+                            </div>
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
-                            data-src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                            data-src="/assets/img/aboutus/allen-system/Positivity_12.jpg">
                             <a href="#">
-                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session1.jpg">
+                               <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/Positivity_12.jpg">
                             </a>
                         </li>
+
                     </ul>
 
                     <div class="row basepic">
-                        <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
                             <div class="lightgallery">
                                 <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt="" 
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Assembly </h5>
-                                <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                    purpose.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt="" 
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Independence Day Celebration</h5>
-                                <p class="f_400 mb-0"></p>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    <a href="#">
-                                        <img class="img-fluid " alt="" 
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                <p class="f_400 mb-0"> To help in quieting the
-                                    fluctuations of the mind and focus on goal.</p>
-                            </div>
-                        </div>  
-                        <div class="col-lg-3 col-sm-6 col-md-6">
-                            <div class="lightgallery">
-                                <div class="boximg" data-responsive=""
-                                    data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_02.jpg">
                                     <a href="#">
                                         <img class="img-fluid " alt=""
-                                            src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
+                                            src="/assets/img/aboutus/allen-system/Positivity_02.jpg">
                                     </a>
-                                </div>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">Seminar by motivator Sh. Shiv Khera The famous motivational and keynote speaker as well as an Author, Educator, Business Consultant and Entrepreneur in India.</p>
+                                    </div>
+                                        </div>
                             </div>
-                            <div class="covertxt">
-                                <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                <p class="f_400 mb-0"> To help in quieting the
-                                    fluctuations of the mind and focus on goal.</p>
-                            </div>
-                        </div>  
                         </div>
 
-                        <div class="row basepic">
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt=""
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
+
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_03.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_03.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">ALLEN Champions League (ACL)
+                                            Conducted every year for its employees to infuse Sportsmanship and Teamwork.</p>
                                     </div>
                                 </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Assembly </h5>
-                                    <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                        purpose.</p>
-                                </div>
                             </div>
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt=""
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Independence Day Celebration</h5>
-                                    <p class="f_400 mb-0"></p>
-                                </div>
-                            </div>
-    
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt=""
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                    <p class="f_400 mb-0"> To help in quieting the
-                                        fluctuations of the mind and focus on goal.</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt=""
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Yoga Session</h5>
-                                    <p class="f_400 mb-0"> To help in quieting the
-                                        fluctuations of the mind and focus on goal.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row basepic">
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt=""
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Assembly </h5>
-                                    <p class="f_400 mb-0">Assembly Prayer wonderfully clears the vision, defines duties and
-                                        purpose.</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-sm-6 col-md-6">
-                                <div class="lightgallery">
-                                    <div class="boximg" data-responsive=""
-                                        data-src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        <a href="#">
-                                            <img class="img-fluid " alt=""
-                                                src="/assets/img/aboutus/toppers-talk/topperstalk-1.jpg">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="covertxt">
-                                    <h5 class="f_p f_size_18 f_500  mb_10">Independence Day Celebration</h5>
-                                    <p class="f_400 mb-0"></p>
-                                </div>
-                            </div>
-    
                         </div>
 
+
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_04.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_04.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">ALLEN Women Badminton League (AWBL)Conducted for women employees enabling them to cooperate and work well together.</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_05.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_05.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">Students interaction by Gurudev Sri Sri Ravi Shankar Ji (Spiritual Leader).</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row basepic justify-content-center">
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_06.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_06.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">Jain Muni Sudha Sagar Ji Maharaj showering blessing on our students.</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_07.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_07.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">Pandit Vijay Shankar Ji Guiding students towards positivity.</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_08.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_08.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">Motivational Seminar by Chitralekha Ji Directing our students from "Inner- Consciousness" to "Outer Awareness"</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_09.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_09.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">My Glorious Life Shivir "Rejuvenating lives through YOGA" by Chotigurumaa of LIFE CARE and PEACE MISSION.</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_10.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_10.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">‘Yugpurush – Mahatma ke Mahatma’ A heart-touching and riveting portrayal of the profound spiritual relationship between the great Indian saint, poet-philosopher and spiritual luminary – Shrimad Rajchandraji and Mahatma Gandhi. Inspired by Pujya Gurudevshri Rakeshbhai and presented by Shrimad Rajchandra Mission Dharampur.</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_11.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_11.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">Saluting the Spirit (जज्बे को सलाम ) ALLEN salutes the fighting spirit of those potential students from weak background, who struggles to get into one of the best educational institutions.</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 col-md-6 text-center">
+                            <div class="lightgallery">
+                                <div class="boximg" data-responsive=""
+                                    data-src="/assets/img/aboutus/allen-system/Positivity_13.jpg">
+                                    <a href="#">
+                                        <img class="img-fluid " alt=""
+                                            src="/assets/img/aboutus/allen-system/Positivity_13.jpg">
+                                    </a>
+                                    <div class="covertxt">
+                                        <p class="f_400 mb-0">Mary Kom motivating students</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                    </div>
 
 
                     <div class="blog_single">

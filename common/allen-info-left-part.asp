@@ -4,6 +4,6 @@
         ALLEN INFO & <br>Admission App</h4>
     <i class="text-center d-block mt-2 mb-2"><img src="/assets/img/alleninfoico.png" alt=""></i>
     <div class="col-12 text-center">
-    <a href="#" class="blue_btn btn_hover d-inline-block btn">Download Now! </a>
+    <a href="https://play.google.com/store/apps/details?id=in.allen.alleninfo&hl=en" target="_blank" class="blue_btn btn_hover d-inline-block btn">Download Now! </a>
     </div>
 </div>

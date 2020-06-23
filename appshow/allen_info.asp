@@ -30,7 +30,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="pr-2 pl-2  text-justify l_height25">ALLEN Career Institute, the leader in offering value and success-driven education, is regarded as
+                    <p class="pr-2 pl-2  text-justify l_height25">ALLEN Career Institute, the leader in offering value
+                        and success-driven education, is regarded as
                         the most trusted and valued institute for the preparation of IIT-JEE (Main + Advanced), NEET-UG
                         / JEE Main and many other competitive exams.
                         Along with preparation for competitive exams, ALLEN has been striving to impart value-based
@@ -63,7 +64,7 @@
                     <div class="pos_features_img">
                         <div class="shape_img blue"></div>
                         <div class="shap_img blue">
-                            <img src="/assets/img/pos/item3.png" alt="features">
+                            <img src="/assets/img/appshow/app-landing-pages/info.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -71,23 +72,27 @@
                     <div class="pos_features_content">
                         <h2>Some Key Features of the App</h2>
                         <div class="media h_features_item">
-                                <div class="media-body">
+                            <div class="media-body">
                                 <ul class="list-unstyled appli">
-                                    <li> <b>Dashboard – </b>This page is your guide to useful information such as your profile,
+                                    <li> <b>Dashboard – </b>This page is your guide to useful information such as your
+                                        profile,
                                         links to other vital apps, pages and websites of ALLEN Career Institute such as
                                         online admission, course details, ALLENChamp, Tallentex and many others.
                                     </li>
 
-                                    <li> <b>Apply for Admission - </b> By far this is the most remarkable feature of the app.
+                                    <li> <b>Apply for Admission - </b> By far this is the most remarkable feature of the
+                                        app.
                                         Using this feature, students can sign-up for admission and complete the entire
                                         admission process online.</li>
 
-                                    <li><b>Student Profile -</b> This feature facilitates the parents to register the profile
+                                    <li><b>Student Profile -</b> This feature facilitates the parents to register the
+                                        profile
                                         of their children studying in Allen Career Institute. They can access the
                                         profile, check every detail and stay updated with their child’s performance.
                                     </li>
 
-                                    <li><b> Courses - </b> Depending on the study city, you can find information related to the
+                                    <li><b> Courses - </b> Depending on the study city, you can find information related
+                                        to the
                                         courses offered there. You can even get through the desired center by easy
                                         location tracking facility as provided in the app.</li>
                                 </ul>
@@ -119,20 +124,33 @@
                                     <li><b>Her yerden erisim</b></li>
                                     <li><b>Use of latest and advanced technology</b></li>
                                     <li><b>Updated with the most recent information</b></li>
-                                </ul> 
+                                </ul>
                                 <p>No matter in which part of the city or country you live, Allen Info App is here to
                                     bridge the gap between you and Allen Career Institute. Get started with this
                                     user-friendly experience today!</p>
-                           </div>
+                            </div>
                         </div>
 
                     </div>
                 </div>
             </div>
-           
+
         </div>
+
     </section>
 
+    <section>
+        <div class="container">
+    
+            <div class="row">
+                <div class="col-lg-12">
+                    <!--Apps Menu-->
+                    <!-- #Include virtual="/appshow/applinks.asp" -->
+                    <!--/Apps Menu-->
+                    </div>
+                </div>
+            </div>
+  </section>
 
 
 

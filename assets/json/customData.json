@@ -1,0 +1,41 @@
+{
+  "common": [
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/1.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/2.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/3.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/4.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/5.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    }
+  ],
+  "kota": [
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/1.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/2.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/3.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    }
+  ],
+  "pncf_kota": [
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/1.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/2.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/3.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    }
+  ]
+}

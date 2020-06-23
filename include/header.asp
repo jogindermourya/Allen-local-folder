@@ -53,6 +53,7 @@
     <link rel="stylesheet" href="/assets/vendors/animation/animate.css">
     <link rel="stylesheet" href="/assets/vendors/owl-carousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="/assets/vendors/scroll/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="/assets/vendors/data-table/css/datatables.min.css" >
 
     <!--Custom CSS-->
     <link rel="stylesheet" href="/assets/css/style.css">
@@ -87,12 +88,15 @@
                                 </div>
                                 <div class="col-lg-4 col-sm-12 fullwd320">
                                     <ul class="header_contact_info list-unstyled text-right">
+                                        <li><a href="/faq.asp"><i class="fa fa-question-circle"></i> Faq</a></li>
                                         <li>
                                             <a href="/contactus.asp"> <i class="fa fa-building"></i> Contact</a>
                                         </li>
                                         <li>
                                             <a href="/enquiry.asp"> <i class="fa fa-user"></i> Enquiry</a>
                                         </li>
+
+                                       
                                     </ul>
                                 </div>
                             </div>
@@ -112,7 +116,7 @@
                             <span class="hamburger-cross"><span></span><span></span></span>
                         </span>
                     </button>
-                    <a class="navbar-brand" href="/home.asp"><img src="/assets/img/logo.png" class="img-fluid" alt="logo"></a>
+                    <a class="navbar-brand" href="/home.asp"><img src="/assets/img/allen-logo-kota.jpg" class="img-fluid" alt="logo"></a>
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
                         <ul class="navbar-nav menu w_menu ml-auto mr-auto">
@@ -139,9 +143,9 @@
                                         <li class="nav-item">
                                             <h6 class="menu-hed-course">Classroom Courses</h6>
                                             <ul class="dropdown-menu">
-                                                <li class="nav-item"><a class="nav-link" href="/courses/jee-main-coaching.asp">JEE (Main)</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="/courses/iit-jee-main-advanced-coaching.asp">JEE (Main+Advanced)</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="/courses/neet-ug-aiims-coaching.asp">Pre-Medical</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="/kota/jee-main-coaching.asp">JEE (Main)</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="/kota/iit-jee-main-Advanced-coaching.asp">JEE (Main+Advanced)</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="/kota/neet-ug-aiims-coaching.asp">Pre-Medical</a></li>
                                                 <li class="nav-item"><a class="nav-link" href="/pncf/kota/">Pre-nurture & Career Foundation</a></li>
                                                 <li class="nav-item"><a class="nav-link" target="_blank" href="https://theintellibrain.com/">Intellibrain (HKG To V)</a></li>
                                                 <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.allen.ac.in/globalstudies/">Global Studies</a></li>
@@ -163,33 +167,32 @@
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Admission</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/admission/how-to-apply.asp">How to Apply for APPLICATION FORM</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Apply Online</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/admission/fee-deposition-modes.asp">Fee Deposition Modes</a></li>
-                                    <li class="nav-item"><a class="nav-link"  href="/admission/scholarship-rules.asp">Scholarship Rules</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/admission/refund-rules.asp"> Refund Rules</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/admission/allen-kohinoor-hostel.asp">Kohinoor  Hostel Scheme (ACES)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/kota/2020-21/how-to-apply.asp">How to Apply for APPLICATION FORM</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/appsmvc2021/appforms/Login">Apply Online</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/kota/2020-21/fee-deposition-modes.asp">Fee Deposition Modes</a></li>
+                                    <li class="nav-item"><a class="nav-link"  href="/kota/2020-21/scholarship-rules.asp">Scholarship Rules</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/kota/2020-21/refund-rules.asp"> Refund Rules</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/kota/2020-21/allen-kohinoor-hostel.asp">Kohinoor Hostel Scheme (ACES)</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
                                     aria-haspopup="true" aria-expanded="false" href="#"> ASAT Details</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">ASAT Result</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">ASAT Admit Card</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/ASATRESULTNEW/Results.aspx">ASAT Result</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/appsmvc2021/FormStatus/Login">ASAT Admit Card</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Results</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aipmt.asp">NEET/AIPMT</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aiims.asp">AIIMS</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/cbsex.asp">CBSE Class X</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/result/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-iitjee.asp">JEE (Advanced) - IIT JEE</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-aipmt.asp">NEET/AIPMT</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-aiims.asp">AIIMS</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/cbsex.asp">CBSE Class X</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
 
                                 </ul>
                             </li>
@@ -202,15 +205,19 @@
                                         <li class="nav-item">
                                             <h6 class="menu-hed-course">SESSION 2020-21</h6>
                                             <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="#" class="nav-link">Download Gst Receipt</a></li>
+                                                <li class="nav-item"><a href="https://www.allen.ac.in/appsmvc2021/gst/Login" class="nav-link">Download Gst Receipt</a></li>
                                                 <li class="nav-item">
-                                                    <a href="#" class="nav-link">TALLENTEX 2020 Qualified (New &amp;
+                                                    <a href="https://www.allen.ac.in/appsmvc2021/ttex/default" class="nav-link">TALLENTEX 2020 Qualified (New &amp;
                                                         Existing Students)  <img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt="">
                                                     </a>
                                                 </li>
-                                                <li class="nav-item"><a href="#" class="nav-link">Nurture 2nd Year (Enthusiast) / Privilege Fees</a></li>
+                                                <li class="nav-item"><a href="https://www.allen.ac.in/appsmvc2021/formstatus/Login" class="nav-link">Nurture 2nd Year (Enthusiast) / Privilege Fees</a></li>
                                                 <li class="nav-item">
-                                                    <a href="#" class="nav-link"> Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
+                                                    <a href="https://www.allen.ac.in/appsmvc2021/formstatus/Login" class="nav-link"> Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/bfl.asp" class="nav-link">Educational courses on Easy EMI from  <img src="/assets/img/bajaj-logo.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
+                                                    </a>
                                                 </li>
                                                 <li class="nav-item">
                                                     <a href="/campus-dunia.asp" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu"
@@ -221,9 +228,13 @@
                                         <li class="nav-item">
                                             <h6 class="menu-hed-course">SESSION 2019-20</h6>
                                             <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="#" class="nav-link">Download GST Receipt</a></li>
+                                                <li class="nav-item"><a href="https://allen.ac.in/appsmvc1920/gst/Login" class="nav-link">Download GST Receipt</a></li>
                                                 <li class="nav-item">
-                                                    <a href="#" class="nav-link">Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
+                                                    <a href="https://www.allen.ac.in/appsmvc1920/formstatus/Login" class="nav-link">Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/bfl.asp" class="nav-link">Educational courses on Easy EMI from  <img src="/assets/img/bajaj-logo.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
+                                                    </a>
                                                 </li>
                                                 <li class="nav-item">
                                                     <a href="/campus-dunia.asp" class="nav-link">EMI Facility available from <img src="/assets/img/logo-cd.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
@@ -237,10 +248,10 @@
                             <li class="dropdown submenu nav-item">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Student Zone</a>
                                 <ul role="menu" class=" dropdown-menu">
-                                    <li class="nav-item"><a class="nav-link" href="#">Competitive Exam Calendar</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">All India Open Test (AIOT) : Result 2019-20</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Periodic Test Results</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="#">Attendance of Classroom  Students</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/olympiads-competitions-exam-calender.ASP">Competitive Exam Calendar</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/aiotresult1819/Results.aspx">All India Open Test (AIOT) : Result 2019-20</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://csat.allen.ac.in/">Periodic Test Results</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/StudAttn/ATTLogin.aspx">Attendance of Classroom  Students</a></li>
                                 </ul>
                             </li>
                         </ul>

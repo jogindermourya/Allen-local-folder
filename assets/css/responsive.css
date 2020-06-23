@@ -2847,7 +2847,7 @@
   
     /* Course page */
     .header_coures li {width: 42%; }
-    .menu_course_wrp.fixed {top: 60px;}
+    .menu_course_wrp.fixed {top: 100px;}
     .menu_course_wrp .navbar a {padding: 18px 30px;}
 
 
@@ -3679,7 +3679,7 @@
     .sign_info{border: 5px; display: block;}
     .hed_form{ margin-bottom: 20px;}
 
-    .menu_course_wrp.fixed {top: 50px;}
+    .menu_course_wrp.fixed {top: 80px;}
 
     .header_coures{margin: 30px 0;}
     .header_coures li {width: 100%;margin-bottom: 20px; margin-right: 0;margin-left: 0;}
