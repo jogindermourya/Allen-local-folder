@@ -1,38 +1,15 @@
 <style>
-	.button-popup{
-		z-index: 99999 !important;
-		width: 30px !important;
-		height: 30px !important;
-		background: #000 !important;
-		border: 2px solid #fff;
-		border-radius: 100px;
-		color: #fff !important;
-		box-shadow: 0 0 10px #000;
-		
-	}
-
-	.poupimg{
-
-		position: relative; 
-		width: 100%;
-	
-	}
-	.poupimg img {    width: 100%;
-    border-radius: 10px;
-    border: 2px solid #fff;}
-    
-        .pop {max-width:320px!important; margin: 20px auto;}
-    
-
-
-    
-    
-</style>
+	.button-popup{z-index: 99999 !important;width: 30px !important;height: 30px !important;background: #000 !important;
+	border: 2px solid #fff;border-radius: 100px;color: #fff !important;box-shadow: 0 0 10px #000;}
+	.poupimg{position: relative; width: 100%;}
+	.poupimg img { width: 100%;border-radius: 10px;border: 2px solid #fff;}
+	.pop {max-width:320px!important; margin: 20px auto;}
+    </style>
 
 
 
 <div class="modal fade bs-example-modal-sm6" id="myModal-tx" tabindex="-1" role="dia1log" aria-labelledby="mySmallModalLabel" aria-hidden="true" >
-	  <div class="modal-dialog modal-md pop6" style="position: relative !important;">
+	  <div class="modal-dialog modal-md pop5" style="position: relative !important;">
 		<div class="poupimg">
 			<!--#include virtual="/popup/popup-links.asp"-->
 			<button aria-hidden="true" data-dismiss="modal" class=" button-popup" type="button" style="position: absolute; top: -5px; right: -5px; z-index: 99999;"><i class="fa fa-times" aria-hidden="true" ></i></button>

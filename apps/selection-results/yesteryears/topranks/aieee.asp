@@ -1,7 +1,17 @@
 
 <!-- #Include virtual="include/header.asp" -->
 
+<%
+set Conn = Server.CreateObject("ADODB.Connection")
+Conn.Open MM_Conn_STRING
 
+
+
+Set rsTopRanksAIEEE = Server.CreateObject("ADODB.Recordset")
+rsTopRanksAIEEE.open "{Call usp_getdata(9,'JEE [MAIN]-AIEEE','','')}", Conn, adOpenStatic
+
+
+%>
 <!-- Breadcrumb Section -->
 <section class="breadcrumb_area">
     <img class="breadcrumb_shap" src="/assets/img/aboutus/innerbghead.png" alt="">
@@ -10,7 +20,7 @@
             <h1 class="breadcrumb-hed">
                  JEE Main / AIEEE</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>Top Ranks</li>
             </ul>
         </div>
@@ -36,16 +46,49 @@
                             <h3>All India Top Ranks Of  JEE MAIN - AIEEE  In Top 1000</h3>
                         </div>
                         <div class="table-responsive">
+							
+          <table border="0" cellpadding="0" cellspacing="0" width="100%" class="table table-bordered" >
+            <colgroup>
+            <col class="oce-first" />
+            </colgroup>
+            <tr>
+              <td colspan="3" ><h2 style="margin-bottom:0; text-align:center" class="color-green1">
+                  <% =rsTopRanksaieee("REMARKS1") %>
+                </h2></td>
+            </tr>
+            <tr>
+              <th width="10%" > <span class="title_level1"> Year </span> </th>
+              <th > <span class="title_level1"> Ranks </span> </th>
+              <th > <span class="title_level1"> Total </span> </th>
+            </tr>
+            <% While Not rsTopRanksaieee.EOF %>
+            <tr>
+              <td ><% =rsTopRanksaieee("SELYEAR") %></td>
+              <td ><% =rsTopRanksaieee("TOPRANKSBOYS") %></td>
+              <td>      
+			  
+			  <%			  
+			  ArrayTemp = split(rsTopRanksaieee("TOPRANKSBOYS") , " ")
+			  NumberOfWords = UBound(ArrayTemp) + 1			  
+			  %>
+              
+              <% =NumberOfWords %>  
+              
+              </td>
+            </tr>
+            <% rsTopRanksaieee.MoveNext %>
+            <% WEnd %>
+          </table>
+							
                             <table class="table table-bordered table-hover customtbl">
                                 <tbody>
                                     <tr>
-                                        <th colspan="2" class="text-center maintblhd-bg"><span class="f_size_18">Year -
-                                                2019</span>
+                                        <th colspan="2" class="text-center maintblhd-bg"><span class="f_size_18">Year-2019</span>
                                         </th>
 
                                     </tr>
                                     <tr>
-                                        <th class="text-left"> <span> Ranks </span> </th>
+                                        <th class="text-left"><span> Ranks </span> </th>
                                         <th> <span> Total </span> </th>
                                     </tr>
                                     <tr>

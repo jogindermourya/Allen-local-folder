@@ -9,7 +9,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">ALLEN System</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>ALLEN System</li>
             </ul>
         </div>
@@ -22,8 +22,8 @@
 <section class="payment_testimonial_area ">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Orientation Session </h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center">Orientation Session </h4>
             </div>
         </div>
         <div class="row">
@@ -35,7 +35,7 @@
                             <a href="#">
                                <img class="img-fluid "  alt=""
                                     src="/assets/img/aboutus/allen-system/orientation-session-full.jpg" alt="">
-                                <p class="text-justify p-1 m-0">Orientation Session is our first introduction to parents
+                                <p class="text-justify pictxt">Orientation Session is our first introduction to parents
                                     and students. The session
                                     aims to brief the parents about ALLEN as a system, as a community, as a family, as
                                     an ultimate place where dreams are turned into reality. The conclusion of the
@@ -110,7 +110,7 @@
                     <div class="blog_content note cus_p">
                         <blockquote class="blockquote">
                             <img src="/assets/img/qoute.png" alt="">
-                            <h6 class="mb-0 f_size_18 l_height30 f_p f_400 d-inline-block">An Introduction Of Allen
+                            <h6 class="mb-0 f_size_18 l_height30 f_p f_400 d-inline-block"> An Introduction Of Allen
                                 System To Parents & Students</h6>
 
                         </blockquote>
@@ -127,8 +127,8 @@
 <section class="payment_testimonial_area bg-2">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Classroom Session</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center">Classroom Session</h4>
             </div>
         </div>
         <div class="row">
@@ -139,7 +139,7 @@
                             data-src="/assets/img/aboutus/allen-system/classroom-session-1.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/classroom-session-1.jpg">
-                                <p class="text-justify p-1 m-0">Properly planned learning sessions that keep you engaged and help you meet your learning objectives.</p>
+                                <p class="text-justify pictxt">Properly planned learning sessions that keep you engaged and help you meet your learning objectives.</p>
                             </a>
                         </li>
                     </ul>
@@ -153,7 +153,7 @@
                                         <img class="img-fluid " alt=""
                                             src="/assets/img/aboutus/allen-system/classroom-session-hitech.jpg">
                                     </a>
-                                    <h4 class="color-light">Hi-Tec Classroom</h4>
+                                    <h4 class="color-light"> Highlighted Word  Classroom</h4>
                                 </div>
                             </div>
                         </div>
@@ -247,8 +247,8 @@
 <section class="payment_testimonial_area">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Doubt Removal</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center">Doubt Removal</h4>
             </div>
         </div>
         <div class="row">
@@ -259,7 +259,7 @@
                             data-src="/assets/img/aboutus/allen-system/doubt-counter.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/doubt-counter.jpg">
-                                <p class="text-justify p-1 m-0">This is our unique system that allows you to clear your doubts without any hesitation and get solutions from expert faculty members to enhance your knowledge.</p>
+                                <p class="text-justify pictxt">This is our unique system that allows you to clear your doubts without any hesitation and get solutions from expert faculty members to enhance your knowledge.</p>
                             </a>
                         </li>
                     </ul>
@@ -334,8 +334,8 @@
 <section class="payment_testimonial_area bg-2">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Periodic Test & Result</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center ">Periodic Test & Result</h4>
             </div>
         </div>
         <div class="row">
@@ -346,7 +346,7 @@
                             data-src="/assets/img/aboutus/allen-system/p-test-full.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/p-test-full.jpg">
-                                <p class="text-justify p-1 m-0">This is a system designed to help you evaluate and self-analyze your preparation consistently, on the basis of which you get to improve your performance.</p>
+                                <p class="text-justify pictxt">This is a system designed to help you evaluate and self-analyze your preparation consistently, on the basis of which you get to improve your performance.</p>
                             </a>
                         </li>
                     </ul>
@@ -447,8 +447,8 @@
 <section class="payment_testimonial_area">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Mentoring</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center ">Mentoring</h4>
             </div>
         </div>
         <div class="row">
@@ -459,7 +459,7 @@
                             data-src="/assets/img/aboutus/allen-system/mentoring-full.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/mentoring-full.jpg">
-                                <p class="text-justify p-1 m-0">The mentoring sessions are part of our consistent endeavor to provide you with proper guidance, personal care and motivation from the proficient ALLEN faculties.</p>
+                                <p class="text-justify pictxt">The mentoring sessions are part of our consistent endeavor to provide you with proper guidance, personal care and motivation from the proficient ALLEN faculties.</p>
                             </a>
                         </li>
                     </ul>
@@ -549,8 +549,8 @@
 <section class="payment_testimonial_area bg-2">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Open Session</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center">Open Session</h4>
             </div>
         </div>
         <div class="row">
@@ -562,7 +562,7 @@
                             <a href="#">
                                <img class="img-fluid "  alt=""
                                     src="/assets/img/aboutus/allen-system/ope-session.jpg">
-                                <p class="text-justify p-1 m-0">We want you to grow in the light of positivity & perseverance; open sessions work as the right platform to provide you with some motivational talks.</p>
+                                <p class="text-justify pictxt">We want you to grow in the light of positivity & perseverance; open sessions work as the right platform to provide you with some motivational talks.</p>
                             </a>
                         </li>
                     </ul>
@@ -635,16 +635,15 @@
 <section class="payment_testimonial_area">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">PRE-NURTURE & CAREER FOUNDATION ACTIVITIES</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center ">PRE-NURTURE & CAREER FOUNDATION ACTIVITIES</h4>
+                <p class="mb_20 text-center mb-3">It is our unique approach to nurture your talent and prepare you for future success and provide you with holistic development.</p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="demo-gallery">
-                    <p class="mb_20 text-center mb-3">It is our unique approach to nurture your talent and prepare you for future success and provide you with holistic development.</p>
-
-                    <ul class="list-unstyled row basepic lightgallery">
+                                        <ul class="list-unstyled row basepic lightgallery">
                         <li class="col-lg-12 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/Activities_01.jpg">
                             <a href="#">
@@ -653,8 +652,8 @@
                         </li>
                     </ul>
                     <div class="row">
-                        <div class="col-lg-12 mb-lg-4 mb-md-3">
-                            <h4 class="mb_20 text-center mb-3">IntelliBrain Workshop</h4>
+                        <div class="col-lg-12 mb-lg-2 mb-md-2">
+                            <h4 class="mb_20 text-center ">IntelliBrain Workshop</h4>
                         </div>
                     </div>
                                 <div class="row basepic">
@@ -885,11 +884,11 @@
 
 
 <!--  content Section 7-->
-<section class="payment_testimonial_area">
+<section class="payment_testimonial_area bg-2">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">ADMINISTRATION</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center ">ADMINISTRATION</h4>
             </div>
         </div>
         <div class="row">
@@ -900,7 +899,7 @@
                             data-src="/assets/img/aboutus/allen-system/admin-top.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/admin-top.jpg">
-                                <p class="text-justify p-1 m-0">From academics to non-academic, we have a strong system designed to help you at every step & provide you with the ideal study culture.</p>
+                                <p class="text-justify pictxt">From academics to non-academic, we have a strong system designed to help you at every step & provide you with the ideal study culture.</p>
                             </a>
                         </li>
                     </ul>
@@ -981,11 +980,11 @@
 
 
 <!--  content Section 8-->
-<section class="payment_testimonial_area  bg-2">
+<section class="payment_testimonial_area">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Automation & Communication</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center">Automation & Communication</h4>
             </div>
         </div>
         <div class="row">
@@ -1004,11 +1003,10 @@
                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/automation-pub.jpg">
                             </a>
                         </li>
-                            <div class="col-md-12">
-                                <h4 class="color-light">This is the place where we make technology meet education to help all communication and information channels to work smoothly. </h4>
-                        </div>
-
-                    </ul>
+                       </ul>
+                       <div class="col-md-12">
+                        <h4 class="color-light">This is the place where we make technology meet education to help all communication and information channels to work smoothly. </h4>
+                </div>
 
                     <div class="row basepic">
                         <div class="col-lg-3 col-sm-6 col-md-6 text-center">
@@ -1163,11 +1161,11 @@
 
 
 <!--  content Section 9-->
-<section class="payment_testimonial_area ">
+<section class="payment_testimonial_area bg-2">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Success Celebration</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center">Success Celebration</h4>
             </div>
         </div>
         <div class="row">
@@ -1180,8 +1178,8 @@
                                <img class="img-fluid "  alt=""
                                     src="/assets/img/aboutus/allen-system/result-celebration.jpg">
                                 <div class="text-center p-1 m-0">
-                                    <h5 class="text-center">Drawing inspiration from the success of the toppers, our future aspirants aim to
-                                        outperform.</h5>
+                                    <p class="text-center pictxt"><b>Drawing inspiration from the success of the toppers, our future aspirants aim to
+                                        outperform.</b></p>
                                     </div>
                             </a>
                         </li>
@@ -1269,11 +1267,11 @@
 
 
 <!--  content Section 10-->
-<section class="payment_testimonial_area bg-2">
+<section class="payment_testimonial_area">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Toppers' Talk Show</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center ">Toppers' Talk Show</h4>
             </div>
         </div>
         <div class="row">
@@ -1347,11 +1345,11 @@
 
 
 <!--  content Section 11-->
-<section class="payment_testimonial_area ">
+<section class="payment_testimonial_area bg-2">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">Glorification & Celebration</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center ">Glorification & Celebration</h4>
             </div>
         </div>
         <div class="row">
@@ -1454,8 +1452,8 @@
 <section class="payment_testimonial_area ">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 mb-lg-4 mb-md-3">
-                <h4 class="mb_20 text-center mb-3">HUMANISM</h4>
+            <div class="col-lg-12 mb-lg-2 mb-md-2">
+                <h4 class="mb_20 text-center ">HUMANISM</h4>
             </div>
         </div>
         <div class="row">
@@ -1592,29 +1590,27 @@
 
 
 <!--  content Section 13-->
-<section class="payment_testimonial_area  bg-2">
+<section class="payment_testimonial_area bg-2">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 mb-lg-4 mb-md-3">
                 <h4 class="mb_20 text-center mb-3">POSITIVITY ABOUNDS</h4>
+                <!-- <p class="text-center">We have created a system to help you learn key life lessons & grow in positivity through regular seminars and talks covering various aspects of life.</p> -->
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="demo-gallery">
                     <ul class="list-unstyled row basepic lightgallery">
-                        <div class="col-md-12">
-                            <h4 class="color-light">We have created a system to help you learn key life lessons & grow in positivity through regular seminars and talks covering various aspects of life.</h4>
-                    </div>
-
+                        
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/Positivity_01.jpg">
                             <a href="#">
                                <img class="img-fluid "  alt="" src="/assets/img/aboutus/allen-system/Positivity_01.jpg">
                             </a>
-                            <div class="covertxt">
+                            <!-- <div class="covertxt">
                                 <p class="f_400 mb-0">Motivation by Arunima Sinha (Padma Shri Awardee)</p>
-                            </div>
+                            </div> -->
                         </li>
                         <li class="col-lg-6 col-sm-12 col-md-12" data-responsive=""
                             data-src="/assets/img/aboutus/allen-system/Positivity_12.jpg">

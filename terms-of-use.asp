@@ -11,7 +11,7 @@
 		<div class="breadcrumb_content text-center">
 			<h1 class="breadcrumb-hed">Terms of Use</h1>
 			<ul class="list-unstyled breadcrumb-links m-0">
-				<li><a href="/">Home</a></li>
+				<li><a href="/kota/">Home</a></li>
 				<li>Terms of Use</li>
 			</ul>
 		</div>
@@ -30,7 +30,7 @@
 				<div class="row mb-3 mt-3">
 					<div class="col-md-12">
 					<h5><span>1. Copyright and Trademark Notice</span></h5>
-					<ol class="l_height28">
+					<ol class="l_height28 list-main">
 					<li>© 2019 ALLEN CAREER INSTITUTE</li>
 					<li>ALLEN CAREER INSTITUTE ®, ALLEN ® and all other logos appearing on our website bearing the ® symbol are registered trademarks under the Indian Trademark Act, 1999.
 						</li>
@@ -48,7 +48,7 @@
 				<div class="row mb-3 mt-3">
 					<div class="col-md-12">
 					<h5><span>2. Copyright License</span></h5>
-					<ol class="l_height28">
+					<ol class="list-main">
 
 					<li>You may:
 					<ol type="a">
@@ -77,7 +77,7 @@
 				<div class="row mb-3 mt-3">
 					<div class="col-md-12">
 					<h5><span>3. Acceptable Use</span></h5>
-					<ol class="l_height28">
+					<ol class="list-main">
 
 					<li>You must not:
 					<ol type="a">
@@ -101,7 +101,7 @@
 				<div class="row mb-3 mt-3">
 					<div class="col-md-12">
 					<h5><span>5. Enforcement of Propriety Rights</span></h5>
-					<ol class="l_height28">
+					<ol class="list-main">
 				<li>We take the protection of our copyright and registered trademarks very seriously.</li>
 				<li>If we discover that you have used our protected material/likeness/logos in contravention of these terms of use, we may initiate legal proceedings against you, including civil action and/or criminal prosecution, the entire legal costs and expenses of which, shall be borne by you.</li>
 					</ol>

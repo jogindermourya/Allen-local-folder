@@ -9,7 +9,7 @@
 	   <div class="breadcrumb_content text-center">
 		  <h1 class="breadcrumb-hed">Fee Deposition Mode</h1>
 		  <ul class="list-unstyled breadcrumb-links m-0">
-			 <li><a href="/">Home</a></li>
+			<li><a href="/kota/">Home</a></li>
 			 <li>Fee Deposition Mode</li>
 		  </ul>
 	   </div>

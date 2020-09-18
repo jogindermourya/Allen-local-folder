@@ -8,8 +8,8 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">ASWS</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
-                <li>Allen Student Welfare Society </li>
+                <li><a href="/kota/">Home</a></li>
+                <li>ALLEN Student Welfare Society </li>
             </ul>
         </div>
     </div>
@@ -28,10 +28,9 @@
             </div>
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="service_details">
-                    <h2 class="f_p f_600 f_size_30 t_color3 l_height40 mb-30">Allen Student Welfare Society for Students 
+                    <h2 class="f_p f_600 f_size_30 t_color3 l_height40 mb-30">ALLEN Student Welfare Society for Students 
                     </h2>
-                    <p class="f_400 mb_40">Why I say old chap that is spiffing pukka, bamboozled wind up bugger buggered
-                        zonked hanky panky a blinding shot the little rotter, bubble and squeak vagabond cheeky.!</p>
+                    <p class="f_400 mb_40">Working in close sync with the students, ASWS is devoted to understanding their needs, problems, and concerns and providing the most feasible solution. Right from healthcare, food, to proper hostel facilities, ASWS provides students with effective assistance.</p>
                 </div>
             </div>
         </div>
@@ -92,8 +91,7 @@
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="service_details">
                     <h2 class="f_p f_600 f_size_30 t_color3 l_height40 mb-30">Our Media Coverage</h2>
-                    <p class="f_400 mb_40">Why I say old chap that is spiffing pukka, bamboozled wind up bugger buggered
-                        zonked hanky panky a blinding shot the little rotter, bubble and squeak vagabond cheeky.!</p>
+                    <p class="f_400 mb_40">Glimpses of the good work carried out by ASWS, our every step gets its due recognition from media channels & newspapers.</p>
                 </div>
             </div>
         </div>
@@ -215,26 +213,24 @@
             <div class="col-md-12 text-center hdmrb">
                 <h2 class="f_p f_size_30 l_height50 f_700 mainhd-section">
                     <span class="circle"></span>
-                    <span class="position-relative">Speach for Student</span>
+                    <span class="position-relative">Leaders Speak</span>
                 </h2>
             </div>
         </div>
         <div class="app_testimonial_slider owl-carousel">
             <div class="app_testimonial_item text-center">
-                <div class="author-img"><img src="/assets/img/home7/testimonial_author_img.png" alt=""></div>
+                <div class="author-img"><img src="/assets/img/aboutus/asws/cr-sir-new.png" alt=""></div>
                 <div class="author_info">
-                    <h6 class="f_p f_500 f_size_18 t_color3 mb-0">Lurch Schpellchek</h6>
-                    <p>UI/UX designer</p>
+                    <h6 class="f_p f_500 f_size_18 t_color3 mb-0">C.R. Chaudhary</h6>
                 </div>
-                <p class="f_400">What a load of rubbish bits and bobs pear shaped owt to do with me bubble and squeak jolly good morish tinkety tonk old fruit, car boot my good sir buggered plastered cheeky David, haggle young delinquent say so I said bite your arm off easy peasy. Skive off it's all gone to pot buggered.</p>
+                <p class="f_400">Being one of the top-notch institutes of the country, ALLENhas an increased responsibility of providing the students with the best assistanceduring their stay in Kota. This is why we established the ALLEN Student WelfareSociety, which takes complete care of the students’ needs and is working dayand night to create a safe study environment for them, not just within thecampus but also in the city.</p>
             </div>
             <div class="app_testimonial_item text-center">
-                <div class="author-img"><img src="/assets/img/home7/testimonial_author_img.png" alt=""></div>
+                <div class="author-img"><img src="/assets/img/aboutus/asws/mk.png" alt=""></div>
                 <div class="author_info">
-                    <h6 class="f_p f_500 f_size_18 t_color3 mb-0">Lurch Schpellchek</h6>
-                    <p>UI/UX designer</p>
+                    <h6 class="f_p f_500 f_size_18 t_color3 mb-0">Mukesh Saraswat</h6>
                 </div>
-                <p class="f_400">What a load of rubbish bits and bobs pear shaped owt to do with me bubble and squeak jolly good morish tinkety tonk old fruit, car boot my good sir buggered plastered cheeky David, haggle young delinquent say so I said bite your arm off easy peasy. Skive off it's all gone to pot buggered.</p>
+                <p class="f_400">Along with providing students with best care and assistance, ALLEN Student Welfare Society also aims to connect them with social activities.As part of this, ASWS regularly makes students take part in social service activitiesas well as religious celebrations. It’s our effort to keep them connected withdifferent sections and activities of the society along with studies.</p>
             </div>
            
         </div>
@@ -245,4 +241,4 @@
 
 <!--Footer-->
 <!-- #Include virtual="include/footer.asp" -->
-<!--/Footer-->
+<!--/Footer-->  

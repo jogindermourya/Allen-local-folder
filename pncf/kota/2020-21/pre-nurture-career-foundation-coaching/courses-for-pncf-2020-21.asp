@@ -1,8 +1,10 @@
-<!--#include virtual="pncf/pncf-include/header.asp"-->
+<!--#include virtual="/pncf/kota/include/header.asp"-->
 
 
 <!--Result Header-->
-<!-- #Include virtual="common/courses-headers/result-header2.asp" -->
+<!-- #Include virtual="/pncf/common/courses-headers/result-header4.asp" -->
+<!--#include virtual="/date-condition-fee.asp"-->
+
 <!--/Result Header-->
 
 
@@ -14,12 +16,12 @@
             <div class="row">
                 <div class="navbar">
                     <ul class="d-flex justify-content-between" >
-                        <li class="active"><a href="#course_details" class="scroll"><i class="fa fa-fw fa-home"></i>Course Details</a>
+                        <li class="active"><a href="#course_details" class="scroll"><i class="fa fa-fw fa-book"></i>Course Details</a>
                         </li>
-                        <li><a href="#fee_structure"  class="scroll"><i class="fa fa-fw fa-search"></i>Fee Structure</a></li>
-                        <li><a href="#scholarship"  class="scroll"><i class="fa fa-fw fa-search"></i>Scholarship</a></li>
-                        <li><a href="#ASAT_details"  class="scroll"><i class="fa fa-fw fa-search"></i>ASAT Details</a></li>
-                        <li><a href="#get_assistance"  class="scroll"><i class="fa fa-fw fa-search"></i>Get Assistance</a></li>
+                        <li><a href="#fee_structure"  class="scroll"><i class="fa fa-fw fa-inr"></i>Fee Structure</a></li>
+                        <li><a href="#scholarship"  class="scroll"><i class="fa fa-fw fa-graduation-cap"></i>Scholarship</a></li>
+                        <li><a href="#ASAT_details"  class="scroll"><i class="fa fa-fw fa-universal-access"></i>ASAT Details</a></li>
+                        <li><a href="#get_assistance"  class="scroll"><i class="fa fa-fw fa-headphones"></i>Get Assistance</a></li>
                     </ul>
                 </div>
             </div>
@@ -34,342 +36,407 @@
             <div class="row">
                 <div class="col-lg-10 col-sm-9 ">
                     <ul class="list-unstyled breadcrumb-links m-0">
-                        <li><a href="/">Home</a></li>
-                        <li>Pre-Nnurture And Career Foundation Coaching</li>
+                        <li><a href="/pncf/kota/">Home</a></li>
+                        <li><a href="/pncf/kota/pre-nurture-and-career-foundation-coaching.asp">Pre-Nurture And Career Foundation Coaching</a></li>
+                        <li>Courses for PNCF 2020-21</li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-sm-3 ">
-                    <a href="/courses/iit-jee-main-advanced-coaching.asp" class=" blue_btn btn_hover d-inline-block"><i
+                    <a href="/pncf/kota/pre-nurture-and-career-foundation-coaching.asp" class=" blue_btn btn_hover d-inline-block"><i
                             class="fa fa-angle-left f_size_20 mr-1"></i> Back</a>
                 </div>
             </div>
         </div>
     </section>
+	
+  <style>
+	#datatable-course  th {
+		padding: 8px 10px;
+		text-align: center;
+		background: #338CDB;
+		color: #fff;
+		border: .5px solid #eee;
+		font-size: 13px;
+		vertical-align: top;
+		text-align: center;
+	}
+	</style>
 
     <!--  content Section -->
-    <section class="cours_content_wrp">
+    <section class="cours_content_wrp" ng-app="myApp" ng-controller="bhub" ng-cloak>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
 
-                    <div class="cover_box" id="course_details">
-                        <h3>Course Details</h3>
-                        <div class="">
-                            <!-- Accordion v1 -->
-
-                            <div class="table-responsive">
-                                <table class="table table-bordered table-striped coursetbl">
-                                    <tbody>
-                                        <tr>
-                                            <th width="15%">Admission Mode</th>
-                                            <td>ASAT / TALLENTEX</td>
-                                            <td width="13%"><a href="/pncf/kota/2020-21/about-allen-scholarship-admission-test.asp"
-                                                    class="onlineenqury_btn btn_hover" role="button">ASAT Details</a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th>Medium of Study</th>
-                                            <td colspan="2">English</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Eligibility</th>
-                                            <td colspan="2"> Students Studying in CBSE affiliated schools</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Course Duration</th>
-                                            <td colspan="2">Upto February / March 2021</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Syllabus Covered</th>
-                                            <td colspan="2" valign="middle">Science, Maths, English &amp; SST (as per
-                                                NCERT Syllabus) &amp; Mental Ability</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Class Venue</th>
-                                            <td colspan="2" valign="middle"> PNCF Courses are running at Multiple
-                                                Centers. For Classroom Center Code related query, please contact at
-                                                Admission Counseling Desk. </td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
 
 
-
-                            <h4 class="color-green f_size_16 mb-3"><strong>For : <span
-                                        class="color-darker">Pre-Nurture</span></strong></h4>
-                            <div class="table-responsive">
-                                <table class="table table-bordered table-striped coursetbl text-center">
-                                    <tbody>
-                                        <tr>
-                                            <th width="23%" class="text-left">Class</th>
-                                            <td colspan="2"><strong>CLASS - VI</strong></td>
-                                            <td colspan="2"><strong>CLASS - VII</strong></td>
-                                            <td colspan="2"><strong>CLASS - VIII</strong></td>
-                                        </tr>
-                                        <tr>
-                                            <th class="text-left">Phase</th>
-                                            <td width="8%"><strong>PHASE-I</strong></td>
-                                            <td width="14%"><strong>PHASE-II</strong></td>
-                                            <td width="14%"><strong>PHASE-I</strong></td>
-                                            <td width="14%"><strong>PHASE-II</strong></td>
-                                            <td width="14%"><strong>PHASE-I</strong></td>
-                                            <td width="13%"><strong>PHASE-II</strong></td>
-                                        </tr>
-                                        <tr>
-                                            <th class="text-left">Course Code</th>
-                                            <td><span class="color-red">4001</span></td>
-                                            <td><span class="color-red">4002</span></td>
-                                            <td><span class="color-red">4006</span></td>
-                                            <td><span class="color-red">4007</span></td>
-                                            <td><span class="color-red">4011</span></td>
-                                            <td><span class="color-red">4012</span></td>
-                                        </tr>
-                                        <tr>
-                                            <th class="text-left">Commencement Date</th>
-                                            <td>05/04/2020</td>
-                                            <td>11/05/2020 </td>
-                                            <td>05/04/2020 </td>
-                                            <td>11/05/2020</td>
-                                            <td>05/04/2020</td>
-                                            <td>11/05/2020</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="text-left">Last Date of Fee  Deposition</th>
-                                            <td>03/04/2020</td>
-                                            <td>09/05/2020</td>
-                                            <td>03/04/2020</td>
-                                            <td>09/05/2020</td>
-                                            <td>03/04/2020 </td>
-                                            <td>09/05/2020</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="text-left">Last Date of First Refund</th>
-                                            <td>19/04/2020</td>
-                                            <td>25/05/2020</td>
-                                            <td>19/04/2020</td>
-                                            <td>25/05/2020 </td>
-                                            <td>19/04/2020</td>
-                                            <td>25/05/2020</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="text-left">Last Date of Last Refund</th>
-                                            <td>04/05/2020</td>
-                                            <td>09/06/2020</td>
-                                            <td>04/05/2020 </td>
-                                            <td>09/06/2020</td>
-                                            <td>04/05/2020 </td>
-                                            <td>09/06/2020</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                            <h4 class="color-green f_size_16 mb-3"><strong>For : <span class="color-darker"> Career Foundation</span></strong></h4>
-                            <div class="table-responsive">
-                                <table class="table table-bordered table-striped coursetbl text-center">
-                                    <tbody>
-                                        <tr>
-                                            <th colspan="2" class="text-left">Class</th>
-                                            <td colspan="2"><strong>CLASS - IX</strong></td>
-                                            <td colspan="2"><strong>CLASS - X</strong></td>
-                                        </tr>
-                                        <tr>
-                                            <th colspan="2" class="text-left">Phase</th>
-                                            <td width="16%"><strong>PHASE-I</strong></td>
-                                            <td width="20%"><strong>PHASE-II</strong></td>
-                                            <td width="20%"><strong>PHASE-I</strong></td>
-                                            <td width="20%"><strong>PHASE-II</strong></td>
-                                        </tr>
-                                        <tr>
-                                            <th colspan="2" class="text-left">Course Code</th>
-                                            <td><span class="color-red">4016</span></td>
-                                            <td><span class="color-red">4017</span></td>
-                                            <td><span class="color-red">4021</span></td>
-                                            <td><span class="color-red">4022</span></td>
-                                        </tr>
-                                        <tr>
-                                            <th colspan="2" class="text-left">Commencement Date</th>
-                                            <td>05/04/2020 </td>
-                                            <td>11/05/2020</td>
-                                            <td>05/04/2020 </td>
-                                            <td>11/05/2020</td>
-                                        </tr>
-                                        <tr>
-                                            <th width="11%" rowspan="2" class="text-left">Last Date of Fee Deposition</th>
-                                            <th width="13%" class="text-left">1st Instl. / Lumpsum</th>
-                                            <td>03/04/2020 </td>
-                                            <td>09/05/2020</td>
-                                            <td>03/04/2020</td>
-                                            <td>09/05/2020</td>
-                                        </tr>
-                                        <tr>
-                                            <th>2 Instl.</th>
-                                            <td>19/05/2020</td>
-                                            <td>24/06/2020</td>
-                                            <td>19/05/2020</td>
-                                            <td>24/06/2020</td>
-                                        </tr>
-                                        <tr>
-                                            <th colspan="2" class="text-left">Last Date of First Refund</th>
-                                            <td>19/04/2020</td>
-                                            <td>25/05/2020 </td>
-                                            <td>19/04/2020</td>
-                                            <td>25/05/2020</td>
-                                        </tr>
-                                        <tr>
-                                            <th colspan="2" class="text-left">Last Date of Last Refund</th>
-                                            <td>04/05/2020</td>
-                                            <td>09/06/2020 </td>
-                                            <td>04/05/2020 </td>
-                                            <td>09/06/2020</td>
-                                        </tr>
-                                    </tbody>
-
-                                </table>
-                                <h2 class="f_size_16"> <span class="color-green">Study Center Code :</span> Talwandi Kota : 1001, Kunhari Kota: 1015, Baran Road : 1016</h2>
-                                <p><strong>NOTE</strong>: Admission in a particular course at a particular location is subjected to availability.</p>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="cover_box" id="fee_structure">
-                        <h3>Fee Structure</h3>
-                        <div class="table-responsive">
-                            <table class="table table-bordered table-striped coursetbl text-center">
-                                <tbody>
-                                    <tr>
-                                        <th valign="middle" class="text-center" width="10%">Course Name</th>
-                                        <th width="10%" class="text-center"><strong>Total Amount *</strong></th>
-                                        <th width="10%" class="text-center"><strong>1st Installment</strong></th>
-                                        <th width="10%" class="text-center"><strong>2nd Installment</strong></th>
-                                    </tr>
-                                    <tr>
-                                        <td>Class VI</td>
-                                        <td class="text-center color-red"><strong><i class="fa fa-inr"></i> 31000/-</strong></td>
-                                        <td class="text-center color-red">-</td>
-                                        <td class="text-center color-red">-</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Class VII</td>
-                                        <td class="color-red"><strong><i class="fa fa-inr"></i>34000/-</strong></td>
-                                        <td class="color-red">-</td>
-                                        <td class="color-red">-</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Class VIII</td>
-                                        <td class="color-red"><strong><i class="fa fa-inr"></i>41000/- </strong></td>
-                                        <td class="color-red">-</td>
-                                        <td class="color-red">-</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Class IX</td>
-                                        <td class="color-red"><strong><i class="fa fa-inr"></i>57000/- </strong></td>
-                                        <td class="color-red"><strong><i class="fa fa-inr"></i>37000/- </strong></td>
-                                        <td class="color-red"><strong><i class="fa fa-inr"></i> 20000/- </strong></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Class X</td>
-                                        <td class="color-red"><strong><i class="fa fa-inr"></i>62000/- </strong></td>
-                                        <td class="color-red"><strong><i class="fa fa-inr"></i> 42000/- </strong></td>
-                                        <td class="color-red"><strong><i class="fa fa-inr"></i> 20000/- </strong></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-
-                        </div>
-                        <div class="listingwrp">
-                            <p> 1. If Total Amount Paid in Lump-sum (one time) : For Class IX & X Rebate of 3000/- will be given.</p>
-                            <p>2. Total Deductable Amount in Refund Cases : First Refund : 6000/- & Last Refund : 9000/- (Click here for Refund Rules)</p>
-                            <p>* Total Amount is inclusive of GST 18% (Present Rate). Fee can be changed, if there is levy/change in taxes by the Central/State Govt.</p>
-                            <p>* In case of installment payment option, student have to deposit PDC (Post Dated Cheque) of balance amount at the time of first installment deposit.</p>
-                        </div>
-                    </div>
-
-
-                    <div class="cover_box" id="scholarship">
-                        <h3>Scholarship</h3>
-                        <div class="table-responsive">
-                            <table class="table table-bordered table-striped coursetbl">
-                                <tbody>
-                                    <tr>
-                                        <th>Eligibility</th>
-                                        <th style="width: 1%">Code</th>
-                                        <th><strong>[%] #</strong></th>
-                                    </tr>
-                                    <tr>
-                                        <td>For Top 3 Rank holders in any Maths / Science Olympiad in previous Std. at National &amp; International Level </td>
-                                        <td style="width: 1%">PS03 </td>
-                                        <td>50%</td>
-                                    </tr>
-                                    <tr>
-                                        <td>For Top 3 State Rank Holder or Top 100 National / International Rank Holder in any Maths / Science Olympiad in Previous Std. </td>
-                                        <td style="width: 1%">PS06</td>
-                                        <td>20%</td>
-                                    </tr>
-                                    <tr>
-                                        <td>For Pre RMO qualified students</td>
-                                        <td style="width: 1%">PS36</td>
-                                        <td valign="middle">25%</td>
-                                    </tr>
-                                    <tr>
-                                        <td>For HBCSE Olympiad Stage NSEP/C/B/A/JS or RMO qualified Students </td>
-                                        <td style="width: 1%">PS08</td>
-                                        <td valign="middle">60%</td>
-                                    </tr>
-                                    <tr>
-                                        <td>For HBCSE Olympiad Stage INPhO/ChO/BO/AO/JSO or INMO qualified students</td>
-                                        <td style="width: 1%">PS09</td>
-                                        <td valign="middle">80%</td>
-                                    </tr>
-                                    <tr>
-                                        <td>For HBCSE Olympiad OCSC Stage Physics/Chemistry/Biology/Astronomy/Jr. Science/Mathematics Qualified Students &amp; Medalist </td>
-                                        <td style="width: 1%">PS35</td>
-                                        <td valign="middle">90%</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Any two or more siblings (Real Brother / Sister ) studying in ALLEN (Same Session) </td>
-                                        <td style="width: 1%">PS10</td>
-                                        <td valign="middle">10%</td>
-                                    </tr>
-                                    <tr>
-                                        <td>On the basis of Performance in ASAT<span  style="color:#ff0000; font-weight:bold;"> *</span></td>
-                                        <td style="width: 1%">PS31</td>
-                                        <td valign="middle">upto 90%</td>
-                                    </tr>
-                                    <tr>
-                                        <td>On the basis of Performance in Tallentex-2020 (Result declared in November 2019)</td>
-                                        <td style="width: 1%">PS32</td>
-                                        <td valign="middle">upto 90%</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-
-                        <div class="listingwrp">
-                            <p>Scholarship is in the form of Concession in Total Fee (#), student has to claim this by applying in prescribed Scholarship Application Form for Academic Session 2020-21 after admission.</p>
-                            <p>2. For scholarship rules : <a href="/pncf/kota/2020-21/scholarship-rules.asp">Click Here</a></p> 
-                            </p>
-                            <p>*Scholarship awarded in an ASAT can be availed only till one day prior to the next ASAT. </p>
-                           
-                            <div class="text-center">
-                                <p class="text-center bg_txt m-auto"><strong>A student is eligible for only one scholarship at a time, No two criteria can be clubbed to avail deduction in fee at ALLEN.</strong></p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="cover_box" id="ASAT_details">
-                        <h3>ASAT Details</h3>
-                        <p> ALLEN Kota is equipped with the team of top most faculties for preparation of JEE (Main+Advanced) who are known for producing best results year after year. Our meticulously planned courses and well-timed completion of the syllabus renders sufficient time to the ngineering aspirants for self-studies and thorough revision. Our subject experts explain the basics in a simple manner using illustrations which helps students to get well acquainted with the topics.</p>
-                        <p>Our IIT JEE courses are elite in their perfectionism & proficiency and they lead the students to the peak of their preparation while simultaneously covering the school syllabus (CBSE & other Boards).The curriculum is revised frequently to keep pace with the fast hanging competitive environment. The faculty is a blend of rich academic experience and vast knowledge. The series of periodic tests are identical to the pattern of various competitive engineering examinations and give ample practice to the aspirants for the same.</p>
-
-                        <p>Getting a first-hand feel of studying in a rigorously competitive environment, our students further develop their ability of problem solving skills and demonstrate superior performance. Every test attempted by the students gives them a clear idea of their understanding of the topic, strengths and weaknesses, ranking amongst the aspirants from across India. By being a part of the on-going year round curriculum, they adapt themselves well to the pattern of paper and are successful in the examination with ease. Besides delivering knowledge we encourage and motivate our students to make most of their abilities by boosting their confidence.</p>
-                        <p> ALLEN is wholly committed to imparting career based education and students have the benefit of our expertise and knowledge every day throughout the year. From our core curriculum of preparatory studies to the detailed subject analysis through tests, our students have an access to all that is required to be successful in IIT JEE (Main+Advanced).
-                        </p>
-                    </div>
-
-                </div>
+          <div class="cover_box" id="course_details">
+            <h3>Course Details</h3>
+			<div class="table-responsive">
+				<table class="table table-bordered table-striped coursetbl">
+					<tbody>
+						<tr>
+							<th width="15%">Admission Mode</th>
+							<td>ASAT / TALLENTEX / Direct Admission</td>
+							<td width="13%"><a href="/pncf/kota/2020-21/about-allen-scholarship-admission-test.asp"
+									class="onlineenqury_btn btn_hover" role="button">ASAT Details</a>
+							</td>
+						</tr>
+						<tr>
+							<th>Medium of Study</th>
+							<td colspan="2">English</td>
+						</tr>
+						<tr>
+							<th>Eligibility</th>
+							<td colspan="2"> Students Studying in CBSE affiliated schools</td>
+						</tr>
+						<tr>
+							<th>Course Duration</th>
+							<td colspan="2">Upto February / March 2021</td>
+						</tr>
+						<tr>
+							<th>Syllabus Covered</th>
+							<td colspan="2" valign="middle">Science, Maths, English &amp; SST (as per
+								NCERT Syllabus) &amp; Mental Ability</td>
+						</tr>
+						<tr>
+							<th>Class Venue</th>
+							<td colspan="2" valign="middle"> PNCF Courses are running at Multiple
+								Centers. For Classroom Center Code related query, please contact at
+								Admission Counseling Desk. </td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			  
+            
+			<h4 class="color-green "><strong>PRE-NURTURE : </strong></h4>
+            <div class="table-responsive">            
+			   <table class="table table-bordered dt-responsive table-hover customtbl cetnble " width="100%">
+				<thead>
+					<tr>
+					  <th>Class<br>
+						</th>
+					  <th>Phases</th>
+					  <th>Commencement<br>
+						Date</th>
+					  <th>Course Code </th>
+					  <th align="center" valign="middle"  >Date of <br>
+						1st Instllment / Lumpsum</th>
+					  <th align="center" valign="middle" >Date of <br>
+						2nd Instllment</th>
+					  <th align="center" valign="middle"  >Date of <br>
+						First Refund</th>
+					  <th align="center" valign="middle"  >Date of <br>
+						Last Refund</th>
+					</tr>
+				</thead>
+				<tbody ng-repeat="data in pncfpn" >
+					<tr>
+						<td rowspan="{{data.Courses.length}}"><span>{{ data.class }}</span></td>
+						<td align="center"><span>{{data.Courses[0].phase}}</span></td>
+						<td align="center"><span>{{data.Courses[0].commdate | date : 'dd/MM/yyyy' }}</span></td>
+						<td align="center"><span>{{data.Courses[0].ccode}}</span></td>
+						<td align="center"><span>{{data.Courses[0].Istinst  | date : 'dd/MM/yyyy'}}</span></td>
+						<td align="center"><span>{{data.Courses[0].IIndinst  | date : 'dd/MM/yyyy'}}</span></td>
+						<td align="center"><span>{{data.Courses[0].Iref | date : 'dd/MM/yyyy'}}</span></td>
+						<td align="center"><span>{{data.Courses[0].Lastref | date : 'dd/MM/yyyy'}}</span></td>
+					</tr>
+					<tr align="center" ng-repeat="item in data.Courses| orderBy:'commdate'" ng-if="$index > 0" ng-class="{active: datehighlight(item.commdate)}">
+						<td><span>{{item.phase}}</span></td>
+						<td><span>{{item.commdate | date : 'dd/MM/yyyy' }}</span></td>
+						<td><span>{{item.ccode}}</span></td>
+						<td><span>{{item.Istinst  | date : 'dd/MM/yyyy'}}</span></td>
+						<td><span>{{item.IIndinst  | date : 'dd/MM/yyyy'}}</span></td>
+						<td><span>{{item.Iref | date : 'dd/MM/yyyy'}}</span></td>
+						<td><span>{{item.Lastref | date : 'dd/MM/yyyy'}}</span></td>
+					</tr>
+				</tbody>
+			</table>
             </div>
+              <!-- Accordion v1 -->
+			<h4 class="color-green "><strong>CAREER FOUNDATION : </strong></h4>
+            <div class="table-responsive">            
+			   <table class="table table-bordered dt-responsive table-hover customtbl cetnble " width="100%">
+				<thead>
+					<tr>
+					  <th>Class<br>
+						</th>
+					  <th>Phases</th>
+					  <th>Commencement<br>
+						Date</th>
+					  <th>Course Code </th>
+					  <th align="center" valign="middle"  >Date of <br>
+						1st Instllment / Lumpsum</th>
+					  <th align="center" valign="middle" >Date of <br>
+						2nd Instllment</th>
+					  <th align="center" valign="middle"  >Date of <br>
+						First Refund</th>
+					  <th align="center" valign="middle"  >Date of <br>
+						Last Refund</th>
+					</tr>
+				</thead>
+				<tbody ng-repeat="data in pncfcf" >
+					<tr>
+						<td rowspan="{{data.Courses.length}}"><span>{{ data.class }}</span></td>
+						<td align="center"><span>{{data.Courses[0].phase}}</span></td>
+						<td align="center"><span>{{data.Courses[0].commdate | date : 'dd/MM/yyyy' }}</span></td>
+						<td align="center"><span>{{data.Courses[0].ccode}}</span></td>
+						<td align="center"><span>{{data.Courses[0].Istinst  | date : 'dd/MM/yyyy'}}</span></td>
+						<td align="center"><span>{{data.Courses[0].IIndinst  | date : 'dd/MM/yyyy'}}</span></td>
+						<td align="center"><span>{{data.Courses[0].Iref | date : 'dd/MM/yyyy'}}</span></td>
+						<td align="center"><span>{{data.Courses[0].Lastref | date : 'dd/MM/yyyy'}}</span></td>
+					</tr>
+					<tr align="center" ng-repeat="item in data.Courses| orderBy:'commdate'" ng-if="$index > 0" ng-class="{active: datehighlight(item.commdate)}">
+						<td><span>{{item.phase}}</span></td>
+						<td><span>{{item.commdate | date : 'dd/MM/yyyy' }}</span></td>
+						<td><span>{{item.ccode}}</span></td>
+						<td><span>{{item.Istinst  | date : 'dd/MM/yyyy'}}</span></td>
+						<td><span>{{item.IIndinst  | date : 'dd/MM/yyyy'}}</span></td>
+						<td><span>{{item.Iref | date : 'dd/MM/yyyy'}}</span></td>
+						<td><span>{{item.Lastref | date : 'dd/MM/yyyy'}}</span></td>
+					</tr>
+				</tbody>
+			</table>
+            </div>
+              <!-- Accordion v1 -->
+              
+		  <div ng-repeat="data in bhubcent" ><h5>CLASSROOM CENTERS : <br><br> {{data.centdetail}}</h5></div> 
+			  
+
+			<h5 class="mt-3">Note :</h5>
+            <p>Admission in a particular course at a particular location is subjected to availability.</p>
+			<b><p>* Keep visiting our website for updated Class Commencement Dates, same will also be informed on student's registered Mobile Numbers at least 7 days in advance.</p></b>
+          </div>
+			<div class="cover_box" id="fee_structure">
+                        <h3>Fee Structure</h3>
+             
+             
+		<div class="table-responsive">
+		  <% If date <= bhubfeedate1  Then %>
+			<table class="table-bordered dt-responsive table-hover customtbl cetnble" width="100%"  >
+				<thead>
+					<tr>
+						<th width="20%" rowspan="2" align="center" class="text-center">Course Name</th>
+						<th width="20%" rowspan="2" align="center" class="text-center">Phase</th>
+						<th colspan="3" align="center" class="text-center"  >Final Fee (Fee valid after <%=bhubfeedate2%>)</th>
+						<th colspan="3" align="center" class="text-center">Fee valid till <%=adifeedate2%>  </th>
+						<th colspan="3" align="center" class="text-center">Fee valid till <%=bhubfeedate1%> </th>
+					</tr>
+					<tr>
+						<th align="center" class="text-center">Total Amount*</th>
+						<th align="center" class="text-center">1st Installment</th>
+						<th align="center" class="text-center">2nd Installment**</th>
+						<th align="center" class="text-center">Total Amount*</th>
+						<th align="center" class="text-center">1st Installment</th>
+						<th align="center" class="text-center">2nd Installment**</th>
+						<th align="center" class="text-center">Total Amount*</th>
+						<th align="center" class="text-center">1st Installment</th>
+						<th colspan="2" align="center" class="text-center">2nd Installment**</th>
+					</tr>
+				</thead>
+				<tbody ng-repeat="data in pncffee">
+					<tr>
+						<td rowspan="{{data.Courses.length}}"><span>{{data.feecname}}</span></td>
+						<td ><span>{{data.Courses[0].phasefee}}</span></td>
+						<td align="right" class=" color-red"><span>{{ data.Courses[0].totamt | currency:'&#8377;&nbsp;' }}   </span></td>
+						<td align="right"><span>{{ data.Courses[0].istamt | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"><span>{{ data.Courses[0].iiamt | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"  class=" color-red" >{{data.Courses[0].totamt1 | currency:'&#8377;&nbsp;'}}</td>
+						<td align="right" >{{ data.Courses[0].istamt1 | currency:'&#8377;&nbsp;' }} </td>
+						<td align="right">{{data.Courses[0].iiamt1 | currency:'&#8377;&nbsp;' }}</td>
+						<td align="right" class="color-red">{{data.Courses[0].totamt2 | currency:'&#8377;&nbsp;'}}</td>
+						<td align="right" >{{data.Courses[0].istamt2 | currency:'&#8377;&nbsp;'}} </td>
+						<td align="right">{{data.Courses[0].iiamt2 | currency:'&#8377;&nbsp;'}}</td>
+					</tr>
+					<tr ng-repeat="item in data.Courses " ng-if="$index > 0" >
+						<td><span>{{item.phasefee}}</span></td>
+						<td align="right" class=" color-red"><span>{{item.totamt | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"><span>{{item.istamt | currency:'&#8377;&nbsp;'}}</span></td>
+						<td align="right"><span>{{item.iiamt | currency:'&#8377;&nbsp;'}}</span></td>
+						<td align="right" class=" color-red"><span>{{item.totamt1 | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"><span>{{item.istamt1 | currency:'&#8377;&nbsp;'}}</span></td>
+						<td align="right"><span>{{item.iiamt1 | currency:'&#8377;&nbsp;'}}</span></td>
+						<td align="right" class=" color-red"><span>{{item.totamt2 | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"><span>{{item.istamt2 | currency:'&#8377;&nbsp;'}}</span></td>
+						<td align="right"><span>{{item.iiamt2 | currency:'&#8377;&nbsp;'}}</span></td>
+					</tr>
+				</tbody>
+			</table>
+                        
+                                
+		<% ElseIf date <= bhubfeedate2  Then %>
+			<table class="table table-bordered table-striped customtbl table-hover myTable" width="100%"  >
+				<thead>
+					<tr>
+						<th width="20%" rowspan="2" align="center" class="text-center">Course Name</th>
+						<th width="20%" rowspan="2" align="center" class="text-center">Phase</th>
+						<th colspan="3" align="center" class="text-center"  >Final Fee (Fee valid after <%=bhubfeedate2%>)</th>
+						<th colspan="3" align="center" class="text-center">Fee valid till <%=bhubfeedate2%>  </th>
+					</tr>
+					<tr>
+						<th align="center" class="text-center">Total Amount*</th>
+						<th align="center" class="text-center">1st Installment</th>
+						<th align="center" class="text-center">2nd Installment**</th>
+						<th align="center" class="text-center">Total Amount*</th>
+						<th align="center" class="text-center">1st Installment</th>
+						<th align="center" class="text-center">2nd Installment**</th>
+					</tr>
+				</thead>
+				<tbody ng-repeat="data in pncffee">
+					<tr>
+						<td rowspan="{{data.Courses.length}}"><span>{{data.feecname}}</span></td>
+						<td ><span>{{data.Courses[0].phasefee}}</span></td>
+						<td align="right" class=" color-red"><span>{{ data.Courses[0].totamt | currency:'&#8377;&nbsp;' }}   </span></td>
+						<td align="right"><span>{{ data.Courses[0].istamt | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"><span>{{ data.Courses[0].iiamt | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"  class=" color-red" >{{data.Courses[0].totamt1 | currency:'&#8377;&nbsp;'}}</td>
+						<td align="right" >{{ data.Courses[0].istamt1 | currency:'&#8377;&nbsp;' }} </td>
+						<td align="right">{{data.Courses[0].iiamt1 | currency:'&#8377;&nbsp;' }}</td>
+					</tr>
+					<tr ng-repeat="item in data.Courses " ng-if="$index > 0" >
+						<td><span>{{item.phasefee}}</span></td>
+						<td align="right" class=" color-red"><span>{{item.totamt | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"><span>{{item.istamt | currency:'&#8377;&nbsp;'}}</span></td>
+						<td align="right"><span>{{item.iiamt | currency:'&#8377;&nbsp;'}}</span></td>
+						<td align="right" class=" color-red"><span>{{item.totamt1 | currency:'&#8377;&nbsp;' }}</span></td>
+						<td align="right"><span>{{item.istamt1 | currency:'&#8377;&nbsp;'}}</span></td>
+						<td align="right"><span>{{item.iiamt1 | currency:'&#8377;&nbsp;'}}</span></td>
+					</tr>
+				</tbody>
+			  </table>
+		<%Else%>
+                                        
+                
+                                        
+                                        
+                                        
+					<table class="table-bordered dt-responsive table-hover customtbl cetnble " width="100%">
+						<thead>
+							<tr>
+							  <th>Course Name</th>
+							  <th>Phase</th>
+							  <th align="right" class="text-center">Total Amount*</th>
+							  <th align="right" class="text-center">1st Installment</th>
+							  <th align="right" class="text-center">2nd Installment**</th>                  
+							</tr>
+						</thead>
+						<tbody ng-repeat="data in pncffee" >
+							<tr >
+
+							   <td rowspan="{{data.Courses.length}}"><span>{{data.feecname}}</span></td>
+								<td ><span>{{data.Courses[0].phasefee}}</span></td>
+								<td align="right" class=" color-red"><span>{{ data.Courses[0].totamt | currency:'&#8377;&nbsp;' }}    </span></td>
+								<td align="right"><span>{{ data.Courses[0].istamt | currency:'&#8377;&nbsp;' }}</span></td>
+								<td align="right"><span>{{ data.Courses[0].iiamt | currency:'&#8377;&nbsp;' }}</span></td>
+							  </tr>
+							<tr  ng-repeat="item in data.Courses " ng-if="$index > 0" >
+								 <td><span>{{item.phasefee}}</span></td>
+								<td align="right" class=" color-red"><span>{{item.totamt | currency:'&#8377;&nbsp;' }}</span></td>
+								<td align="right"><span>{{item.istamt | currency:'&#8377;&nbsp;'}}</span></td>
+								<td align="right"><span>{{item.iiamt | currency:'&#8377;&nbsp;'}}</span></td>
+							  </tr>
+						</tbody>
+											</table>
+
+
+
+						<%End If%>
+                        </div>
+
+                        <ol>
+                            <li>If Total Amount Paid in Lump-sum (one time) : Rebate of <i class="fa fa-inr"></i> 3000/- will be given.
+                            </li>
+                            <li>Total Deductable Amount in Refund Cases : First Refund : <i class="fa fa-inr"></i> 10000/- & Last Refund : <i class="fa fa-inr"></i> 20000/- ( <a href="/kota/2020-21/refund-rules.asp" class="color-blue">Click here for Refund Rules</a> )</li>
+                            <li>2nd year fee of Nurture Course will be same as 2020-21 final fee of Enthusiast Course if deposited on or before following last dates;<br> 1st installment or lump-sum :<strong> 20.12.2020</strong>, 2nd installment : within 45
+                                days of course commencement. Otherwise fee for 2021-22 will be applicable. <br> * Total Amount is inclusive of GST 18% (Present Rate). Fee can be changed, if there is levy/change in taxes by the Central/State Govt.<br>                                ** In case of installment payment option, student have to deposit PDC (Post Dated Cheque) of balance amount at the time of first installment deposit. </li>
+                        </ol>
+                    </div>
+
+
+			<div class="cover_box" id="scholarship">
+				<h3>Scholarship</h3>
+				<div class="table-responsive">
+					<table class="table-bordered dt-responsive table-hover customtbl cetnble">
+						<tbody>
+							<tr>
+								<th>Eligibility</th>
+								<th style="width: 1%">Code</th>
+								<th><strong>[%] #</strong></th>
+							</tr>
+							<tr>
+								<td>For Top 3 Rank holders in any Maths / Science Olympiad in previous Std. at National &amp; International Level </td>
+								<td style="width: 1%">PS03 </td>
+								<td>50%</td>
+							</tr>
+							<tr>
+								<td>For Top 3 State Rank Holder or Top 100 National / International Rank Holder in any Maths / Science Olympiad in Previous Std. </td>
+								<td style="width: 1%">PS06</td>
+								<td>20%</td>
+							</tr>
+							<tr>
+								<td>For Pre RMO qualified students</td>
+								<td style="width: 1%">PS36</td>
+								<td valign="middle">25%</td>
+							</tr>
+							<tr>
+								<td>For HBCSE Olympiad Stage NSEP/C/B/A/JS or RMO qualified Students </td>
+								<td style="width: 1%">PS08</td>
+								<td valign="middle">60%</td>
+							</tr>
+							<tr>
+								<td>For HBCSE Olympiad Stage INPhO/ChO/BO/AO/JSO or INMO qualified students</td>
+								<td style="width: 1%">PS09</td>
+								<td valign="middle">80%</td>
+							</tr>
+							<tr>
+								<td>For HBCSE Olympiad OCSC Stage Physics/Chemistry/Biology/Astronomy/Jr. Science/Mathematics Qualified Students &amp; Medalist </td>
+								<td style="width: 1%">PS35</td>
+								<td valign="middle">90%</td>
+							</tr>
+							<tr>
+								<td>Any two or more siblings (Real Brother / Sister ) studying in ALLEN (Same Session) </td>
+								<td style="width: 1%">PS10</td>
+								<td valign="middle">10%</td>
+							</tr>
+							<tr>
+								<td>On the basis of Performance in ASAT<span  style="color:#ff0000; font-weight:bold;"> *</span></td>
+								<td style="width: 1%">PS31</td>
+								<td valign="middle">upto 90%</td>
+							</tr>
+							<tr>
+								<td>On the basis of Performance in Tallentex-2020 (Result declared in November 2019)</td>
+								<td style="width: 1%">PS32</td>
+								<td valign="middle">upto 90%</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+				<div class="listingwrp">
+					<p>1. Scholarship is in the form of Concession in Total Fee (#), student has to claim this by applying in prescribed Scholarship Application Form for Academic Session 2020-21 after admission.</p>
+					<p>2. For scholarship rules : <a href="/pncf/kota/2020-21/scholarship-rules.asp">Click Here</a></p> 
+					</p>
+					<p>*Scholarship awarded in an ASAT can be availed only till one day prior to the next ASAT. </p>
+
+					<div class="text-center">
+						<p class="text-center bg_txt m-auto"><strong>A student is eligible for only one scholarship at a time, No two criteria can be clubbed to avail deduction in fee at ALLEN.</strong></p>
+					</div>
+				</div>
+			</div>
+
+			<div class="cover_box" id="ASAT_details">
+				<h3>ASAT Details</h3>
+				<p> ALLEN Kota is equipped with the team of top most faculties for preparation of JEE (Main+Advanced) who are known for producing best results year after year. Our meticulously planned courses and well-timed completion of the syllabus renders sufficient time to the ngineering aspirants for self-studies and thorough revision. Our subject experts explain the basics in a simple manner using illustrations which helps students to get well acquainted with the topics.</p>
+				<p>Our IIT JEE courses are elite in their perfectionism & proficiency and they lead the students to the peak of their preparation while simultaneously covering the school syllabus (CBSE & other Boards).The curriculum is revised frequently to keep pace with the fast hanging competitive environment. The faculty is a blend of rich academic experience and vast knowledge. The series of periodic tests are identical to the pattern of various competitive engineering examinations and give ample practice to the aspirants for the same.</p>
+
+				<p>Getting a first-hand feel of studying in a rigorously competitive environment, our students further develop their ability of problem solving skills and demonstrate superior performance. Every test attempted by the students gives them a clear idea of their understanding of the topic, strengths and weaknesses, ranking amongst the aspirants from across India. By being a part of the on-going year round curriculum, they adapt themselves well to the pattern of paper and are successful in the examination with ease. Besides delivering knowledge we encourage and motivate our students to make most of their abilities by boosting their confidence.</p>
+				<p> ALLEN is wholly committed to imparting career based education and students have the benefit of our expertise and knowledge every day throughout the year. From our core curriculum of preparatory studies to the detailed subject analysis through tests, our students have an access to all that is required to be successful in IIT JEE (Main+Advanced). <a href="/pncf/kota/2020-21/about-allen-scholarship-admission-test.asp">View Details</a>
+				</p>
+			</div>
+		
+		</div>
+		</div>
         </div>
     </section>
     <!-- End  content Section -->
@@ -384,5 +451,34 @@
 
 
 <!--Footer-->
-<!-- #Include virtual="include/footer.asp" -->
+<!--#include virtual="/pncf/kota/include/footer.asp"-->
 <!--/Footer-->
+<script src="/assets/js/angular.min.js" ></script>
+<script type="text/javascript" language="javascript">  
+    var versionUpdate = (new Date()).getTime();  
+    var script = document.createElement("script");  
+    script.type = "text/javascript";  
+    script.src = "/assets/js/course-2020-21/course1.js?v=" + versionUpdate;  
+    document.body.appendChild(script);  
+</script>
+        
+<script src="/assets/js/course-2020-21/course1.js" type="text/javascript"></script>
+<script>
+	$('#datatable-course').DataTable( {
+		"order": [[ 1, "desc" ]], //or asc 
+		paging: false,
+		searching: true,
+		"info": false,
+		"columnDefs": [	
+		{ "orderable": false, "targets": 0 }, 
+		{ "orderable": false, "targets": 2 },
+		{ "orderable": false, "targets": 3 },
+		{ "orderable": false, "targets": 4 },
+		{ "orderable": false, "targets": 5 },
+		{ "orderable": false, "targets": 6 },
+		{ "orderable": false, "targets": 7 },
+		{ "orderable": false, "targets": 8 }
+		]
+	});
+	
+</script> 

@@ -9,7 +9,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">Privacy-Policy</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>Privacy-Policy</li>
             </ul>
         </div>

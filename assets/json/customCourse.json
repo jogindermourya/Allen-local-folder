@@ -1,0 +1,390 @@
+{
+  "kota": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/kota/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/kota/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/kota/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/kota/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "pncf_kota": [
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/1.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/2.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/3.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    }
+  ],
+
+  "ahmedabad": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ahmedabad/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ahmedabad/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ahmedabad/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/ahmedabad/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  
+  "bengaluru": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/bengaluru/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/bengaluru/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/bengaluru/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/bengaluru/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "bhilwara": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/bhilwara/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/bhilwara/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/bhilwara/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/bhilwara/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "bhubaneswar": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/bhubaneswar/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/bhubaneswar/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/bhubaneswar/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "chennai": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/chennai/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/chennai/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/chennai/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/chennai/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "chandigarh": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/chandigarh/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/chandigarh/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/chandigarh/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/chandigarh/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "guwahati": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/guwahati/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/guwahati/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/guwahati/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/guwahati/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "mysuru": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/mysuru/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+   
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/mysuru/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/mysuru/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "indore": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/indore/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/indore/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/indore/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/indore/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "kochi": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/kochi/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/kochi/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/kochi/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/kochi/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "mumbai": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/mumbai/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/mumbai/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/mumbai/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/mumbai/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "nagpur": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/nagpur/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/nagpur/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/nagpur/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/nagpur/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "pune": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pune/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pune/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pune/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/pune/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "rajkot": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/rajkot/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/rajkot/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/rajkot/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/rajkot/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "sikar": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/sikar/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/sikar/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/sikar/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/sikar/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "surat": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/surat/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/surat/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/surat/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/surat/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "ujjain": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ujjain/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ujjain/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ujjain/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/ujjain/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  "vadodara": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/vadodara/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/vadodara/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/vadodara/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/vadodara/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ]
+}

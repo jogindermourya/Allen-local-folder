@@ -1,18 +1,16 @@
                <div class="cover_box" id="sample_papers">
-                  <h3>Sample Paper for ASAT</h3>
-                  <p>ALLEN Kota is equipped with the team of top most faculties for preparation of JEE (Main+Advanced)
-                     who are known for producing best results year after year. Our meticulously planned courses and
-                     well-timed completion of the syllabus renders sufficient.. </p>
-                  <div class="table-responsive">
-                     <table class="table table-bordered table-hover  customtbl2 cetnble">
+                  <h3 class="subhed-in mt-2 mb-4">Sample Paper for ASAT</h3>
+                  <div class="table-responsive mt-3" >
+                     <table class="table table-bordered table-hover customtbl cetnble" id="samplePapers">
                         <thead>
                            <tr>
-                              <th><strong>Course</strong></th>
+                              <th width="50%"><strong>Course</strong></th>
                               <th><strong>Download</strong></th>
                            </tr>
                         </thead>
 
-                        <tbody>
+                        <tbody class="data">
+<!--
                            <tr>
                               <td>NURTURE (X to XI Moving) </td>
                               <td><a href="/asat-sample-papers/Sample-Paper-ASAT-Nurture.pdf" target="_blank"><b>Sample Paper</b></a></td>
@@ -46,6 +44,7 @@
                               <td>Class X</td>
                               <td><a href="/asat-sample-papers/Sample-Paper-ASAT-X.pdf" target="_blank"><b>Sample Paper</b></a></td>
                            </tr>
+-->
                            
                         </tbody>
                      </table>

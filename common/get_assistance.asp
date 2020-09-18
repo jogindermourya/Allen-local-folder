@@ -1,3 +1,49 @@
+            '<%
+' dim utm_source
+' If (Request.QueryString("utm_source")<>"") Then
+' 	utm_source=Request.QueryString("utm_source")
+' Else
+' 	utm_source=""
+' End If
+' 
+' 
+' 
+' 
+' dim utm_medium
+' If (Request.QueryString("utm_medium")<>"") Then
+' 	utm_medium=Request.QueryString("utm_medium")
+' Else
+' 	utm_medium=""
+' End If
+' 
+' dim utm_campaign
+' If (Request.QueryString("utm_campaign")<>"") Then
+' 	utm_campaign=Request.QueryString("utm_campaign")
+' Else
+' 	utm_campaign=""
+' End If
+' 
+' 
+' dim utm_adgroup
+' If (Request.QueryString("utm_adgroup")<>"") Then
+' 	utm_adgroup=Request.QueryString("utm_adgroup")
+' Else
+' 	utm_adgroup=""
+' End If
+' 
+' 
+' dim utm_term
+' If (Request.QueryString("utm_term")<>"") Then
+' 	utm_term=Request.QueryString("utm_term")
+' Else
+' 	utm_term=""
+' End If
+' 
+' 
+'%>
+
+
+
 <section class="get_asstance_wrper" id="get_assistance">
     <div class="container">
 
@@ -13,12 +59,21 @@
             <div class="col-lg-11 offset-lg-1 text-center">
 
                 <div class="bd-example">
-                    <form class="form-inline  justify-content-center row needs-validation" novalidate>
+                    <form class="form-inline  justify-content-center row needs-validation" novalidate >
                         <div class="form-group  mb-2 col-lg-3 col-md-3">
-                            <input type="password" class="form-control w-100" id="inputPassword2" placeholder="Enter Your Name" required>
+                        
+                       <!-- <input name="utm_source" id="utm_source" type="hidden" value="<%=utm_source%>">   
+                    
+                       <input name="utm_medium" id="utm_medium" type="hidden" value="<%=utm_medium%>">
+                       
+                        <input name="utm_campaign" id="utm_campaign" type="hidden" value="<%=utm_campaign%>"> 
+                         <input name="utm_adgroup" id="utm_adgroup" type="hidden" value="<%=utm_adgroup%>"> 
+                          <input name="utm_term" id="utm_term" type="hidden" value="<%=utm_term%>"> -->
+                          
+                            <input type="text" class="form-control w-100" id="name" name="name" placeholder="Enter Your Name" required>
                          </div>
                         <div class="form-group  mb-2 col-lg-3 col-md-3">
-                            <select class="custom-select f_size_15 w-100" required>
+                            <select class="custom-select f_size_15 w-100" required id="classname" name="classname">
                                 <option selected="selected" value="">Please Select Class</option>
                                 <option value="6">V to VI Moving</option>
                                 <option value="7">VI to VII Moving</option>
@@ -32,10 +87,10 @@
                           
                         </div>
                         <div class="form-group mb-2 col-lg-3 col-md-3">
-                            <input type="password" class="form-control w-100" id="inputPassword2" placeholder="Enter your Mobile No." required>
+                            <input type="text" maxlength="10" class="form-control w-100" id="mobile" name="mobile" placeholder="Enter your Mobile No." required>
                         </div>
                         <div class="form-group mb-2 col-lg-3 col-md-3">
-                            <button type="submit" class="onlineenqury_btn btn_hover mb-2">Submit Now!</button>
+                            <button type="button" id='btngetassistant' name='btngetassistant' class="onlineenqury_btn btn_hover mb-2">Submit Now!</button>
                         </div>
                     </form>
                 </div>

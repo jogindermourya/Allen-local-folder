@@ -20,7 +20,7 @@
 	<meta property="og:url" content="" />
 	<meta property="og:image" content="" />
 	
-	<!--Meta tags-->
+	<!--Meta tags-->    
 	<script type="text/javascript">
 	var TITLE  = '';
 	var META_DESC = '';
@@ -44,7 +44,7 @@
 	<!--End Meta tags-->
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/vendors/bootstrap-selector/css/bootstrap-select.min.css">
+    
 
     <!--Icon CSS-->
     <link rel="stylesheet" href="/assets/vendors/font-awesome/css/fontawesome.css">
@@ -54,6 +54,8 @@
     <link rel="stylesheet" href="/assets/vendors/owl-carousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="/assets/vendors/scroll/jquery.mCustomScrollbar.min.css">
     <link rel="stylesheet" href="/assets/vendors/data-table/css/datatables.min.css" >
+    
+    
 
     <!--Custom CSS-->
     <link rel="stylesheet" href="/assets/css/style.css">
@@ -61,15 +63,23 @@
 
     <!-- light box -->
     <link href="/assets/vendors/lightbox/css/lightgallery.min.css" rel="stylesheet">
-	   
+    
 
 </head>
 
 <body>
-    
     <!-- Header Section -->
         <header class="header_area header_area_six">
-           
+		<!--Ads Strip-->
+		<!--
+		<div class="alert notice">
+			<div class="alert_body">
+				<i class="icon-volume-2"></i>
+				Notice Message! Your message here
+			</div>
+			<div class="alert_close"><i class="icon_close"></i></div>
+		</div>
+		-->
            <!-- Top Menu Section -->
             <div class="header_top allen-header">
                 <div class="container">
@@ -82,8 +92,25 @@
                             <div class="navbar-nav navbar-nav-hover align-items-lg-center topmenu row">
                                 <div class="col-lg-8 col-sm-12 fullwd320">
                                     <ul class="header_contact_info list-unstyled">
-                                        <li><a href="#" data-toggle="modal"  data-target="#exampleModalCenter2"><i class="fa fa-globe"></i> Session 2018-19</a></li>
-                                        <li><a href="/"><i class="fa fa-building"></i> Select Center </a></li>
+                                        <li><a href="/"><i class="fa fa-home"></i> Back to Home</a></li>
+                                        <li><a href="" data-toggle="modal"  data-target="#exampleModalCenter2"><i class="fa fa-globe"></i> Session 2019-20</a></li>
+                                        <li><a href="" data-toggle="modal" data-target="#SELECT_CENTER"><i class="fa fa-building"></i> Select Center </a></li>
+                                        <li class="dropdown ">
+                                            <a href="/" class="dropdown-toggle " type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fa fa-list-alt"></i> Results </a>
+                                             <ul class="dropdown-menu top-submenu " aria-labelledby="dropdownMenuButton">
+                                                <li><a class="dropdown-item" href="/apps/selection-results/yesteryears/cbsex.asp">CBSE Class X</a></li>
+                                                <li><a class="dropdown-item" href="/apps/selection-results/yesteryears/achievements-prenurture-careerrfoundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
+                                             </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="/" class="dropdown-toggle " type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-picture-o"></i>  Gallery </a>
+                                             <ul class="dropdown-menu top-submenu" aria-labelledby="dropdownMenuButton">
+                                                <li><a class="dropdown-item" href="https://www.allen.ac.in/imagegallery/gs/embed.aspx?u=kota">Photo Gallery</a></li>
+                                                <li><a class="dropdown-item" href="https://www.allen.ac.in/mediagallery/gs/embed.aspx?u=media">Media Box</a></li>
+                                                <li><a class="dropdown-item" href="https://www.allen.ac.in/mediabox/allen-online-news-media-2019.asp">Online Media</a></li>
+                                             </ul>
+                                        </li>
+                                    
                                     </ul>
                                 </div>
                                 <div class="col-lg-4 col-sm-12 fullwd320">
@@ -93,7 +120,7 @@
                                             <a href="/contactus.asp"> <i class="fa fa-building"></i> Contact</a>
                                         </li>
                                         <li>
-                                            <a href="/enquiry.asp"> <i class="fa fa-user"></i> Enquiry</a>
+                                            <a href="https://www.allen.ac.in/enquiry/" target="_blank"> <i class="fa fa-user"></i> Enquiry</a>
                                         </li>
 
                                        
@@ -116,13 +143,16 @@
                             <span class="hamburger-cross"><span></span><span></span></span>
                         </span>
                     </button>
-                    <a class="navbar-brand" href="/home.asp"><img src="/assets/img/allen-logo-kota.jpg" class="img-fluid" alt="logo"></a>
+                    <a class="navbar-brand text-center" href="/kota/">
+                        <img src="/assets/img/site_logo/main_logo.jpg" class="img-fluid" alt="logo">
+                        <span class="logoname">Kota, Rajasthan</span> 
+                    </a>
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
                         <ul class="navbar-nav menu w_menu ml-auto mr-auto">
                             <li class="dropdown submenu nav-item" id="home">
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button"
-                                    aria-haspopup="true" aria-expanded="false" href="#">About</a>
+                                    aria-haspopup="true" aria-expanded="false" href="#">About us</a>
                                 <ul role="menu" class=" dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/about-allen.asp">About ALLEN</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/aboutus/our-inspiration.asp">Our Inspiration</a></li>
@@ -146,8 +176,8 @@
                                                 <li class="nav-item"><a class="nav-link" href="/kota/jee-main-coaching.asp">JEE (Main)</a></li>
                                                 <li class="nav-item"><a class="nav-link" href="/kota/iit-jee-main-Advanced-coaching.asp">JEE (Main+Advanced)</a></li>
                                                 <li class="nav-item"><a class="nav-link" href="/kota/neet-ug-aiims-coaching.asp">Pre-Medical</a></li>
-                                                <li class="nav-item"><a class="nav-link" href="/pncf/kota/">Pre-nurture & Career Foundation</a></li>
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://theintellibrain.com/">Intellibrain (HKG To V)</a></li>
+                                                <li class="nav-item"><a class="nav-link" href="/pncf/kota/" target="_blank">Pre-nurture & Career Foundation</a></li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://theintellibrain.com/">Intellibrain (HKG To VIII)</a></li>
                                                 <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.allen.ac.in/globalstudies/">Global Studies</a></li>
                                             </ul>
                                         </li>
@@ -157,7 +187,7 @@
                                                 <li class="nav-item"><a class="nav-link" target="_blank" href="https://dlp.allen.ac.in/">Distance Learning Programme </a></li>
                                                 <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.onlinetestseries.in/allenkota/">Online Test Series</a> </li>
                                                 <li class="nav-item"><a class="nav-link" target="_blank" href="https://tab.allen.ac.in/">Allen Tab</a></li>
-                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.gate.onlinetestseries.in/">GATE Online Test Series</a></li>
+                                                <li class="nav-item"><a class="nav-link" target="_blank" href="https://myexam.allen.ac.in/gate-online-test-series/">GATE Online Test Series</a></li>
                                                 <li class="nav-item"><a class="nav-link" target="_blank" href="https://www.prepg.onlinetestseries.in/">Pre-PG Online Test Series</a></li>
                                             </ul>
                                         </li>
@@ -168,8 +198,7 @@
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Admission</a>
                                 <ul role="menu" class=" dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="/kota/2020-21/how-to-apply.asp">How to Apply for APPLICATION FORM</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/appsmvc2021/appforms/Login">Apply Online</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/appsmvc2021/appforms/Login"  target="_blank" >Apply Online</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/kota/2020-21/fee-deposition-modes.asp">Fee Deposition Modes</a></li>
                                     <li class="nav-item"><a class="nav-link"  href="/kota/2020-21/scholarship-rules.asp">Scholarship Rules</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/kota/2020-21/refund-rules.asp"> Refund Rules</a></li>
@@ -181,7 +210,7 @@
                                     aria-haspopup="true" aria-expanded="false" href="#"> ASAT Details</a>
                                 <ul role="menu" class=" dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="/kota/2020-21/about-allen-scholarship-admission-test.asp">ALLEN Scholarship Admission Test (ASAT)</a></li>                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/ASATRESULTNEW/Results.aspx">ASAT Result</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/appsmvc2021/FormStatus/Login">ASAT Admit Card</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/appsmvc2021/FormStatus/Login"   target="_blank" >ASAT Admit Card</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown submenu nav-item">
@@ -192,8 +221,7 @@
                                     <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-aiims.asp">AIIMS</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-aieee.asp">JEE (Main) - AIEEE</a></li>
                                     <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/cbsex.asp">CBSE Class X</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-pre-nurture-career-foundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
-
+                                    <li class="nav-item"><a class="nav-link" href="/apps/selection-results/yesteryears/achievements-prenurture-careerrfoundation.asp">Olympiad, NTSE, KVPY, Scholarship etc</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown submenu mega_menu">
@@ -228,9 +256,9 @@
                                         <li class="nav-item">
                                             <h6 class="menu-hed-course">SESSION 2019-20</h6>
                                             <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="https://allen.ac.in/appsmvc1920/gst/Login" class="nav-link">Download GST Receipt</a></li>
+                                                <li class="nav-item"><a href="https://allen.ac.in/appsmvc1920/gst/Login" class="nav-link"   target="_blank" >Download GST Receipt</a></li>
                                                 <li class="nav-item">
-                                                    <a href="https://www.allen.ac.in/appsmvc1920/formstatus/Login" class="nav-link">Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
+                                                    <a href="https://www.allen.ac.in/appsmvc1920/formstatus/Login" class="nav-link"   target="_blank" >Pay Fee Online / Generate Fee Challan for ASAT Qualified / Direct Admission</a>
                                                 </li>
                                                 <li class="nav-item">
                                                     <a href="/bfl.asp" class="nav-link">Educational courses on Easy EMI from  <img src="/assets/img/bajaj-logo.jpg" class="img-fluid imgtagmenu" alt=""><img src="/assets/img/new_icon_blink.gif" class="img-fluid" alt=""> 
@@ -249,9 +277,9 @@
                                 <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Student Zone</a>
                                 <ul role="menu" class=" dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="/olympiads-competitions-exam-calender.ASP">Competitive Exam Calendar</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/aiotresult1819/Results.aspx">All India Open Test (AIOT) : Result 2019-20</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="https://csat.allen.ac.in/">Periodic Test Results</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/StudAttn/ATTLogin.aspx">Attendance of Classroom  Students</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/aiotresult1819/Results.aspx" target="_blank" >All India Open Test (AIOT) : Result 2019-20</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://csat.allen.ac.in/" target="_blank" >Periodic Test Results</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://www.allen.ac.in/StudAttn/ATTLogin.aspx" target="_blank" >Attendance of Classroom  Students</a></li>
                                 </ul>
                             </li>
                         </ul>

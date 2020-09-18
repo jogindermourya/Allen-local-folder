@@ -1,0 +1,260 @@
+{
+    "//": "Kota JEE Main Details Session 2020-21 : Line Start from 03 : Note Date should be in MM/DD/YYYY Format ",
+
+    "kota-jeemain-nur": [
+        { "commdate": "04/26/2020", "phase": "I", "ccode": "2001", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "05/13/2020", "phase": "II", "ccode": "2002", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/03/2020", "phase": "III", "ccode": "2003", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/14/2020", "phase": "IV", "ccode": "2004", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/24/2020", "phase": "V", "ccode": "2005", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "07/06/2020", "phase": "VI", "ccode": "2006", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "07/15/2020", "phase": "VII", "ccode": "2007", "mode": "Direct", "med": "English/Hindi" }
+        
+
+
+    ],
+    "kota-jeemain-enth": [
+        { "commdate": "01/06/2020", "phase": "I", "ccode": "2021", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "04/09/2020", "phase": "II", "ccode": "2022", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "05/04/2020", "phase": "III", "ccode": "2023", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "05/20/2020", "phase": "IV", "ccode": "2024", "mode": "Direct", "med": "English/Hindi" }
+    ],
+
+    "kota-jeemain-lead": [
+        { "commdate": "05/20/2020", "phase": "I", "ccode": "2031", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "05/28/2020", "phase": "II", "ccode": "2032", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "06/07/2020", "phase": "III", "ccode": "2033", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "06/15/2020", "phase": "IV", "ccode": "2034", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "06/24/2020", "phase": "V", "ccode": "2035", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "07/02/2020", "phase": "VI", "ccode": "2036", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "07/10/2020", "phase": "VII", "ccode": "2037", "mode": "Direct ", "med": "English/Hindi" }
+    ],
+
+    "kota-jeemain-ach": [
+        { "commdate": "07/27/2020", "phase": "I", "ccode": "2061", "mode": "Direct ", "med": "English" }
+
+    ],
+
+    "kota-jeemain-fee": [{
+            "feecname": " Nurture (1st Year Fee)",
+
+            "//": "Lumpsum Amount ",
+            "totamt": 75000.00,
+            "istamt": 30000,
+            "iiamt": 0,
+
+            "//": "1st Installment ",
+            "totamt1": 72000,
+            "istamt1": 36000,
+            "iiamt1": 36000,
+
+            "//": "IInd Installment ",
+            "totamt2": 70000,
+            "istamt2": 35000,
+            "iiamt2": 35000
+        },
+
+        {
+            "feecname": " Enthusiast",
+
+            "//": "Lumpsum Amount ",
+            "totamt": 80000,
+            "istamt": 30000,
+            "iiamt": 0,
+
+            "//": "1st Installment ",
+            "totamt1": 77000,
+            "istamt1": 38500,
+            "iiamt1": 38500,
+
+            "//": "IInd Installment ",
+            "totamt2": 75000,
+            "istamt2": 37500,
+            "iiamt2": 37500
+        },
+
+        {
+            "feecname": " Leader",
+
+            "//": "Lumpsum Amount ",
+            "totamt": 85000,
+            "istamt": 30000,
+            "iiamt": 0,
+
+            "//": "1st Installment ",
+            "totamt1": "-",
+            "istamt1": "-",
+            "iiamt1": "-",
+
+            "//": "IInd Installment ",
+            "totamt2": "-",
+            "istamt2": "-",
+            "iiamt2": "-"
+        },
+
+        {
+            "feecname": " Achiever",
+
+            "//": "Lumpsum Amount ",
+            "totamt": 75000,
+            "istamt": 45000,
+            "iiamt": 0,
+
+            "//": "1st Installment ",
+            "totamt1": "-",
+            "istamt1": "-",
+            "iiamt1": "-",
+
+            "//": "IInd Installment ",
+            "totamt2": "-",
+            "istamt2": "-",
+            "iiamt2": "-"
+        }
+
+                         
+                         
+                         
+                         
+                         
+                         
+    ],
+    
+     "kota-med-nur": [
+        { "commdate": "11/25/2019", "phase": "I [A]", "ccode": "3016", "mode": "Direct", "med": "English" },
+        { "commdate": "12/23/2019", "phase": "I [J]", "ccode": "3020", "mode": "Direct", "med": "English" },
+        { "commdate": "04/06/2020", "phase": "I", "ccode": "3001", "mode": "Direct", "med": "English" },
+        { "commdate": "04/26/2020", "phase": "II", "ccode": "3002", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "05/12/2020", "phase": "III", "ccode": "3003", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "05/19/2020", "phase": "IV", "ccode": "3004", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "05/30/2020", "phase": "V", "ccode": "3005", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/10/2020", "phase": "VI", "ccode": "3006", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/20/2020", "phase": "VII", "ccode": "3007", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/30/2020", "phase": "VIII", "ccode": "3007", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "07/10/2020", "phase": "IX", "ccode": "3007", "mode": "Direct", "med": "English/Hindi" }
+        
+
+
+    ],
+    "kota-med-enth": [
+        { "commdate": "04/06/2020", "phase": "I", "ccode": "3021", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "04/28/2020", "phase": "II [A]", "ccode": "3368", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "05/07/2020", "phase": "II [B]", "ccode": "3369", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "05/18/2020", "phase": "II ", "ccode": "3022", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/01/2020", "phase": "III", "ccode": "3023", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/11/2020", "phase": "IV", "ccode": "3024", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "06/21/2020", "phase": "V", "ccode": "3370", "mode": "Direct", "med": "English/Hindi" },
+        { "commdate": "07/19/2020", "phase": "VI", "ccode": "3371", "mode": "Direct", "med": "English/Hindi" }
+    ],
+
+    "kota-med-lead": [
+        { "commdate": "05/20/2020", "phase": "I", "ccode": "2031", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "05/28/2020", "phase": "II", "ccode": "2032", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "06/07/2020", "phase": "III", "ccode": "2033", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "06/15/2020", "phase": "IV", "ccode": "2034", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "06/24/2020", "phase": "V", "ccode": "2035", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "07/02/2020", "phase": "VI", "ccode": "2036", "mode": "Direct ", "med": "English/Hindi" },
+        { "commdate": "07/10/2020", "phase": "VII", "ccode": "2037", "mode": "Direct ", "med": "English/Hindi" }
+    ],
+
+    "kota-med-ach": [
+        { "commdate": "07/27/2020", "phase": "I", "ccode": "2061", "mode": "Direct ", "med": "English" }
+
+    ],
+
+    "kota-med-fee": [{
+            "feecname": " Nurture (1st Year Fee)",
+
+            "//": "Lumpsum Amount ",
+            "totamt": 75000.00,
+            "istamt": 30000,
+            "iiamt": 0,
+
+            "//": "1st Installment ",
+            "totamt1": 72000,
+            "istamt1": 36000,
+            "iiamt1": 36000,
+
+            "//": "IInd Installment ",
+            "totamt2": 70000,
+            "istamt2": 35000,
+            "iiamt2": 35000
+        },
+
+        {
+            "feecname": " Enthusiast",
+
+            "//": "Lumpsum Amount ",
+            "totamt": 80000,
+            "istamt": 30000,
+            "iiamt": 0,
+
+            "//": "1st Installment ",
+            "totamt1": 77000,
+            "istamt1": 38500,
+            "iiamt1": 38500,
+
+            "//": "IInd Installment ",
+            "totamt2": 75000,
+            "istamt2": 37500,
+            "iiamt2": 37500
+        },
+
+        {
+            "feecname": " Leader",
+
+            "//": "Lumpsum Amount ",
+            "totamt": 85000,
+            "istamt": 30000,
+            "iiamt": 0,
+
+            "//": "1st Installment ",
+            "totamt1": "-",
+            "istamt1": "-",
+            "iiamt1": "-",
+
+            "//": "IInd Installment ",
+            "totamt2": "-",
+            "istamt2": "-",
+            "iiamt2": "-"
+        },
+
+        {
+            "feecname": " Achiever",
+
+            "//": "Lumpsum Amount ",
+            "totamt": 75000,
+            "istamt": 45000,
+            "iiamt": 0,
+
+            "//": "1st Installment ",
+            "totamt1": "-",
+            "istamt1": "-",
+            "iiamt1": "-",
+
+            "//": "IInd Installment ",
+            "totamt2": "-",
+            "istamt2": "-",
+            "iiamt2": "-"
+        }
+
+                         
+                         
+                         
+                         
+                         
+                         
+    ],
+    
+    
+    
+    
+    
+    "//": "Note Date should be in MM/DD/YYYY Format ",
+    "fee-table": [
+
+        { "datetill": "12/21/2020", "dateaft": "01/20/2020" }
+    ]
+
+
+  
+}

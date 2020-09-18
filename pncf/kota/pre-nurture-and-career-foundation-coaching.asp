@@ -1,4 +1,4 @@
-<!--#include virtual="pncf/pncf-include/header.asp"-->
+<!--#include virtual="/pncf/kota/include/header.asp"-->
 
 <!--Result Header-->
 <!-- #Include virtual="/pncf/common/courses-headers/result-header4.asp" -->
@@ -12,11 +12,12 @@
          <div class="row">
             <div class="navbar">
                <ul class="d-flex justify-content-between">
-                  <li class="active"><a href="#about_course" class="scroll"><i class="fa fa-fw fa-home"></i>About PNCF </a></li>
+                  <li class="active"><a href="#about_course" class="scroll"><i class="fa fa-fw fa-book" ></i>About PNCF </a></li>
                   <li><a href="#teaching_methodology"  class="scroll"><i class="fa fa-fw fa-leanpub"></i>Teaching Methodology</a></li>
-                  <li><a href="#sample_papers"  class="scroll"><i class="fa fa-fw fa-columns"></i>Sample Papers</a></li>
+<!--                  <li><a href="#sample_papers"  class="scroll"><i class="fa fa-fw fa-columns"></i>Sample Papers</a></li>-->
                   <li><a href="#download_brochure"  class="scroll"><i class="fa fa-fw fa-download"></i>Download Brochure</a></li>
-                  <li><a href="#get_assistance"  class="scroll"><i class="fa fa-fw fa-head-phones"></i>Get Assistance</a></li>
+				  <li><a href="#faqs" class="scroll"><i class="fa fa-question-circle"></i>FAQS</a></li>
+                  <li><a href="#get_assistance"  class="scroll"><i class="fa fa-fw fa-headphones"></i>Get Assistance</a></li>
                </ul>
             </div>
          </div>
@@ -30,7 +31,7 @@
             <div class="col-lg-10 col-sm-9">
                <ul class="list-unstyled breadcrumb-links m-0">
                   <li><a href="/pncf/kota/">Home</a></li>
-                  <li>Pre-Nnurture And Career Foundation Coaching</li>
+                  <li>Pre-Nurture And Career Foundation Coaching</li>
                </ul>
             </div>
             <div class="col-lg-2 col-sm-3">
@@ -50,40 +51,13 @@
 
                <div class="cover_box" id="about_course">
                   <div class="contentwpr">
-                     <h3>About PNCF (Class 6th to 10th)</h3>
-                     <p>Pre-Nurture & Career Foundation (Class 6th to 10th, NTSE & Olympiads)
-
-                        ALLEN’S PRE-NURTURE AND CAREER FOUNDATION offers courses for various Competitive Exams and
-                        Olympiads for the students of classes 6th to 10th. It fosters Creativity, Scientific Thinking,
-                        Competitive Temperament and Divergent Aptitude in the students by means of our Classroom Contact
-                        Programs and Workshops.
-
-                        Our holistic learning approach ensures the success/improvement of students of class 6th to 10th
-                        in their school exams, boards, NTSE and several national/international Olympiads such as
-                        NSEP/NSEB/NSEC/NSEA, IJSO, NMTC, RMO and private Olympiads like IMO, NSO, NSTSE, etc.
+                     <h3>About PNCF (Class 6<sup>th</sup> to 10<sup>th</sup>)</h3>
+                     <p>Pre-Nurture & Career Foundation (Class 6<sup>th</sup> to 10<sup>th</sup>, NTSE & Olympiads).ALLEN’S <b> PRE-NURTURE AND CAREER FOUNDATION</b> offers courses for various Competitive Exams and Olympiads for the students of classes 6<sup>th</sup>   to 10<sup>th</sup>. It fosters Creativity, Scientific Thinking, Competitive Temperament and Divergent Aptitude in the students by means of our Classroom Contact Programs and Workshops.
                      </p>
-                     <p>
-                        Pre-Nurture and Career Foundation courses have been specially designed with a view to prepare
-                        students of class 6th to 10th by building a firm foundation of every concept for SA-I and SA-II
-                        conducted by CBSE. Our PNCF courseware gradually transforms a student’s learning from the
-                        foundation to the excellent level and ensures a concrete conceptual base which helps the
-                        students emerge successful in formal school academics and competitive examinations. The periodic
-                        tests at ALLEN are planned in such a manner which evaluates the profundity of students’ learning
-                        and the multidimensional analysis reports of the test give a microscopic feedback to student on
-                        areas or subjects which need to be worked upon and improved.
-                        We work towards utilizing the complete potential of our students. Our experienced faculty team,
-                        comprehensive study material, periodic tests and multidimensional analysis ensure the sound
-                        academic development of our 6th to 10th class students. Their social, cultural, creative and
-                        scientific development is also taken care of via regular workshops, career guidance,
-                        motivational & spiritual seminars, national and international academic events etc.
-                     </p>
-                     <p>
-                        Along with the school level studies, PNCF students are thus geared up for competitive
-                        examinations like NTSE, various National/International Olympiads and nationally recognized
-                        awards like Balshree, National Child Award etc. We bring concrete changes in the persona of
-                        students and powerfully instill all essentials of success in their minds to prepare them for the
-                        competitive environment in studies and in life.
-                     </p>
+                     <p>Our holistic learning approach ensures the success/improvement of students of class 6<sup>th</sup>  to 10<sup>th</sup>  in their school exams, boards, NTSE and several national/international Olympiads such as <b> NSEP / NSEB / NSEC / NSEA, IJSO, NMTC, RMO and private Olympiads like IMO, NSO, NSTSE</b> etc.</p>
+                     <p>Pre-Nurture and Career Foundation courses have been specially designed with a view to prepare students of class 6<sup>th</sup>  to 10<sup>th</sup>  by building a firm foundation of every concept for SA-I and SA-II conducted by CBSE. Our PNCF courseware gradually transforms a student’s learning from the foundation to the excellent level and ensures a concrete conceptual base which helps the students emerge successful in formal school academics and competitive examinations. The periodic tests at ALLEN are planned in such a manner which evaluates the profundity of students’ learning and the multidimensional analysis reports of the test give a microscopic feedback to student on areas or subjects which need to be worked upon and improved.</p>
+                     <p>We work towards utilizing the complete potential of our students. Our experienced faculty team, comprehensive study material, periodic tests and multidimensional analysis ensure the sound academic development of our 6<sup>th</sup>  to 10<sup>th</sup>  class students. Their social, cultural, creative and scientific development is also taken care of via regular workshops, career guidance, motivational & spiritual seminars, national and international academic events etc.</p>
+                     <p>Along with the school level studies, PNCF students are thus geared up for competitive examinations like NTSE, various National/International Olympiads and nationally recognized awards like Balshree, National Child Award etc. We bring concrete changes in the persona of students and powerfully instill all essentials of success in their minds to prepare them for the competitive environment in studies and in life.</p>
                      <p><em><b>“We prepare Students for Life”.</b></em></p>
                   </div>
                </div>
@@ -95,7 +69,7 @@
                      <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-6">
                            <div href="#" class="center_item_static">
-                              <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/1.png" alt=""></div>
+                              <div class="col-lg-12 mb-3"><img class="img-fluid t_icon" src="/pncf/img/other-programme/Excellence.png" alt=""></div>
                               <h5 class="col-lg-12">Excellence
                                  In Academics
                               </h5>
@@ -103,14 +77,14 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6">
                            <div href="#" class="center_item_static">
-                              <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/1.png" alt=""></div>
+                              <div class="col-lg-12 mb-3"><img class="img-fluid t_icon" src="/pncf/img/other-programme/aptitude.png" alt=""></div>
                               <h5 class="col-lg-12"> Aptitude
                               </h5>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6">
                            <div href="#" class="center_item_static">
-                              <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/1.png" alt=""></div>
+                              <div class="col-lg-12 mb-3"><img class="img-fluid t_icon" src="/pncf/img/other-programme/skills.png" alt=""></div>
                               <h5 class="col-lg-12">Skills
                               </h5>
                            </div>
@@ -118,21 +92,21 @@
 
                         <div class="col-lg-4 col-md-4 col-sm-6">
                            <div href="#" class="center_item_static">
-                              <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/1.png" alt=""></div>
+                              <div class="col-lg-12 mb-3"><img class="img-fluid t_icon" src="/pncf/img/other-programme/Exposure.png" alt=""></div>
                               <h5 class="col-lg-12"> Exposure
                               </h5>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6">
                            <div href="#" class="center_item_static">
-                              <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/1.png" alt=""></div>
+                              <div class="col-lg-12 mb-3"><img class="img-fluid t_icon" src="/pncf/img/other-programme/Language.png" alt=""></div>
                               <h5 class="col-lg-12">Language Proficiency
                               </h5>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6">
                            <div href="#" class="center_item_static">
-                              <div class="col-lg-12 mb-3"><img src="/assets/img/otherprogram/1.png" alt=""></div>
+                              <div class="col-lg-12 mb-3"><img class="img-fluid t_icon" src="/pncf/img/other-programme/Cultivating.png" alt=""></div>
                               <h5 class="col-lg-12">Cultivating Indian Values </h5>
                            </div>
                         </div>
@@ -144,16 +118,11 @@
 
                               <h5>Excellence in Academics</h5>
                               <p>Excellence in Academics is the demonstrated ability to perform, achieve, and/or excel
-                                 in
-                                 scholastic activities. Academic excellence has been identified with achieving high
-                                 grades
-                                 and superior performance. But academic excellence is more than just making good grades.
-                                 It is the maximum development of your intellectual capacities and skills in service
-                                 to<br>
-                                 humanity.
+                                 in scholastic activities. Academic excellence has been identified with achieving high
+                                 grades and superior performance. But academic excellence is more than just making good grades.It is the maximum development of your intellectual capacities and skills in service
+                                 to humanity. <br>
                                  Achieving academic excellence is a process of both formal and informal education.
-                                 Indeed,
-                                 education is a limitless and unending process to be enjoyed for lifetime.</p>
+                                 Indeed, education is a limitless and unending process to be enjoyed for lifetime.</p>
                               <p><strong>Advantages of Achieving academic excellence are:</strong></p>
                               <ul class="list-unstyled lists-v1">
                                  <li><i class="fa fa-angle-right"></i> Receiving academic scholarships.</li>
@@ -483,7 +452,7 @@
                   </div>
                </div>
 
-				<!-- #Include virtual="/common/asat_sample_papers.asp" -->
+				<!-- Include virtual="/common/asat_sample_papers.asp" -->
 
                <div class="cover_box" id="download_brochure">
                   <div class="row">
@@ -505,6 +474,104 @@
 
                   </div>
                </div>
+				
+				  <!-- Faqs -->
+				  <div class="faqs_wrp" id="faqs">
+					<h3>FAQS</h3>
+					<div class="tab-content faq_content" id="myTabContent2">
+					  <div class="tab-pane fade show active" id="purchas" role="tabpanel" aria-labelledby="purchas-tab">
+						<div id="accordion">
+
+						  <!-- card-1 -->
+						  <div class="card">
+							<div class="card-header" id="heading88">
+							  <h5 class="mb-0">
+								<button class="btn btn-link" data-toggle="collapse" data-target="#collapse88"
+								  aria-expanded="true" aria-controls="collapse88">
+								  Why ALLEN? <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
+								</button>
+							  </h5>
+							</div>
+
+							<div id="collapse88" class="collapse show" aria-labelledby="heading88" data-parent="#accordion">
+							  <div class="card-body">
+								<h4> Till today my ward has studied on his own and secured highest
+								  aggregate, why should she/he join ALLEN? </h4>
+								<p> At ALLEN, We focused on building strong foundation of students, sharpen
+								  their skills and prepare them to face a competitive environment at
+								  National level effectively.</p>
+							  </div>
+							</div>
+						  </div>
+						  <!-- End -->
+
+						  <!-- card-2 -->
+						  <div class="card">
+							<div class="card-header" id="heading99">
+							  <h5 class="mb-0">
+								<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse99"
+								  aria-expanded="false" aria-controls="collapse99">About Admission at ALLEN
+								  <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
+								</button>
+							  </h5>
+							</div>
+							<div id="collapse99" class="collapse" aria-labelledby="heading99" data-parent="#accordion">
+							  <div class="card-body">
+								<p>You can enquire about ALLEN courses and other information either by calling on our helpline
+								  numbers; 0744-2757575, or you can also visit ALLEN Office (Sankalp, Samanvaya, Sangyan,
+								  Satyarth-2 & Saakar) at our office timings between 7am-9pm. You can also visit ALLEN
+								  Information Centers for Course related information.</p>
+							  </div>
+							</div>
+						  </div>
+						  <!-- end -->
+
+						  <!-- card-3 -->
+						  <div class="card">
+							<div class="card-header" id="heading33">
+							  <h5 class="mb-0">
+								<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse33"
+								  aria-expanded="false" aria-controls="collapse33">About Pre-Medical
+								  <i class="fa fa-angle-down"></i><i class="fa fa-angle-up"></i>
+								</button>
+							  </h5>
+							</div>
+							<div id="collapse33" class="collapse" aria-labelledby="heading99" data-parent="#accordion">
+							  <div class="card-body">
+								<ol>
+								  <li>
+									<h4> <strong>Q.1. What are the various Classroom Courses offered in
+										Pre-Medical at ALLEN Kota Center?</strong></h4>
+									<p>Various courses are offered at Kota center in Pre-Medical
+									  including:<br>
+									  Nurture Course for X to XI moving students.<br>
+									  Enthusiast Course for XI to XII moving students<br>
+									  Leader Course for 12th appeared/passed students<br>
+									  Achiever Course for Ex-ALLEN students/ 12th passed. </p>
+								  </li>
+								  <li>
+									<h4> <strong>Q.2. Do you have any crash courses?</strong></h4>
+									No we don't have any crash courses. You can register for yearlong
+									Classroom Contact Program (CCP), Distance Learning Program (DLP).
+								  </li>
+								 </ol>
+							  </div>
+							</div>
+						  </div>
+						  <!-- end -->
+
+
+						</div>
+					  </div>
+
+
+
+					</div>
+
+
+				  </div>
+				  <!-- END Faqs -->
+				
             </div>
          </div>
       </div>
@@ -520,5 +587,5 @@
 </section>
 
 <!--Footer-->
-<!-- #Include virtual="include/footer.asp" -->
+<!--#include virtual="/pncf/kota/include/footer.asp"-->
 <!--/Footer-->

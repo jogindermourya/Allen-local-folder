@@ -1,5 +1,5 @@
 
-<!-- #Include virtual="include/header.asp" -->
+<!-- #Include virtual="/kota/include/header.asp" -->
 
 <link rel="stylesheet" href="/assets/vendors/data-table/css/datatables.min.css">
 <!-- Breadcrumb Section -->
@@ -9,7 +9,7 @@
       <div class="breadcrumb_content text-center">
          <h1 class="breadcrumb-hed">Kohinoor Hostel Scheme</h1>
          <ul class="list-unstyled breadcrumb-links m-0">
-            <li><a href="/">Home</a></li>
+            <li><a href="/kota/">Home</a></li>
             <li>Kohinoor Hostel Scheme</li>
          </ul>
       </div>
@@ -23,21 +23,17 @@
          <div class="col-lg-12 col-md-12 col-sm-12">
             <div class="row">
                <div class="col-lg-12 mb-lg-4 text-justify">
-                  <b>ALLEN</b> Provides Real Competitive Environment Exclusively For Topper Students By Providing
-                  Accommodation Facilities In Spacious Fully Furnished Hostels With Academic Amenities And
-                  Mentored By Regular Visits Of Directors And Faculties.
+                  <b>ALLEN</b> Provides Real Competitive Environment Exclusively For Topper Students By Providing Accommodation Facilities In Spacious Fully Furnished Hostels With Academic Amenities And Mentored By Regular Visits Of Directors And Faculties.
                </div>
             </div>
             <div class="row mb-3 mt-3">
                <div class="col-lg-12 mb-lg-4">
-                  <h3 class="subhed-in mt-2 mb-4">Sample Paper for ASAT</h3>
                   <div class="table-responsive">
                      <table class="table table-bordered table-hover  customtbl">
                         <thead>
                            <tr>
                               <th colspan="2">
-                                 <strong>Initial Eligibility: NTSE 2nd Stage Qualified &amp; should be
-                                 student of our Nurture Course</strong>
+                                 <strong>Initial Eligibility: NTSE 2nd Stage Qualified &amp; should be student of our Nurture Course</strong>
                               </th>
                            </tr>
                         </thead>
@@ -167,6 +163,6 @@
 </section>
 <!-- End  content Section -->
 <!--Footer-->
-<!-- #Include virtual="include/footer.asp" -->
+<!-- #Include virtual="/kota/include/footer.asp" -->
 <!--/Footer-->
 

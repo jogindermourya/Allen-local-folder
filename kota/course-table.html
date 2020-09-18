@@ -1,0 +1,161 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Untitled Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid grey;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+        
+        table tr:nth-child(odd) {
+            background-color: #f1f1f1;
+        }
+        
+        table tr:nth-child(even) {
+            background-color: #ffffff;
+        }
+        
+        .highlight {
+            background-color: aquamarine;
+        }
+    </style>
+</head>
+
+<body>
+
+
+
+
+    <div ng-app="myApp" ng-controller="myController">
+        <table>
+            <tr>
+                <th>Phase</th>
+                <th>Course Code</th>
+                <th>Commencment Date</th>
+                <th>Mode</th>
+                <th>Medium</th>
+                <th>Ist Installment</th>
+                <th>IInd Installment</th>
+                <th>Ist Refund</th>
+                <th>Last Refund</th>
+            </tr>
+            <tr ng-repeat="data in kotaiitnur | orderBy : 'old.commdate'">
+                <td>{{data.old.phase}}</td>
+                <td>{{data.old.ccode}}</td>
+                <td>{{data.old.commdate | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.old.mode}}</td>
+                <td>{{data.old.med}}</td>
+                <td>{{data.Istinst | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.IIndinst | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.Iref | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.Lastref | date : 'dd/MM/yyyy'}}</td>
+            </tr>
+        </table>
+
+        <table>
+            <tr>
+                <th>Phase</th>
+                <th>Course Code</th>
+                <th>Commencment Date</th>
+                <th>Mode</th>
+                <th>Medium</th>
+                <th>Ist Installment</th>
+                <th>IInd Installment</th>
+                <th>Ist Refund</th>
+                <th>Last Refund</th>
+            </tr>
+            <tr ng-repeat="data in kotaiitenth | orderBy : 'values.phase'">
+                <td>{{data.old.phase}}</td>
+                <td>{{data.old.ccode}}</td>
+                <td>{{data.old.commdate | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.old.mode}}</td>
+                <td>{{data.old.med}}</td>
+                <td>{{data.Istinst | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.IIndinst | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.Iref | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.Lastref | date : 'dd/MM/yyyy'}}</td>
+            </tr>
+        </table>
+        /*************fee table ****/
+        
+        <table>
+            <tr>
+                <th>Phase</th>
+                <th>Course Code</th>
+                <th>Commencment Date</th>
+                <th>Mode</th>
+                <th>Medium</th>
+                <th>Ist Installment</th>
+                <th>IInd Installment</th>
+                <th>Ist Refund</th>
+                <th>Last Refund</th>
+            </tr>
+            <tr ng-repeat="data in kotafee1 | orderBy : 'values.phase'">
+                <td>{{data.totamt}}</td>
+                <td>{{data.istamt}}</td>
+                <td>{{data.iiamt}}</td>
+                <td>{{data.cname}}</td>
+                <td>{{data.old.med}}</td>
+                <td>{{data.Istinst | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.IIndinst | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.Iref | date : 'dd/MM/yyyy'}}</td>
+                <td>{{data.Lastref | date : 'dd/MM/yyyy'}}</td>
+            </tr>
+        </table>
+    </div>
+    <script>
+        var app = angular.module('myApp', []);
+        app.controller('myController', function($scope, $http) {
+            $scope.coursearray = [];
+            //$http.get("coursedetails.json").then(function(response) 
+            $http.get("coursedetails.json").then(function(response) 
+                                                 {
+                $scope.kotaiitnur = setData(response, "kota-iit-nur");
+                $scope.kotaiitenth = setData(response, "kota-iit-enth");
+                $scope.kotafee1 = setData(response, "kotafee");
+                
+            });
+        });
+
+        function setData(response, param) {
+            $data = response.data[param];
+            console.log($data);
+            return $data
+                .map(function(value, index) {
+                    var istdate = new Date(value.commdate);
+                    istdate.setDate(istdate.getDate() - 2);
+                    var iisndate = new Date(value.commdate);
+                    iisndate.setDate(iisndate.getDate() + 44);
+                    var istref = new Date(value.commdate);
+                    istref.setDate(istref.getDate() + 14);
+                    var laststref = new Date(value.commdate);
+                    laststref.setDate(laststref.getDate() + 29);
+
+                    value.commdate = new Date(value.commdate);
+
+                    return {
+                        old: value,
+                        Istinst: istdate,
+                        IIndinst: iisndate,
+                        Iref: istref,
+                        Lastref: laststref,
+                        totamt : value.totamt,
+                        istamt : value.istamt,
+                        iiamt : value.totamt - value.istamt,
+                        cname : value.cname
+                    }
+                });
+        }
+    </script>
+
+</body>
+
+</html>

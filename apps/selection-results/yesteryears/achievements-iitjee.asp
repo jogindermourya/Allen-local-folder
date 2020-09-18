@@ -6,7 +6,7 @@
     <div class="breadcrumb_content text-center">
       <h1 class="breadcrumb-hed"> Achievements IIT-JEE </h1>
       <ul class="list-unstyled breadcrumb-links m-0">
-        <li><a href="/">Home</a></li>
+        <li><a href="/kota/">Home</a></li>
         <li>Achievements IITJEE</li>
       </ul>
     </div>
@@ -21,7 +21,7 @@
 <div class="row">
   <div class="col-lg-3"> 
     <!-- Result Nav--> 
-    <!-- #Include virtual="result/result-left-part.asp" --> 
+    <!-- #Include virtual="/apps/selection-results/yesteryears/result-left-part.asp" --> 
     <!--/Result Nav--> 
     
     <!--Download Brochure--> 
@@ -73,7 +73,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="/result/all-view-result.asp" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=JEE%20(ADVANCED)&amp;y=2019&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -101,7 +101,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=JEE%20(ADVANCED)&amp;y=2018&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -138,7 +138,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=JEE%20(ADVANCED)&amp;y=2017&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -176,7 +176,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=JEE%20(ADVANCED)&amp;y=2016&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -213,7 +213,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=JEE%20(ADVANCED)&amp;y=2015&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -250,7 +250,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=JEE%20(ADVANCED)&amp;y=2014&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -285,7 +285,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=JEE%20(ADVANCED)&amp;y=2013&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -320,7 +320,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=IIT-JEE&y=2012&c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -355,7 +355,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=IIT-JEE&y=2011&c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -387,7 +387,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=IIT-JEE&y=2010&c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -419,7 +419,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=IIT-JEE&y=2009&c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>

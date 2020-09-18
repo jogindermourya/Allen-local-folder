@@ -1,75 +1,107 @@
 .slider_area {
-    background-image: -moz-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
-    background-image: -webkit-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
-    background-image: -ms-linear-gradient(40deg,  #639a1af0 0%, #6fac35 90%);
-   
+background-image: -moz-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
+background-image: -webkit-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
+background-image: -ms-linear-gradient(40deg,  #639a1af0 0%, #6fac35 90%);
 }
-
-.breadcrumb_area{ background-image: -moz-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
-    background-image: -webkit-linear-gradient(40deg, #639a1af0 0%, #6fac35 90%);
-    background-image: -ms-linear-gradient(40deg,  #639a1af0 0%, #6fac35 90%);}
-
+.breadcrumb_area{ background-image: -moz-linear-gradient(40deg, #4f7f0ff0 0%, #88bd56 90%);
+background-image: -webkit-linear-gradient(40deg, #4f7f0ff0 0%, #88bd56 90%);
+background-image: -ms-linear-gradient(40deg,  #4f7f0ff0 0%, #88bd56 90%);}
 .allen-header {background: #64942d;}
-
-/* .menu>.nav-item:hover .nav-link ,  .menu>.nav-item.active .nav-link {color: #64942d;}
-.submenu .nav-item:hover .nav-link , .submenu  .nav-item.active .nav-link {color: #000;}
-.menu>.nav-item>.nav-link:before {background: #64942d;} */
-/* .onlineenqury_btn:hover {border: 2px solid #6cac17;background: #6cac17;}
-.onlineenqury_btn {border: 2px solid #338CDB;background: #338CDB;} */
-
-
 .vdhome_area{background: #f4faff;}
-
-
-.h_security_area {
-    padding: 60px 0px;
-  }
-  
-  .h_security_area .row {
-    margin-bottom: -45px;
-  }
-  
-  .h_security_item {
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    margin: 15px 0px;
-  }
-  
-  .h_security_item img {
-    margin-right: 40px; width: 130px;
-  }
-  
-  .h_security_item .media-body h4 {
-    font-size: 20px;
-    font-weight: 600;
-    color: #2c2c51;
-    line-height: 28px;
-    margin-bottom: 18px;
-  }
-  
-  .h_security_item .media-body p {
-    margin-bottom: 0;
-    color: #7b7b93;
-  }
-
-
-  .center_item_static{text-align: center;border: 1px solid #e8e8e8; border-radius: 4px; display: block; padding: 20px 10px;margin-bottom: 25px; min-height: 60px;}
-  .center_item_static h5{font-size: 16px; color: #666;}
-  .lists-v1 i {
-    color: #fff;
-    width: 15px;
-    height: 15px;
-    padding: 1px;
-    font-size: 13px;
-    margin-right: 7px;
-    text-align: center;
-    background: #72c02c;
-    display: inline-block;
-    border-radius: 50% !important;
+.h_security_area {padding: 60px 0px;  } 
+.h_security_area .row {margin-bottom: -45px;}
+.h_security_item { -webkit-box-align: center;-ms-flex-align: center;    align-items: center;    margin: 15px 0px;  } 
+.h_security_item img {margin-right: 40px; width: 100px;  }
+.h_security_item .media-body h4 { font-size: 20px;font-weight: 600; color: #2c2c51;line-height: 28px;margin-bottom: 18px;
+}
+.h_security_item .media-body p {margin-bottom: 0;color: #666;}
+.center_item_static{background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 52%, rgba(237,249,255,1) 100%);
+    -webkit-box-shadow: 0px 2px 7px 0px rgba(132, 132, 132, 0.2);
+    box-shadow: 0px 2px 7px 0px rgba(132, 132, 132, 0.2);text-align: center;border: 1px solid #f5f5f5; border-radius: 4px; display: block; padding: 20px 10px;margin-bottom: 25px; min-height: 60px;}
+.center_item_static h5{font-size: 16px; color: #000;}
+.lists-v1 i {
+color: #fff;
+width: 15px;
+height: 15px;
+padding: 1px;
+font-size: 13px;
+margin-right: 7px;
+text-align: center;
+background: #72c02c;
+display: inline-block;
+border-radius: 50% !important;
 }
 
 .lists-v1 li{margin-bottom: 5px;}
-
 .calender .customtbl tr th{    font-size: 12px; text-align: center;}
 .calender .customtbl tr td{    font-size: 12px;text-align: center;}
+
+/*Teaching Mathodology ICON*/
+.t_icon{width: 80px;}
+
+/* top sub menu  */
+.top-submenu {padding: 0px 0; margin: 0;}
+.top-submenu li {display: block;}
+.top-submenu li a{color: #000!important; display: block;padding: 2px 10px!important;}
+.top-submenu li a:hover{color: #fff!important; background: #64942d;}
+
+.customtbl tr th {
+    background: #64942d;
+}
+
+
+/* css by pawan for pncf */
+
+.list-pncf{
+    list-style-position: inside !important;
+    padding: 0px;
+
+}
+.list-pncf-in{
+    list-style-position: inside !important;
+}
+
+.list-pncf li,.list-pncf-in li{
+    padding: 3px 0;
+    font-size: 14px;
+}
+.dropcap-bg {
+    background: #6cac17;
+}
+
+
+
+.menu>.nav-item>.nav-link:before {background: #64942d;}
+.w_menu .nav-item:hover .nav-link, .w_menu .nav-item.active .nav-link {
+    color: #64942d;
+}
+.s_features_item.s_features_item_two .s_features_content .learn_btn:hover, .price_btn, .s_subcribes .btn-submit, .f_widget.about-widget .f_list li a:hover, .f_widget .widget-wrap p a:hover, .footer_bottom a, .menu>.nav-item:hover .nav-link, .menu>.nav-item.active .nav-link, .menu>.nav-item.submenu.mega_menu.mega_menu_two .mega_menu_inner .dropdown-menu .nav-item .item .text:hover, .menu>.nav-item.submenu .dropdown-menu .nav-item:hover>.nav-link, .menu>.nav-item.submenu .dropdown-menu .nav-item:focus>.nav-link, .menu>.nav-item.submenu .dropdown-menu .nav-item.active>.nav-link, .footer_bottom a:hover {
+    color: #64942d;
+}
+
+.menu>.nav-item.submenu .dropdown-menu .nav-item .nav-link:hover {
+    background: #acce8533;
+}
+
+
+
+
+.logoname {margin-top: -2px; font-size: 12px;}
+
+
+.footer_bottom .f_menu2 li a:hover {
+    color: #64942d;
+}
+
+.footer_area_two .footer_top_two .f_widget.about-widget .f_list li a:hover {
+    color: #64942d;
+}
+
+.footer_area_two .footer_top_two .f_widget.about-widget .f_list li a:before {
+    background: #64942d;
+}
+
+.footer_area_two .footer_bottom .f_menu li a:hover {
+    color: #64942d;
+}

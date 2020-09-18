@@ -9,7 +9,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">Lead with Allen</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>Lead with ALLEN</li>
             </ul>
         </div>
@@ -34,9 +34,8 @@
                 <div class="col-md-8">
                     <div class="agency_featured_content pr_100">
                         
-                        <h3>Best And Stable Faculty</h3>
-                        <p>ALLEN stands proud on a very strong pool of well-qualified, experienced, dedicated and
-                            hardworking professionals who are passionate for teaching.</p>
+                        <h3>Experienced &amp; Proficient Faculty</h3>
+                        <p>ALLEN is proud of its highly qualified and experienced team of faculties. They are thorough professionals who are passionate about teaching and delivering the best learning outcome.</p>
                         <a href="#" class="icon mt_30"><i class="ti-arrow-right"></i></a>
                     </div>
                 </div>
@@ -52,11 +51,7 @@
                     <div class="agency_featured_content pl_100">
                         
                         <h3>Student Oriented System</h3>
-                        <p>Each and every student is considered as an important asset to the institution and we prepare
-                            them for life
-                            by developing in them - an analytical mind, the
-                            right attitude and a spirit of goodness backed by
-                            academic excellence.</p>
+                        <p>Every student of ALLEN is a valued treasure for the institute. Our efforts are centred towards preparing them for life by developing in them – analytical mind, right attitude and spirit of goodness backed by academic excellence.</p>
                         <a href="#" class="icon mt_30"><i class="ti-arrow-right"></i></a>
                     </div>
                 </div>
@@ -71,9 +66,8 @@
                 <div class="col-md-8">
                     <div class="agency_featured_content pr_100">
                         
-                        <h3>Courses For Competitive World</h3>
-                        <p>Our courses are comprehensive yet simple-to match the potent of the students and are ever
-                            evolving to match the changing patterns of the competitive examinations.</p>
+                        <h3>Courses for Competitive World</h3>
+                        <p>Our courses are designed to prepare students for the ever changing world of competition while enhancing their learning and understanding of different concepts. </p>
                         <a href="#" class="icon mt_30"><i class="ti-arrow-right"></i></a>
                     </div>
                 </div>
@@ -88,12 +82,8 @@
                 <div class="col-md-8">
                     <div class="agency_featured_content pl_100">
                         
-                        <h3>Positive Environment</h3>
-                        <p>The ultimate learning in the students is much influenced by the surroundings they live in. To
-                            make learning all
-                            the more effective and long lasting, we infuse the
-                            environment with positivity; the students thus treat
-                            positivity as their companion.</p>
+                        <h3>Positive Environment </h3>
+                        <p>For the best learning outcomes, it’s vital for the students to be in a positive environment where they are encouraged to overcome learning obstacles and discover their true potentials. We make all possible efforts to create a holistic environment for our students, infused with positive learning.</p>
                         <a href="#" class="icon mt_30"><i class="ti-arrow-right"></i></a>
                     </div>
                 </div>
@@ -108,9 +98,8 @@
                 <div class="col-md-8">
                     <div class="agency_featured_content pr_100 ">
                         
-                        <h3>Emphasis On Education With Values</h3>
-                        <p>To fine tune the learning of students with our Indian values, we lay great emphasis on
-                            imparting values and moral education during each interaction that we have with our students.
+                        <h3>Emphasis on Education With Values</h3>
+                        <p>To fine tune the learning of students with Indian values, education system at ALLEN is blended with teaching students the importance of values & principles in life.
                         </p>
 
                     </div>
@@ -126,11 +115,8 @@
                 <div class="col-md-8">
                     <div class="agency_featured_content pl_100">
                         
-                        <h3>State-Of-The-Art-Technologies</h3>
-                        <p>We provide students with the relevant and essential
-                            technological infrastructure in order to make the
-                            academic and administrative process efficient and
-                            faster.</p>
+                        <h3>State-of-the-art Technologies</h3>
+                        <p>We have blended conventional education with state-of-the-art technologies to provide students with the best academic and administrative facilities.</p>
                         <a href="#" class="icon mt_30"><i class="ti-arrow-right"></i></a>
                     </div>
                 </div>

@@ -1,605 +1,70 @@
 // JavaScript Document
 
-$(window).on("load", function () {
-	$(body).show();
-		if ($('.mega_menu_two .scroll').length) {
-			$(".mega_menu_two .scroll").mCustomScrollbar({
-			mouseWheelPixels: 50,
-			scrollInertia: 0,
-		});
-	}
-});
 
 
-function updateLists(update, $) {
-	for (var i = 0; i < update.length; i++) {
-		$('<li class="list-item">' + update[i] + '</li>').appendTo('#updateLists .list-outer-up');
+function asatDates(dates, $) {
+	for (var i = 0; i < dates.length; i++) {
+		$('<tr>' + dates[i] + '</tr>').appendTo('#asatDates .data');
 	}
 }
 
-function resultsLists(results, $) {
-	for (var i = 0; i < results.length; i++) {
-		$('<li class="list-item">' + results[i] + '</li>').appendTo('#resultsLists .list-outer-rs');
-	}
-}
-
-function eventsLists(events, $) {
-	for (var i = 0; i < events.length; i++) {
-		$('<li class="list-item">' + events[i] + '</li>').appendTo('#eventsLists .list-outer-ev');
-	}
-}
 
 
 /*====== Gateway Notification=====*/
 
-gateway_notification  = [
-
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
+kota_asat  = [
+	'<td>JEE (Main+ Advanced) Nurture</td><td>19/01/2020, 02/02/2020, 16/02/2020, 15/03/2020, 05/04/2020, 12/04/2020</td><td>01:00 to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-	
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-	
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-	
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-	
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-
-];
-/*====== ADD LATEAST SLIDER show in  Both MAIN & PNCF Sites at the TOP=====*/
-
-gateway_results  = [
-
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-
-];
-/*====== ADD LATEAST SLIDER show in  Both MAIN & PNCF Sites at the TOP=====*/
-
-Latest  = [
-
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-
-];
-
-
-/*====== Slide is Universal Show in Both MAIN & PNCF Sites at the TOP =====*/
-all_notification = [
-	
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, Click Here</div></div></a>'    
+	'<td>JEE (Main+ Advanced) Leader</td><td>05/04/2020, 12/04/2020, 19/04/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
 ];
 
-
-/*====== Want to Show only in ALL Main Site Center =================*/
-
-MAIN = [
-
-  
+pncf_kota_asat  = [
+	'<td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>',
 ];
 
-/*====== Want to Show only in ALL PNCF Centers =================*/
-
-PNCF = [
-    
-  
-];
-
-
-/*====== Add Slide show only in Kota Main (XI to XII th Pass) =================*/
-
-kota_updates_notification = [    
+ahmedabad_asat  = [
+	'<td>JEE (Main+ Advanced) Nurture</td><td>19/01/2020, 02/02/2020, 16/02/2020, 15/03/2020, 05/04/2020, 12/04/2020</td><td>01:00 to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
-    '<a href=""><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Live Guidance Session by ALLEN JEE Experts, Submit Your Queries, <br><b class="color-blue">Click Here</b></div></div></a>',
-    
-    '<a href="#"><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Online Toppers Talk Show, A Live Session on Way to Explore the Universe, Register Now <b class="color-blue">Click Here</b></div></div></a>',
-    
-    '<a href="#"><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Direct Admission (session 2020-21), <br><b class="color-blue">Click Here</b></div></div></a>',
-    
-    '<a href="#"><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Crash Course (Online): NEET-UG 2020 Click Here<br><b class="color-blue">Click Here</b></div></div></a>',
-    
-    '<a href="#"><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Admission FAQ during Lockdown <br><b class="color-blue">Click Here</b></div></div></a>',
-    
-    '<a href="#"><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Free Online Drill Test Series for JEE (Main+Adv) & NEET UG 2020, Enroll Now <br><b class="color-blue">Click Here</b></div></div></a>',
-    
-    '<a href="#"><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Educational courses on Easy EMI from Bajaj Finserv Ltd.<br><b class="color-blue">Click Here</b></div></div></a>',
-    
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">20</div><div class="month">June</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, <b class="color-blue">Click Here</b></div></div></a>',
+	'<td>JEE (Main+ Advanced) Leader</td><td>05/04/2020, 12/04/2020, 19/04/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
 ];
 
-
-kota_results_notification = [
-    '<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Rajasthan NTSE Stage-1 Result 2020. Total 212 ALLEN Classroom Students qualified for Stage-2</div></div></a>',
-    
-    '<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">ALLEN Result: 94 Students selected for OCSC 2020, <br><b>Click Here</b></div></div></a>',
-    
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, Click Here</div></div></a>',
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, Click Here</div></div></a>',
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, Click Here</div></div></a>',
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, Click Here</div></div></a>',
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, Click Here</div></div></a>',
+pncf_ahmedabad_asat  = [
+	'<td>Pre-Nurture & Career Foundation (PNCF)**</td><td>19/01/2020, 02/02/2020, 16/02/2020, 15/03/2020, 05/04/2020, 12/04/2020, 19/04/2020, 03/05/2020, 17/05/2020, 31/05/2020, 14/06/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 ];
 
-
-kota_events_notification = [
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Pawan Rathore, Click Here</div></div></a>',
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, Click Here</div></div></a>',
-];
-
-/*====== Add Slide show only in Kota PNCF (VI to Xth) =========================*/
-
-kota_pncf_update_notification = [
-
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, <b class="color-blue"> Click Here</b></div></div></a>',
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, <b class="color-blue"> Click Here</b></div></div></a>',
-
-];
-
-kota_pncf_result_notification = [
-
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, <b class="color-blue"> Click Here</b></div></div></a>',
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, <b class="color-blue"> Click Here</b></div></div></a>',
-
-];
-
-kota_pncf_events_notification = [
-
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, <b class="color-blue"> Click Here</b></div></div></a>',
-	'<a href="#"><div class="notification"><div class="date-box"><div class="date">15</div><div class="month">May</div></div><div class="notification-text">Through EMI - You can pay fee in easy EMI through Campus Dunia at no Extra Cost. For more details and to avail EMI facility, <b class="color-blue"> Click Here</b></div></div></a>',
-
-];
-
-/*====== Add Slide show only in Ahmedabad Main (XI to XII th Pass) =================*/
-
-ahmedabad = [ 
-    
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-
-];
-
-/*====== Add Slide show only in Ahmedabad PNCF (VI to Xth) =========================*/
-
-pncf_ahmedabad = [
+bengaluru_asat  = [
+	'<td>JEE (Main+ Advanced) Nurture</td><td>19/01/2020, 02/02/2020, 16/02/2020, 15/03/2020, 05/04/2020, 12/04/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
+	'<td>JEE (Main+ Advanced) Leader</td><td>05/04/2020, 12/04/2020, 19/04/2020</td><td>01:00 to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
 ];
 
-
-ahmedabad_results = [
-	'<a href="#">PAWAN RATHORE</a>',    
+pncf_bengaluru_asat  = [
+	'<td>Pre-Nurture & Career Foundation (PNCF)**</td><td>22/12/2019, 05/01/2020#, 19/01/2020, 02/02/2020, 16/02/2020, 01/03/2020#, 15/03/2020, 22/03/2020#, 05/04/2020, 12/04/2020, 19/04/2020, 26/04/2020#, 03/05/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 ];
 
-ahmedabad_pncf_result = [];
-
-
-ahmedabad_events = [
-	'<a href="#">Ravindra singh from Kota</a>',    
-];
-
-ahmedabad_pncf_events = [];
-
-
-/*====== Add Slide show only in Bengaluru Main (XI to XII th Pass) =================*/
-
-bengaluru = [    
-    
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-
-];
-
-/*====== Add Slide show only in Ahmedabad PNCF (VI to Xth) =========================*/
-
-pncf_bengaluru = [
+bhilwara_asat  = [
+	'<td>JEE (Main+ Advanced) Nurture</td><td>19/01/2020, 02/02/2020, 16/02/2020, 15/03/2020, 05/04/2020, 12/04/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
+	'<td>JEE (Main+ Advanced) Leader</td><td>05/04/2020, 12/04/2020, 19/04/2020</td><td>01:00 to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
 ];
 
-bengaluru_results = [];
-bengaluru_pncf_result = [];
-bengaluru_events = [];
-bengaluru_pncf_events = [];
+pncf_bhilwara_asat  = [
+	'<td>Pre-Nurture & Career Foundation (PNCF)**</td><td>22/12/2019, 05/01/2020#, 19/01/2020, 02/02/2020, 16/02/2020, 15/03/2020, 05/04/2020, 12/04/2020, 19/04/2020, 26/04/2020#, 03/05/2020, 10/05/2020#, 17/05/2020, 31/05/2020, 14/06/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
+];
 
-
-/*====== Add Slide show only in Bhilwara Main (XI to XII th Pass) =================*/
-bhilwara = [ 
-        
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
+kota_asat  = [
+	'<td>JEE (Main+ Advanced) Nurture</td><td>19/01/2020, 02/02/2020, 16/02/2020, 15/03/2020, 05/04/2020, 12/04/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
+	
+	'<td>JEE (Main+ Advanced) Leader</td><td>05/04/2020, 12/04/2020, 19/04/2020</td><td>01:00 to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 	
 ];
 
-/*====== Add Slide show only in Bhilwara PNCF (VI to Xth) =========================*/
-
-pncf_bhilwara = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
+pncf_kota_asat  = [
+	'<td>Pre-Nurture & Career Foundation (PNCF)**</td><td>22/12/2019, 05/01/2020#, 19/01/2020, 02/02/2020, 16/02/2020, 15/03/2020, 05/04/2020, 12/04/2020, 19/04/2020, 26/04/2020#, 03/05/2020, 10/05/2020#, 17/05/2020, 31/05/2020, 14/06/2020</td><td>01:00 PM to <br>03:00 PM</td><td>Objective</td><td>NCERT Syllabus of Science &amp; Maths upto Student’s Current Class and IQ Questions</td>',
 ];
-
-bhilwara_results = [];
-bhilwara_pncf_result = [];
-bhilwara_events = [];
-bhilwara_pncf_events = [];
-
-
-
-/*====== Add Slide show only in bhubaneswar Main (XI to XII th Pass) =================*/
-
-bhubaneswar = [
-	
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-
-];
-
-
-/*====== Add Slide show only in bhubaneswar PNCF (VI to Xth) =========================*/
-
-pncf_bhubaneswar = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-];
-
-bhubaneswar_results = [];
-bhubaneswar_pncf_result = [];
-bhubaneswar_events = [];
-bhubaneswar_pncf_events = [];
-
-
-
-
-/*====== Add Slide show only in chennai Main (XI to XII th Pass) =================*/
-
-chennai = [
-	
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-    
-];
-
-/*====== Add Slide show only in chennai PNCF (VI to Xth) =========================*/
-
-pncf_chennai = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-];
-
-chennai_results = [];
-chennai_pncf_result = [];
-chennai_events = [];
-chennai_pncf_events = [];
-
-
-
-/*====== Add Slide show only in CHANDIGARH Main (XI to XII th Pass) =================*/
-
-chandigarh = [
-    
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-
-];
-
-/*====== Add Slide show only in CHANDIGARH PNCF (VI to Xth) =========================*/
-
-pncf_chandigarh = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-chandigarh_results = [];
-chandigarh_pncf_result = [];
-chandigarh_events = [];
-chandigarh_pncf_events = [];
-
-
-
-/*====== Add Slide show only in GUWAHATI Main (XI to XII th Pass) =================*/
-
-guwahati = [
-    
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-
-];
-
-/*====== Add Slide show only in CHANDIGARH PNCF (VI to Xth) =========================*/
-
-pncf_guwahati = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-];
-
-guwahati_results = [];
-guwahati_pncf_result = [];
-guwahati_events = [];
-guwahati_pncf_events = [];
-
-
-/*====== Add Slide show only in indore Main (XI to XII th Pass) =================*/
-
-indore = [
-    
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-
-];
-
-/*====== Add Slide show only in Indore PNCF (VI to Xth) =========================*/
-
-pncf_indore = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-];
-
-indore_results = [];
-indore_pncf_result = [];
-indore_events = [];
-indore_pncf_events = [];
-
-
-
-/*====== Add Slide show only in kochi Main (XI to XII th Pass) =================*/
-
-kochi = [
-   
-	
-];
-
-/*====== Add Slide show only in kochi PNCF (VI to Xth) =========================*/
-
-pncf_kochi = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-];
-
-kochi_results = [];
-kochi_pncf_result = [];
-kochi_events = [];
-kochi_pncf_events = [];
-
-
-
-
-/*====== Add Slide show only in mumbai Main (XI to XII th Pass) =================*/
-
-mumbai = [
-    
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-
-];
-
-/*====== Add Slide show only in mumbai PNCF (VI to Xth) =========================*/
-
-pncf_mumbai = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-];
-
-mumbai_results = [];
-mumbai_pncf_result = [];
-mumbai_events = [];
-mumbai_pncf_events = [];
-
-
-/*====== Add Slide show only in mysuru Main (XI to XII th Pass) =================*/
-
-mysuru = [
-
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-	
-];
-
-/*====== Add Slide show only in mysuru PNCF (VI to Xth) =========================*/
-
-pncf_mysuru = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-];
-
-mysuru_results = [];
-mysuru_pncf_result = [];
-mysuru_events = [];
-mysuru_pncf_events = [];
-
-
-/*====== Add Slide show only in nagpur Main (XI to XII th Pass) =================*/
-
-nagpur = [
-	
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-
-];
-
-/*====== Add Slide show only in nagpur PNCF (VI to Xth) =========================*/
-
-pncf_nagpur = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-];
-
-nagpur_results = [];
-nagpur_pncf_result = [];
-nagpur_events = [];
-nagpur_pncf_events = [];
-
-
-
-
-/*====== Add Slide show only in pune Main (XI to XII th Pass) =================*/
-
-pune = [
-	
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-	
-]
-
-/*====== Add Slide show only in pune PNCF (VI to Xth) =========================*/
-
-pncf_pune = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-pune_results = [];
-pune_pncf_result = [];
-pune_events = [];
-pune_pncf_events = [];
-
-
-/*====== Add Slide show only in rajkot Main (XI to XII th Pass) =================*/
-
-rajkot = [ 
-    
-    '<a href="https://www.allen.ac.in/results/pre-nurture/nse-olympiad-2019-stage-1-result.asp"><img src="/slider/images/inso-result-2019.jpg" alt="INSO Result 2019"></a>',
-
-]
-
-/*====== Add Slide show only in rajkot PNCF (VI to Xth) =========================*/
-
-pncf_rajkot = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-rajkot_results = [];
-rajkot_pncf_result = [];
-rajkot_events = [];
-rajkot_pncf_events = [];
-
-
-
-/*====== Add Slide show only in RANCHI PNCF (VI to Xth) =========================*/
-
-pncf_ranchi = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-ranchi_pncf_result = [];
-ranchi_pncf_events = [];
-
-
-/*====== Add Slide show only in Rawatbhata PNCF (VI to Xth) =========================*/
-
-pncf_rawatbhata = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-rawatbhata_pncf_result = [];
-rawatbhata_pncf_events = [];
-
-
-
-
-
-
-
-/*====== Add Slide show only in Sikar Main (XI to XII th Pass) =================*/
-
-sikar = [
-    
-    '<a href="https://www.allen.ac.in/results/kvpy-2019-stage-1-result.asp"><img src="/slider/images/kvpy-stage-1-2019-result.jpg" alt="KVPY Stage-I Result 2019"></a>',
-
-]
-
-/*====== Add Slide show only in Sikar Main (XI to XII th Pass) =================*/
-
-pncf_sikar = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-sikar_results = [];
-sikar_pncf_result = [];
-sikar_events = [];
-sikar_pncf_events = [];
-
-
-
-
-/*====== Add Slide show only in surat Main (XI to XII th Pass) =================*/
-
-surat = [ 
-    
-    '<a href="https://www.allen.ac.in/results/pre-nurture/nse-olympiad-2019-stage-1-result.asp"><img src="/slider/images/inso-result-2019.jpg" alt="INSO Result 2019"></a>',
-	
-]
-
-/*====== Add Slide show only in surat Main (XI to XII th Pass) =================*/
-
-pncf_surat = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-surat_results = [];
-surat_pncf_result = [];
-surat_events = [];
-surat_pncf_events = [];
-
-
-/*====== Add Slide show only in ujjain Main (XI to XII th Pass) =================*/
-
-ujjain = [
-    
-    '<a href="/jee-main-2019/jee-main-2019-Answer-Key-Paper-Solutions.asp"><img src="/slider/images/jee-main-2019-april-exam.jpg" alt="Jee Main 2019 April Exam"></a>',
-    
-]
-
-/*====== Add Slide show only in ujjain Main (XI to XII th Pass) =================*/
-
-pncf_ujjain = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-ujjain_results = [];
-ujjain_pncf_result = [];
-ujjain_events = [];
-ujjain_pncf_events = [];
-
-
-
-
-/*====== Add Slide show only in vadodara Main (XI to XII th Pass) =================*/
-
-vadodara = [
-    
-    '<a href="https://www.allen.ac.in/results/pre-nurture/nse-olympiad-2019-stage-1-result.asp"><img src="/slider/images/inso-result-2019.jpg" alt="INSO Result 2019"></a>',
-
-]
-
-/*====== Add Slide show only in vadodara Main (XI to XII th Pass) =================*/
-
-pncf_vadodara = [
-	
-    '<a href="/results/jee-main-2019-result.asp" ><img src="/slider/images/jee-main2019-result.jpg" alt="JEE Main 2019 Result"></a>',
-	
-]
-
-
-vadodara_results = [];
-vadodara_pncf_result = [];
-vadodara_events = [];
-vadodara_pncf_events = [];
-
-
 
 

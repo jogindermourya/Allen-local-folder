@@ -7,7 +7,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">ALLEN INFO</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>ALLEN Info</li>
             </ul>
         </div>
@@ -16,7 +16,6 @@
 <!-- End Breadcrumb Section -->
  
 
-
 <div class="body_wrapper">
     <section class="pos_developer_product_area wow fadeInUp">
         <div class="container">
@@ -24,116 +23,63 @@
                 <div class="col-md-12 text-center hdmrb pt-5">
                     <h2 class="f_p f_size_30 l_height50 f_700 mainhd-section">
                         <span class="circle"></span>
-                        <span class="position-relative">ALLEN Info</span>
+                        <span class="position-relative">ALLEN GK</span>
                     </h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="pr-2 pl-2  text-justify l_height25">ALLEN Career Institute, the leader in offering value and success-driven education, is regarded as
-                        the most trusted and valued institute for the preparation of IIT-JEE (Main + Advanced), NEET-UG
-                        / JEE Main and many other competitive exams.
-                        Along with preparation for competitive exams, ALLEN has been striving to impart value-based
-                        education so as to instill students with morals, ethics and responsibility towards society and
-                        country. It has been ALLEN’s conscious aims to nurture young minds and direct them to the right
-                        path.
-                        From highly comprehensive and exhaustive classroom programmes, ALLEN has successfully developed
-                        its expertise in distance learning as well as e-learning.
-                        To make education more goal-driven and in sync with the changing technology, ALLEN keeps
-                        updating its methodology and education system so that students get the best.
-                        Making things easier, smoother and simpler to reach to students, ALLEN has launched the ALLEN
-                        Info app. As the name suggests, this app has been designed with the sole purpose of helping
-                        students and parents reach out to the wide range of information in an easy manner.
-                        The app has different categories through which any information related to ALLEN Career Institute
-                        can be accessed with comfort and convenience. Following the state-of-the-art technology, the app
-                        is highly advanced, bug-free; this app is handy to use and is decked with a host of features to
-                        help every user.
+                    <p class="pr-2 pl-2  text-justify l_height25">Competitive exams require rigorous preparation. To surpass these prestigious exams, you need the right guidance along with the right assessment. Especially in subjects like GK, it is very important to have diverse information and high-quality practice questions. <br><br>
+                        To help you get the perfect blend of assessment & guidance to excel GK, ALLEN Career Institute has launched the “ALLEN GK” app. This app contains well-researched and updated content to help you prepare GK for the competitive exams in the most efficient way.<br><br>
+                       The app provides you with a practice set of questions, right from the easiest level to the most difficult one. Every question has a different degree of difficulty that helps you compare your skill/knowledge to most people. With this app, you can keep up with your practice on the go.<br><br>
+                        It is an ideal app for aspirants of competitive exams like AIIMS, RAS, IAS, UPSC, CDS, Bank PO, bank exams, IBPS, MAT, CAT, SSC CGL, SSC, IBPS PO, IBPS Clerk, RRB, RBI, etc. Using a simple interface, you can prepare for loads of GK questions.
 
                     </p>
-
                 </div>
-
             </div>
         </div>
     </section>
-    <section class="pos_features_area sec_pad wow fadeInLeft">
+    <section class="pos_features_area sec_pad wow fadeInLeft bg-app">
         <div class="container">
             <div class="row flex-row-reverse pos_item">
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                     <div class="pos_features_img">
                         <div class="shape_img blue"></div>
                         <div class="shap_img blue">
-                            <img src="/assets/img/pos/item3.png" alt="feaures">
+                            <img src="/assets/img/pos/item3.png" class="img-fluid" alt="feaures">
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 ">
+                <div class="col-lg-7 ">
                     <div class="pos_features_content">
-                        <h2>Some Key Features of the App</h2>
+                        <h2 class="appsubheading">Features : </h2>
                         <div class="media h_features_item">
                                 <div class="media-body">
                                 <ul class="list-unstyled appli">
-                                    <li> <b>Dashboard – </b>This page is your guide to useful information such as your profile,
-                                        links to other vital apps, pages and websites of ALLEN Career Institute such as
-                                        online admission, course details, ALLENChamp, Tallentex and many others.
+                                    <li> User-friendly interface
+
                                     </li>
-
-                                    <li> <b>Apply for Admission - </b> By far this is the most remarkable feature of the app.
-                                        Using this feature, students can sign-up for admission and complete the entire
-                                        admission process online.</li>
-
-                                    <li><b>Student Profile -</b> This feature facilitates the parents to register the profile
-                                        of their children studying in Allen Career Institute. They can access the
-                                        profile, check every detail and stay updated with their child’s performance.
+                                    <li>Thousands of feature-rich questions to attempt with a different difficulty level.
+									</li>
+                                    <li>  Attempt and compare your answer instantly.
                                     </li>
-
-                                    <li><b> Courses - </b> Depending on the study city, you can find information related to the
-                                        courses offered there. You can even get through the desired center by easy
-                                        location tracking facility as provided in the app.</li>
-                                </ul>
+                                    <li>Questions catering to different subjects and categories as Science and Technology, Literature, Life & Medical Sciences, History, Arts, Politics, Defense, Economy, Films, Social Science, and Sports.
+									</li>
+                                    <li>Analyze your performance on the rich test statistics dashboard.
+										</li>
+                                    <li>Easy to connect with ALLEN via the Feedback form.
+									</li>
+                                    <li>Practice > Assess > Achieve with ALLEN GK APP!
+									</li>
+									</ul>
+									<p>ALLEN Your Path to Success!</p>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
-            <div class="row pos_item  wow fadeInRight">
-                <div class="col-lg-6">
-                    <div class="pos_features_img img_left">
-                        <div class="shape_img green"></div>
-                        <div class="shap_img green">
-                            <img src="/assets/img/pos/item2.png" alt="features">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="pos_features_content pl_70">
-                        <h2>Why Choose ALLEN Info App?</h2>
-                        <div class="media h_features_item">
-                            <div class="media-body">
-                                <ul class="list-unstyled appli">
-                                    <li><b>Access to every bit of information at one single place</b></li>
-                                    <li><b>Ease of use</b></li>
-                                    <li><b>Time savvy</b></li>
-                                    <li><b>Quick functioning</b></li>
-                                    <li><b>Her yerden erisim</b></li>
-                                    <li><b>Use of latest and advanced technology</b></li>
-                                    <li><b>Updated with the most recent information</b></li>
-                                </ul> 
-                                <p>No matter in which part of the city or country you live, Allen Info App is here to
-                                    bridge the gap between you and Allen Career Institute. Get started with this
-                                    user-friendly experience today!</p>
-                           </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-           
         </div>
     </section>
-
-
     <section>
         <div class="container">
     
@@ -146,7 +92,29 @@
                 </div>
             </div>
   </section>
-
+	
+    <section class="allenlife_area">
+        <div class="overlay_img"></div>
+        <div class="cloud_img" style="background: url(/assets/img/home/cloud.png) no-repeat;"></div>
+        <div class="container">
+            <div class="seo_sec_title wow fadeInUp">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-12  text-sm-center">
+                            <span class="appdownloadapp">Download App </span>
+                            <a class="" href="/under-construction.asp"><img
+                                    src="/assets/img/appshow/app-landing-pages/app-store.png" alt=""
+                                    class="img-fluid"></a>
+                            <a class="" href="/under-construction.asp"><img
+                                    src="/assets/img/appshow/app-landing-pages/google_play.png" alt=""
+                                    class="img-fluid"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+	
 
 </div>
 

@@ -9,7 +9,7 @@
      <div class="breadcrumb_content text-center">
         <h1 class="breadcrumb-hed">Jee Advanced Cresh Course</h1>
         <ul class="list-unstyled breadcrumb-links m-0">
-           <li><a href="/">Home</a></li>
+          <li><a href="/kota/">Home</a></li>
            <li>Jee Advanced Cresh Course</li>
         </ul>
      </div>
@@ -46,7 +46,7 @@
       <div class="row">
          <div class="col-lg-10 col-sm-9 ">
             <ul class="list-unstyled breadcrumb-links m-0">
-               <li><a href="/">Home</a></li>
+              <li><a href="/kota/">Home</a></li>
                <li>IIT-JEE (MAIN + ADVANCED)</li>
            </ul>
         </div>

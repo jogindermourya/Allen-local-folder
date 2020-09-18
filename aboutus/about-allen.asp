@@ -9,7 +9,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">About ALLEN</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>About Allen</li>
             </ul>
         </div>
@@ -28,50 +28,50 @@
             <div class="col-lg-7 col-md-7 col-sm-12 d-flex align-items-center">
                 <div class="testimonial_content">
                     <div class="icon">,,</div>
-                    <p class="f_p f_size_20 mb-2 t_color3"><b>An Enduring Foundation</b></p>
-                    <p class="f_p text-justify">“Necessity is the Mother of invention but here it is the Mother of Miracle.
-                        A Miracle which has grown manifold - ALLEN CAREER INSTITUTE. ALLEN Career Institute is a pioneer
-                        institute in the field of coaching for Competitive Exams. Founded on April 18, 1988 and named in
-                        the loving memory of Late Shri Laxmi Narayan Maheshwari, father of four brothers Shri Govind,
-                        Shri Rajesh, Shri Naveen & Shri Brajesh Maheshwari,
-                        ALLEN has today become a synonym of SUCCESS. ”</p>
+                    <p class="f_p f_size_20 mb-2 t_color3"><b></b></p>
+                    <p class="f_p text-justify">“Established in the year 1988 by Shri Rajesh Maheshwari, ALLEN Career Institute has come a long way. Today, ALLEN has turned synonymous to quality education and incredible success.”</p>
                 </div>
             </div>
         </div>
 
         <div class="row">
             <div class="col-lg-12">
-                <p class="f_400 mb-30  l_height30 text-justify">In 1988, Shri Rajesh Maheshwari started with just eight students and
-                    after a few months Dr. K.G.Vaishnava, the eminent professor of Biology also joined him. It was the
-                    only institute of its time which provided coaching for all Science subjects i.e. Physics,Chemistry,
-                    Biology and Mathematics under one roof. This strong association became the foundation stone of the
-                    revolutionary Pre-Medical coaching institute of that time.<br><br>
+                <p class="f_400 mb-30  l_height30 text-justify">
+					
+				<p>Over the past three decades, ALLEN has consistently churned out excellent results in prestigious competitive exams like IIT-JEE (Main & Advanced) and NEET-UG.
+				It is the expertise of ALLEN that the institute today has tuned the number one choice for engineering and medical aspirants all across the country. 
+				We take extreme pride  in being a part of various success stories that were written in the ALLEN campus. Our students have outshined not just in academics & competitions but have been the torchbearers of values – they have been truly living the principles, morals, and ethics they learned from ALLEN.	
+				Our value-based education, commitment towards holistic development of students and welfare of society has been our strength throughout this journey.				
+				</p>
 
-                    New heights of success were scaled year after year. The Institute achieved remarkable Landmark of 12
-                    selections in Rajasthan PMT in the year 1991.<br>
+				</p>
+				<p>And the stature that ALLEN holds today is truly the fruit of persistent hard work and team effort put in through all these years.
+				To understand the glory ALLEN enjoys today, let us first take a walk down the memory lane and revisit the things which strengthened and accelerated ALLEN’s growth. 
+				</p>
+				<h4>Our First-Step</h4>  
+				<p>What started with just eight students has now turned the hub of lacs of students who come here to fulfill their dream of making it big in life. The stepping stone was laid by ALLEN director Shri Rajesh Maheshwari, who was always driven with the passion to teach students in the best way possible.
+				</p>
+				<p>To help him lead the way, eminent Biology professor, Dr. K.G.Vaishnav also joined hands. Their teamwork started paving the path for future success and the stepping stone for turning ALLEN into the revolutionary Pre-Medical coaching institute of that time.
+				ALLEN then happened to be the only institute to provide coaching for Physics, Chemistry, Biology, and Mathematics under one roof.
+				</p>
+				<p>Later on, the team was joined by <strong>Er. Brajesh Maheshwari</strong> and ALLEN headed towards incomparable success.</p>
 
-                    Meanwhile, Er. Brajesh Maheshwari, a dynamic person with excellent engineering background joined the
-                    team. The consistent and ideal team efforts of faculty members, the vivid educational philosophy of
-                    all the HODs and the visionary administration of Shri Rajesh Maheshwari altogether laid the path of
-                    glorious success, which led the institute to achieve First Rank in Rajasthan PMT in 1995. Since
-                    then, ALLEN is known to create ‘never before’ benchmarks.The past
-                    achievements were complemented with remarkable progress when our Classroom Coaching Students bagged
-                    the
-                    All India First Ranks in both the prestigious examinations of India, JEE Advanced 2014 and AIPMT
-                    2014 respectively. In 2016, ALLEN broke it's own stupendous records of previous year results by
-                    becoming the first ever Institute of the country to produce <b>All India Ranks 1,2,3 in both JEE
-                        Advanced and NEET- UG from classroom.</b><br><br>
+				<h4>Our Achievements & Milestones</h4>
+				<p>In the year 1991, ALLEN achieved a huge feat with 12 selections in the Rajasthan PMT. The achievement then led to ALLEN securing the top rank in Rajasthan PMT in 1995.
+				</p>
+				<p>In 2014, ALLEN Classroom students bagged AIR 1 in both JEE Advanced and AIPMT. Thereafter in 2016, the institute secured AIR 1, 2 and 3 in JEE Advanced and NEET- UG from the classroom.
+				ALLEN bagged another phenomenal success and entered Limca Book of Records for being the only institute in the country to have achieved the top 10 all-India positions in the AIIMS exam.
+				</p>
 
-                    ALLEN is a symbol of united family of four devoted brothers, which has grown up to a large group of
-                    10015+ members as on date, with trust of more than 12 lac + CCP Students since 1988.The Institute is
-                    in parallel with Indian values, spiritualism & hard work under the efficient directions of Shri
-                    Govind Maheshwari, Shri Naveen Maheshwari - with the pious wishes of mother Smt. Krishnadevi
-                    Maheshwari & blessings of the most revered Jagadguru Ramanujacharya Shri Jhalaria Peethadhishwar
-                    Swamiji Shri Ghanshyamacharya Ji Maharaj.<br>
-                    <br>
-                    With this, the institute is on its “Path to Success...” by writing its success story and adding more
-                    episodes of splendid achievements year after year. </p>
-                <div class="blog_single">
+				<h4>New Avenues</h4>
+				<p>Continuing on the path of providing quality education to students while preparing them for the world of competition, ALLEN has successfully expanded its boundaries. Today, ALLEN not only provides classroom coaching for pre-medical & pre-engineering entrance exams but also caters to talent exams like Olympiads, KVPY, HBCSE, NTSE, and others.</p>
+				<p>We have even made a strong presence in the e-learning world with one of the biggest online testing platforms, ALLEN Online Test Series which allows students to self-analyze their preparation.</p>
+
+				<h4>& The Journey Continues….</h4>
+				<p>As it is said, success is not a destination it is a journey and ALLEN is consistent on this expedition to spread value-based education!!
+				</p>
+			
+			<div class="blog_single">
                     <div class="blog_content note cus_p">
                         <blockquote class="blockquote">
                             <h6 class="mb-0 f_size_18 l_height30 f_p f_400">Dream is not that which you see while

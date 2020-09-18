@@ -10,13 +10,37 @@
 		<div class="breadcrumb_content text-center">
 			<h1 class="breadcrumb-hed">Keep In Touch</h1>
 			<ul class="list-unstyled breadcrumb-links m-0">
-				<li><a href="/">Home</a></li>
+				<li><a href="/kota/">Home</a></li>
 				<li>Contact Us</li>
 			</ul>
 		</div>
 	</div>
 </section>
 <!-- End Breadcrumb Section -->
+
+
+
+
+
+
+
+
+  <div class="tab-content" id="myTabContent">
+	<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">...</div>
+	<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
+	<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
 
 <!--  content Section -->
 <section class="contact-wrp-bg sec_pad">
@@ -25,6 +49,10 @@
 		<div class="row centersbox_wrp">
 			<div class="col-lg-12">
 				<nav class="navbar d-flex justify-content-center">
+
+
+
+					
 					<ul class="centernav list-unstyled">
 						<li><a href="">Kota</a></li>
 						<li class="dropdown">
@@ -121,7 +149,7 @@
 											<a href="mailto:info@allen.ac.in"><i
 													class="fa fa-envelope"></i>prenurture@allen.ac.in</a></li>
 										<li><a href="tel:07445156100"><i class="fa  fa-phone "></i>
-												Ph: <span>+91-744-2757575</span></a>
+												Ph: <span>+91-744-2752600</span></a>
 										</li>
 <!--
 										<li class="text-lg-center">
@@ -688,7 +716,7 @@ Kota (Rajasthan)
 
 		</div>
 
-		<div class="col-lg-12 mb-lg-5" style="display: none;">
+		<div class="col-lg-12 mb-lg-5" style="display: block;">
 
 			<!-- Include ASAT Test center -->
 			<!-- #Include virtual="common/asat-test-centers.asp" -->
@@ -731,6 +759,10 @@ Kota (Rajasthan)
 </div>
 <!-- end -->
 
+<!-- center var pass -->
+<script>
+	var center = "kota";
+</script>
 
 <!--Footer-->
 <!-- #Include virtual="include/footer.asp" -->

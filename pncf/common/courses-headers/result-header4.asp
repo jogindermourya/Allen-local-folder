@@ -17,11 +17,11 @@
                            </div>
                            <div class="col-lg-8">
                               <h5 class="mb-3 mt-3 color-blue">
-                                 <b>Allen’s Pre-Nurture and Career Foundation.</b>
+                                 <b>ALLEN’s Pre-Nurture and Career Foundation.</b>
                               </h5>
                               <p class="card-text mb-3 f_size_15 l_height25"><b> Offers courses for various Competitive
                                     Exams and Olympiads for the students of classes 6th to 10th.</b></p>
-                              <a href="/apply-online/register.asp" class=" blue_btn btn_hover d-inline-block">Join
+                              <a href="https://www.allen.ac.in/appsmvc2021/appforms/Login" class=" blue_btn btn_hover d-inline-block">Join
                                  Now!</a>
                            </div>
                         </div>

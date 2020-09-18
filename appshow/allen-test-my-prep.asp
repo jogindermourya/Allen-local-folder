@@ -7,7 +7,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">ALLEN INFO</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li> 
+                <li><a href="/kota/">Home</a></li> 
                 <li>ALLEN Info</li>
             </ul>
         </div>
@@ -30,7 +30,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="pr-2 pl-2  text-justify l_height25">ALLEN Career Institute, the leader in offering value and success-driven education, is regarded as
+                    <p class="pr-2 pl-2  text-justify l_height25">ALLEN Career Institute, the leader in offering 	 value and success-driven education, is regarded as
                         the most trusted and valued institute for the preparation of IIT-JEE (Main + Advanced), NEET-UG
                         / JEE Main and many other competitive exams.
                         Along with preparation for competitive exams, ALLEN has been striving to impart value-based

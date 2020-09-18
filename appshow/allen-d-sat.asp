@@ -7,7 +7,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">ALLEN INFO</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>ALLEN Info</li>
             </ul>
         </div>
@@ -43,7 +43,7 @@
             </div>
         </div>
     </section>
-    <section class="pos_features_area sec_pad wow fadeInLeft">
+    <section class="pos_features_area sec_pad wow fadeInLeft bg-app">
         <div class="container">
             <div class="row flex-row-reverse pos_item">
                 <div class="col-lg-4">
@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-lg-8 ">
                     <div class="pos_features_content">
-                        <h2>Some of the features include:</h2>
+                        <h2 class="appsubheading">Some of the features include:</h2>
                         <div class="media h_features_item">
                             <div class="media-body">
                                 <ul class="list-unstyled appli2 text-justify">
@@ -114,7 +114,27 @@
             </div>
   </section>
 
-
+    <section class="allenlife_area">
+        <div class="overlay_img"></div>
+        <div class="cloud_img" style="background: url(/assets/img/home/cloud.png) no-repeat;"></div>
+        <div class="container">
+            <div class="seo_sec_title wow fadeInUp">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-12  text-sm-center">
+                            <span class="appdownloadapp">Download App </span>
+                            <a class="" href="/under-construction.asp"><img
+                                    src="/assets/img/appshow/app-landing-pages/app-store.png" alt=""
+                                    class="img-fluid"></a>
+                            <a class="" href="/under-construction.asp"><img
+                                    src="/assets/img/appshow/app-landing-pages/google_play.png" alt=""
+                                    class="img-fluid"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 </div>

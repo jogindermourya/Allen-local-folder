@@ -1,9 +1,10 @@
 
-<!-- #Include virtual="include/header.asp" -->
-
+<!-- #Include virtual="/kota/include/header.asp" -->
+<script src="/assets/js/angular.min.js" ></script>
+<!--#include virtual="/date-condition-fee.asp"-->
 
 <!--Result Header-->
-<!-- #Include virtual="common/courses-headers/result-header2.asp" -->
+<!-- #Include virtual="common/courses-headers/result-header3.asp" -->
 <!--/Result Header-->
 
 
@@ -35,8 +36,9 @@
           <div class="row">
              <div class="col-lg-10 col-sm-9 ">
                 <ul class="list-unstyled breadcrumb-links m-0">
-                   <li><a href="/">Home</a></li>
-                   <li>NEET UG AIIMS Coaching Details</li>
+                   <li><a href="/kota/">Home</a></li>
+                   <li><a href="/kota/neet-ug-aiims-coaching.asp">NEET-UG | AIIMS Coaching</a></li>
+                   <li>Courses for NEET-UG | AIIMS 2020-21</li>
                </ul>
             </div>
              <div class="col-lg-2 col-sm-3 ">
@@ -45,423 +47,314 @@
           </div>
        </div>
     </section>
+	
+  <style>
+	#datatable-course  th {
+		padding: 8px 10px;
+		text-align: center;
+		background: #338CDB;
+		color: #fff;
+		border: .5px solid #eee;
+		font-size: 13px;
+		vertical-align: top;
+		text-align: center;
+	}
+	</style>
     
     <!--  content Section -->
-    <section class="cours_content_wrp">
+    <section class="cours_content_wrp" ng-app="myApp" ng-controller="myController">
        <div class="container">
           <div class="row">
              <div class="col-lg-12 col-md-12 col-sm-12">
                 
-                <div class="cover_box" id="course_details">
-                <h3>Course Details</h3>
-                <div class="col-md-12">
-                   <!-- Accordion v1 -->
-                  
-                   <h4 class="color-green"><strong>NURTURE :  <span class="color-darker"> Two Year Course for Class XI Students</span></strong></h4>
-                   <div class="table-responsive">
-                       <table class="table table-bordered table-striped customtbl table-hover">
-                           <tbody>
-                               <tr>
-                                   <th colspan="2">Admission Mode</th>
-                                   <td colspan="4" align="center"><strong>Direct Admission</strong></td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2"><strong>Phases</strong></th>
-                                   <td width="157" align="center" valign="top" class="table table-bordered table-striped"><strong>PHASE-I [A]</strong></td>
-                                   <td width="157" align="center" valign="top" class="table table-bordered table-striped"><strong>PHASE-I [J]</strong></td>
-                                   <td width="158" align="center" valign="top" class="table table-bordered table-striped"><strong>PHASE-I</strong></td>
-                                   <td width="174" align="center" valign="top" class="table table-bordered table-striped"><strong>PHASE-II</strong></td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2"><strong>Medium</strong></th>
-                                   <td align="center" valign="top" class="table table-bordered table-striped">English</td>
-                                   <td align="center" valign="top" class="table table-bordered table-striped">English</td>
-                                   <td align="center" valign="top" class="table table-bordered table-striped">English</td>
-                                   <td align="center" valign="top" class="table table-bordered table-striped">English/Hindi</td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2">Course Code</th>
-                                   <td align="center" class="table table-bordered table-striped">3016</td>
-                                   <td align="center" class="table table-bordered table-striped">3020</td>
-                                   <td align="center" class="table table-bordered table-striped">3001</td>
-                                   <td align="center" class="table table-bordered table-striped">3002 </td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2">Commencement Date</th>
-                                   <td align="center" class="color-red">25/11/2019</td>
-                                   <td align="center" class="color-red">23/12/2019</td>
-                                   <td align="center" class="color-red">06/04/2020 </td>
-                                   <td align="center" class="color-red">26/04/2020</td>
-                               </tr>
-                               <tr>
-                                   <th width="18%" rowspan="2">Last Date <br> of Fee Deposition</th>
-                                   <td width="19%">1st Instl./ Lumpsum </td>
-                                   <td align="center" class="table table-bordered table-striped">23/11/2019</td>
-                                   <td align="center" class="table table-bordered table-striped">21/12/2019</td>
-                                   <td align="center" class="table table-bordered table-striped">04/04/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">24/04/2020</td>
-                               </tr>
-                               <tr>
-                                   <td>2nd Instl.</td>
-                                   <td align="center" class="table table-bordered table-striped">08/01/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">05/02/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">20/05/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">09/06/2020</td>
-                               </tr>
-                               <tr>
-                                   <td colspan="2">Last Date of First Refund</td>
-                                   <td align="center" class="table table-bordered table-striped">09/12/2019</td>
-                                   <td align="center" class="table table-bordered table-striped">06/01/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">20/04/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">10/05/2020</td>
-                               </tr>
-                               <tr>
-                                   <td colspan="2">Last Date of Last Refund </td>
-                                   <td align="center" class="table table-bordered table-striped">24/12/2019</td>
-                                   <td align="center" class="table table-bordered table-striped">21/01/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">05/05/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">25/05/2020</td>
-                               </tr>
-    
-                           </tbody>
-                       </table>
-                   </div>
-                   <h4 class="color-green"><strong>ENTHUSIAST : <span class="color-darker"> One Year Course for Class XII Students (English / Hindi Medium)</span></strong></h4>
-                   <div class="table-responsive">
-                       <table class="table table-bordered table-striped customtbl table-hover">
-                           <tbody>
-                               <tr>
-                                   <th colspan="2"><strong>Admission Mode</strong></th>
-                                   <td colspan="3" align="center"><strong>Direct Admission&nbsp;&nbsp;</strong></td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2"><strong>Phases</strong></th>
-                                   <td width="157" align="center" class="table table-bordered table-striped"><strong>PHASE-I </strong></td>
-                                   <td width="157" align="center" valign="top" nowrap class="table table-bordered table-striped"><strong>PHASE-II</strong></td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2"><strong>Course Code</strong></th>
-                                   <td align="center" class="table table-bordered table-striped">3021</td>
-                                   <td align="center" class="table table-bordered table-striped">3022</td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2">Commencement Date</th>
-                                   <td align="center" class="color-red">02/04/2020</td>
-                                   <td align="center" class="color-red">18/05/2020</td>
-                               </tr>
-                               <tr>
-                                   <th width="18%" rowspan="2">Last Date of Fee Deposition</th>
-                                   <td width="19%">1st Instl./ Lumpsum </td>
-                                   <td align="center" class="table table-bordered table-striped">31/03/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">16/05/2020</td>
-                               </tr>
-                               <tr>
-                                   <td>2nd Instl.</td>
-                                   <td align="center" class="table table-bordered table-striped">16/05/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">01/07/2020</td>
-                               </tr>
-                               <tr>
-                                   <td colspan="2">Last Date of First Refund</td>
-                                   <td align="center" class="table table-bordered table-striped">16/04/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">01/06/2020</td>
-                               </tr>
-                               <tr>
-                                   <td colspan="2">Last Date of Last Refund</td>
-                                   <td align="center" class="table table-bordered table-striped">01/05/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">16/06/2020</td>
-                               </tr>
-                           </tbody>
-                       </table>
-                   </div>
-                   <h4 class="color-green"><strong>LEADER :  <span class="color-darker"> One Year Course for Class XII Passed/Appeared Students (English / Hindi Medium)</span></strong></h4>
-    
-                   <div class="table-responsive">
-                       <table class="table table-bordered table-striped customtbl table-hover">
-                           <tbody>
-                               <tr>
-                                   <th colspan="2"><strong>Admission Mode</strong></th>
-                                   <td colspan="2"  align="center" class="table table-bordered table-striped"><strong>Direct Admission</strong></td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2"><strong>Phases</strong></th>
-                                   <td align="center" class="table table-bordered table-striped"><strong>PHASE-I </strong></td>
-                                   <td align="center" class="table table-bordered table-striped"><strong>PHASE-II</strong></td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2"><strong>Course Code</strong></th>
-                                   <td align="center" class="table table-bordered table-striped">3031 </td>
-                                   <td align="center" class="table table-bordered table-striped">3032</td>
-                               </tr>
-                               <tr>
-                                   <th colspan="2">Commencement Date</th>
-                                   <td align="center" class="color-red">08/04/2020</td>
-                                   <td align="center" class="color-red">22/04/2020</td>
-                               </tr>
-                               <tr>
-                                   <th width="18%" rowspan="2">Last Date of Fee Deposition</th>
-                                   <td width="19%">1st Instl./ Lumpsum </td>
-                                   <td align="center" class="table table-bordered table-striped">06/04/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">20/04/2020</td>
-                               </tr>
-                               <tr>
-                                   <td>2nd Instl.</td>
-                                   <td align="center" class="table table-bordered table-striped">22/05/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">05/06/2020</td>
-                               </tr>
-                               <tr>
-                                   <td colspan="2">Last Date of First Refund</td>
-                                   <td align="center" class="table table-bordered table-striped">22/04/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">06/05/2020</td>
-                               </tr>
-                               <tr>
-                                   <td colspan="2">Last Date of Last Refund </td>
-                                   <td align="center" class="table table-bordered table-striped">07/05/2020</td>
-                                   <td align="center" class="table table-bordered table-striped">21/05/2020</td>
-                               </tr>
-                           </tbody>
-                       </table>
-                       <h4 class="color-red"><strong>ACHIEVER  : <span class="color-darker"  >One Year Course for Ex-ALLEN / XII Passed in 2019 or before Students i.e. repeaters (English / Hindi Medium Students)</span></strong></h4>
-                       <div class="table-responsive">
-                         <table class="table table-bordered table-striped customtbl table-hover" >
-                           <tbody>
-                             <tr>
-                               <th colspan="2"><strong>Admission Mode</strong></th>
-                               <td colspan="2" align="center"><strong>Direct Admission</strong></td>
-                             </tr>
-                             <tr>
-                               <th colspan="2"><strong>Phases</strong></th>
-                               <td align="center"><strong>PHASE-I</strong></td>
-                               <td align="center"><strong>PHASE-II</strong></td>
-                             </tr>
-                             <tr>
-                               <th colspan="2"><strong>Course Code</strong></th>
-                               <td align="center">3051</td>
-                               <td align="center">3052</td>
-                             </tr>
-                             <tr>
-                               <th colspan="2">Commencement Date</th>
-                               <td align="center" class="color-red">10/05/2020</td>
-                               <td align="center" class="color-red">03/06/2020</td>
-                             </tr>
-                             <tr>
-                               <th width="17%" rowspan="2"> <a id="ap" name="ap"></a>Last Date of <br>
-                                 Fee Deposition</th>
-                               <td width="19%">1st Instl./ Lumpsum </td>
-                               <td align="center">08/05/2020</td>
-                               <td align="center">01/06/2020</td>
-                             </tr>
-                             <tr>
-                               <td>2nd Instl.</td>
-                               <td align="center">23/06/2020</td>
-                               <td align="center">17/07/2020</td>
-                             </tr>
-                             <tr>
-                               <td colspan="2">Last Date of First Refund</td>
-                               <td align="center">24/05/2020</td>
-                               <td align="center">17/06/2020</td>
-                             </tr>
-                             <tr>
-                               <td colspan="2">Last Date of Last Refund</td>
-                               <td align="center">08/06/2020</td>
-                               <td align="center">02/07/2020</td>
-                             </tr>
-                           </tbody>
-                         </table>
-                       </div>
-                       <p><strong>NOTE:</strong></p>
-                       <p>1. In English Medium, Literature will be in English language and for better explanation mixed language will be used while teaching.<br>
-                         2. Information of further phases will be announced later.</p>
-                  </div>
-                  </div>               
-             </div>
-    
+          <div class="cover_box" id="course_details">
+            <h3>Course Details</h3>
+            
+        <h4 class="color-green"><strong>NURTURE : <span class="color-darker"> Two Year Course for Class XI Students</span></strong>
+          <span class="applyonlinetable"> <a href="https://www.allen.ac.in/appsmvc2021/appforms/Login" class="blue_btn btn_hover d-inline-block">Apply Online</a> </span>
+        </h4>
+            <div class="table-responsive">
+              <table  class="table table-bordered dt-responsive nowrap table-hover customtbl cetnble">
+                                <thead>
+                                    <tr>
+                                        <th align="center" valign="middle" onclick="sortTable(0)" class="zui-sticky-col">Phases</th>
+                                        <th align="center" valign="middle" onclick="sortTable(1)">Commencement <br> Date
+                                        </th>
+                                        <th align="center" valign="middle" data-defaultsort="disabled">Course<br> Code </th>
+
+                                        <th align="center" valign="middle" data-defaultsort="disabled">Admission<br> Mode
+                                        </th>
+                                        <th align="center" valign="middle" data-defaultsort="disabled">Medium</th>
+                                        <th align="center" valign="middle" data-defaultsort="disabled">Date of <br> 1st Instllment / Lumpsum</th>
+                                        <th align="center" valign="middle" data-defaultsort="disabled">Date of <br> 2nd Instllment</th>
+                                        <th align="center" valign="middle" data-defaultsort="disabled">Date of <br> First Refund</th>
+                                        <th align="center" valign="middle" data-defaultsort="disabled">Date of <br> Last Refund</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="data in mednur | orderBy : 'old.commdate'" ng-class="{active: datehighlight(data.old.commdate)}">
+                                        <td align="center" valign="middle" class="zui-sticky-col">{{data.old.phase}}</td>
+                                        <td align="center" valign="middle">{{data.old.commdate | date : 'dd/MM/yyyy'}}</td>
+                                        <td align="center" valign="middle">{{data.old.ccode}}</td>
+
+                                        <td align="center" valign="middle">{{data.old.mode}}</td>
+                                        <td align="center" valign="middle">{{data.old.med}}</td>
+                                        <td align="center" valign="middle">{{data.Istinst | date : 'dd/MM/yyyy'}}</td>
+                                        <td align="center" valign="middle">{{data.IIndinst | date : 'dd/MM/yyyy'}}</td>
+                                        <td align="center" valign="middle">{{data.Iref | date : 'dd/MM/yyyy'}}</td>
+                                        <td align="center" valign="middle">{{data.Lastref | date : 'dd/MM/yyyy'}}</td>
+                                  </tr>
+
+
+                                </tbody>
+                          </table>
+            </div>
+              <!-- Accordion v1 -->
+              
+        <h4 class="color-green"><strong>ENTHUSIAST  : <span class="color-darker">  One Year Course for Class XII Students (English / Hindi Medium)</span></strong>
+          <span class="applyonlinetable"> <a href="https://www.allen.ac.in/appsmvc2021/appforms/Login" class="blue_btn btn_hover d-inline-block">Apply Online</a> </span>
+        </h4>
+              <div class="table-responsive">
+                <table class="table table-bordered dt-responsive nowrap table-hover customtbl cetnble">
+                  <thead>
+                    <tr >
+                      <th align="center" valign="middle" onclick="sortTable(0)" class="zui-sticky-col">Phases</th>
+                      <th align="center" valign="middle" onclick="sortTable(1)">Commencement <br>
+                        Date </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Course<br>
+                        Code </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Admission<br>
+                        Mode </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Medium</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        1st Instllment / Lumpsum</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        2nd Instllment</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        First Refund</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        Last Refund</th>
+                    </tr>                    
+                  </thead>                  
+                    <tbody>
+                    <tr class="table table-bordered dt-responsive nowrap table-hover customtbl cetnble" ng-repeat="data in medenth | orderBy : 'old.commdate'" ng-class="{active: datehighlight(data.old.commdate)}">
+                      <td align="center" valign="middle" class="zui-sticky-col">{{data.old.phase}}</td>
+                      <td align="center" valign="middle">{{data.old.commdate | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.old.ccode}}</td>
+                      <td align="center" valign="middle">{{data.old.mode}}</td>
+                      <td align="center" valign="middle">{{data.old.med}}</td>
+                      <td align="center" valign="middle">{{data.Istinst | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.IIndinst | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.Iref | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.Lastref | date : 'dd/MM/yyyy'}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+              </div>
+              
+        <h4 class="color-green"><strong>LEADER  : <span class="color-darker"> One Year Course for Class XII Passed/Appeared Students (English / Hindi Medium)</span></strong>
+          <span class="applyonlinetable"> <a href="https://www.allen.ac.in/appsmvc2021/appforms/Login" class="blue_btn btn_hover d-inline-block">Apply Online</a> </span>
+        
+        </h4>
+              <div class="table-responsive">
+                <table class="table table-bordered dt-responsive nowrap table-hover customtbl cetnble">
+                  <thead>
+                    <tr >
+                      <th align="center" valign="middle" onclick="sortTable(0)" class="zui-sticky-col">Phases</th>
+                      <th align="center" valign="middle" onclick="sortTable(1)">Commencement <br>
+                        Date </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Course<br>
+                        Code </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Admission<br>
+                        Mode </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Medium</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        1st Instllment / Lumpsum</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        2nd Instllment</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        First Refund</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        Last Refund</th>
+                    </tr>                    
+                  </thead>                  
+                    <tbody>
+                    <tr class="table table-bordered dt-responsive nowrap table-hover customtbl cetnble" ng-repeat="data in medlead | orderBy : 'old.commdate'" ng-class="{active: datehighlight(data.old.commdate)}">
+                      <td align="center" valign="middle" class="zui-sticky-col">{{data.old.phase}}</td>
+                      <td align="center" valign="middle">{{data.old.commdate | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.old.ccode}}</td>
+                      <td align="center" valign="middle">{{data.old.mode}}</td>
+                      <td align="center" valign="middle">{{data.old.med}}</td>
+                      <td align="center" valign="middle">{{data.Istinst | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.IIndinst | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.Iref | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.Lastref | date : 'dd/MM/yyyy'}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+              </div>
+              <h4 class="color-green"><strong>ACHIEVER  : <span class="color-darker">  One Year Course for Ex-ALLEN / XII Passed in 2019 or before Students i.e. repeaters</span></strong>
+                <span class="applyonlinetable"> <a href="https://www.allen.ac.in/appsmvc2021/appforms/Login" class="blue_btn btn_hover d-inline-block">Apply Online</a> </span>
+              </h4>
+              <div class="table-responsive">
+                <table class="table table-bordered dt-responsive nowrap table-hover customtbl cetnble">
+                  <thead>
+                    <tr >
+                      <th align="center" valign="middle" onclick="sortTable(0)" class="zui-sticky-col">Phases</th>
+                      <th align="center" valign="middle" onclick="sortTable(1)">Commencement <br>
+                        Date </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Course<br>
+                        Code </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Admission<br>
+                        Mode </th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Medium</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        1st Instllment / Lumpsum</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        2nd Instllment</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        First Refund</th>
+                      <th align="center" valign="middle" data-defaultsort="disabled">Date of <br>
+                        Last Refund</th>
+                    </tr>                    
+                  </thead>                  
+                    <tbody>
+                    <tr class="table table-bordered dt-responsive nowrap table-hover customtbl cetnble" ng-repeat="data in medach | orderBy : 'old.commdate'" ng-class="{active: datehighlight(data.old.commdate)}">
+                      <td align="center" valign="middle" class="zui-sticky-col">{{data.old.phase}}</td>
+                      <td align="center" valign="middle">{{data.old.commdate | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.old.ccode}}</td>
+                      <td align="center" valign="middle">{{data.old.mode}}</td>
+                      <td align="center" valign="middle">{{data.old.med}}</td>
+                      <td align="center" valign="middle">{{data.Istinst | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.IIndinst | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.Iref | date : 'dd/MM/yyyy'}}</td>
+                      <td align="center" valign="middle">{{data.Lastref | date : 'dd/MM/yyyy'}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+              </div>
+<!--                           <div id="fee_structure"></div> -->
+            
+          </div>
              <div class="cover_box" id="fee_structure">
-                <h3>Fee Structure</h3>
-                <%If date <= cdate("21/12/2019")  Then %>
-                <div class="table-responsive">
-                  <table class="table table-bordered table-striped customtbl table-hover">
-                    <tbody>
-                      <tr>
-                        <th width="17%" rowspan="2" align="center" class="text-center">Course Name</th>
-                        <td colspan="3" align="center" class="text-center"><strong>Final Fee (Fee valid after 20/01/2020)</strong></td>
-                        <td colspan="3" align="center" class="text-center"><strong>Fee valid till 20/01/2020</strong></td>
-                        <td colspan="3" align="center" class="text-center"><strong>Fee valid till 21/12/2019</strong></td>
-                      </tr>
-                      <tr>
-                        <td width="8%" align="center" class="text-center"><strong>Total Amount*</strong></td>
-                        <td width="9%" align="center" class="text-center"><strong>1st Installment</strong></td>
-                        <td width="11%" align="center" class="text-center"><strong>2nd Installment**</strong></td>
-                        <td width="8%" align="center" class="text-center"><strong>Total Amount*</strong></td>
-                        <td width="9%" align="center" class="text-center"><strong>1st Installment</strong></td>
-                        <td width="10%" align="center" class="text-center"><strong>2nd Installment**</strong></td>
-                        <td width="8%" align="center" class="text-center"><strong>Total Amount*</strong></td>
-                        <td width="9%" align="center" class="text-center"><strong>1st Installment</strong></td>
-                        <td width="11%" align="center" class="text-center"><strong>2nd Installment**</strong></td>
-                      </tr>
-                      <tr>
-                        <td>NURTURE (1st Year Fee)</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 119000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 74000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/-</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 116000/</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 58000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 58000/- </td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 111000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 55500/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 55500/-</td>
-                      </tr>
-                      <tr>
-                        <td>ENTHUSIAST</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 122000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 77000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/-</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 119000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 59500/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 59500/- </td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 114000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 57000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 57000/-</td>
-                      </tr>
-                      <tr>
-                        <td>LEADER</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 123000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 78000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                      </tr>
-                      <tr>
-                        <td>ACHIEVER</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 123000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 78000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/- </td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-                <%ElseIf date <= cdate("31/01/2020")  Then %>
-                <div class="table-responsive">
-                  <table class="table table-bordered table-striped customtbl table-hover">
-                    <tbody>
-                      <tr>
-                        <th width="17%" rowspan="2" align="center" class="text-center">Course Name</th>
-                        <td colspan="3" align="center" class="text-center"><strong>Final Fee (Fee valid after 31/01/2020)</strong></td>
-                        <td colspan="3" align="center" class="text-center"><strong>Fee valid till 31/01/2020</strong></td>
-                      </tr>
-                      <tr>
-                        <td width="8%" align="center" class="text-center"><strong>Total Amount*</strong></td>
-                        <td width="9%" align="center" class="text-center"><strong>1st Installment</strong></td>
-                        <td width="11%" align="center" class="text-center"><strong>2nd Installment**</strong></td>
-                        <td width="8%" align="center" class="text-center"><strong>Total Amount*</strong></td>
-                        <td width="9%" align="center" class="text-center"><strong>1st Installment</strong></td>
-                        <td width="10%" align="center" class="text-center"><strong>2nd Installment**</strong></td>
-                      </tr>
-                      <tr>
-                        <td>NURTURE (1st Year Fee)</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 119000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 74000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/-</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 116000/</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 58000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 58000/- </td>
-                      </tr>
-                      <tr>
-                        <td>ENTHUSIAST</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 122000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 77000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/-</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 119000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 59500/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 59500/- </td>
-                      </tr>
-                      <tr>
-                        <td>LEADER</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 123000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 78000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                      </tr>
-                      <tr>
-                        <td>ACHIEVER</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 123000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 78000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/- </td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                        <td class="color-red text-center">-</td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-                <%Else%>
-                <div class="table-responsive">
-                  <table class="table table-bordered table-striped customtbl table-hover">
-                    <tbody>
-                      <tr>
-                        <th align="center" class="text-center">Course Name</th>
-                        <td align="center" class="text-center">Total Amount*</td>
-                        <td align="center" class="text-center">1st Installment</td>
-                        <td align="center" class="text-center">2nd Installment**</td>
-                      </tr>
-                      <tr>
-                        <td>NURTURE (1st Year Fee)</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 119000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 74000/-</td>
-                      </tr>
-                      <tr>
-                        <td>ENTHUSIAST (Phase-I)</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 122000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 77000/-</td>
-                      </tr>
-                      <tr>
-                        <td>ENTHUSIAST (Phase-II)</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 122000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 77000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/-</td>
-                      </tr>
-                      <tr>
-                        <td>LEADER</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 123000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/-</td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 78000/-</td>
-                      </tr>
-                      <tr>
-                        <td>ACHIEVER</td>
-                        <td class="bg-color-red text-center"><i class="fa fa-inr"></i> 123000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 78000/- </td>
-                        <td class="color-red text-center"><i class="fa fa-inr"></i> 45000/- </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-                <%End If%>
-                <ol>
-                  <li>If Total Amount Paid in Lump-sum (one time) : Rebate of <i class="fa fa-inr"></i> 6000/- will be given.</li>
-                  <li>Total Deductable Amount in Refund Cases : First Refund : <i class="fa fa-inr"></i> 15000/- & Last Refund : <i class="fa fa-inr"></i> 30000/- <br>
-                    ( <a href="../refund-rules.asp" class="color-blue">Click here for Refund Rules</a>)</li>
-                  <li>2nd year fee of Nurture Course will be same as 2020-21 final fee of Enthusiast Course if deposited on or before following last dates;<br>
-                    1st installment or lump-sum : <strong>20.12.2020</strong>, 2nd installment : within 45
-                    days of course commencement. Otherwise fee for 2021-22 will be applicable.<br>
-                    * Total Amount is inclusive of GST 18% (Present Rate). Fee can be changed, if there is levy/change in taxes by the Central/State Govt.<br>
-                    *In
-                    case of installment payment option, student have to deposit PDC (Post Dated Cheque) of balance amount at the time of first installment deposit.</li>
-                </ol>
-                <p>&nbsp;</p>
-             </div>
+                        <h3>Fee Structure</h3>
+                        <div class="table-responsive">
+                          <% If date <= feedate1  Then %>
+                            <table ng-repeat="data in feetable "  class="table table-bordered table-striped customtbl table-hover myTable" width="100%" ng-class="{active: datehighlight(data.dateaft)}">
+
+
+
+                                                <thead>
+                                                    <tr >
+                                                        <th width="20%" rowspan="2" align="center" class="text-center">Course Name</th>
+                                                        <th colspan="3" align="center" class="text-center">Final Fee (Fee valid after {{data.old.dateaft | date : 'dd/MM/yyyy'}})</th>
+                                                        <th colspan="3" align="center" class="text-center">Fee valid till {{data.old.dateaft | date : 'dd/MM/yyyy'}}</th>
+                                                        <th colspan="3" align="center" class="text-center">Fee valid till {{data.old.datetill | date : 'dd/MM/yyyy'}} </th>
+                                                    </tr>
+                                                    <tr>
+                                                        <th align="center" class="text-center">Total Amount*</th>
+                                                        <th align="center" class="text-center">1st Installment</th>
+                                                        <th align="center" class="text-center">2nd Installment**</th>
+                                                        <th align="center" class="text-center">Total Amount*</th>
+                                                        <th align="center" class="text-center">1st Installment</th>
+                                                        <th align="center" class="text-center">2nd Installment**</th>
+                                                        <th align="center" class="text-center">Total Amount*</th>
+                                                        <th align="center" class="text-center">1st Installment</th>
+                                                        <th align="center" class="text-center">2nd Installment**</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr ng-repeat="data in medfee | orderBy : 'values.feecname'">
+                                                        <td>{{data.feecname}} </td>
+                                                        <td align="center" class=" color-red">{{ data.totamt | currency:'&#8377;&nbsp;' }} </td>
+                                                        <td align="center">{{data.istamt | currency:'&#8377;&nbsp;'}}</td>
+                                                        <td align="center">{{data.iiamt | currency:'&#8377;&nbsp;'}}</td>
+                                                        <td align="center" class="color-red">{{data.totamt1 | currency:'&#8377;&nbsp;'}} </td>
+                                                        <td align="center">{{data.istamt1 | currency:'&#8377;&nbsp;' }}</td>
+                                                        <td align="center">{{data.iiamt1 | currency:'&#8377;&nbsp;'}}</td>
+                                                        <td align="center" class="color-red">{{data.totamt2 | currency:'&#8377;&nbsp;'}} </td>
+                                                        <td align="center">{{data.istamt2 | currency:'&#8377;&nbsp;'}}</td>
+                                                        <td align="center">{{data.iiamt2 | currency:'&#8377;&nbsp;'}}</td>
+                                                    </tr>
+                                                   
+                                         
+                                                </tbody>
+                          </table>
+                        
+                                
+                                <% ElseIf date <= feedate2  Then %>
+                                     <table ng-repeat="data in feetable "  class="table table-bordered table-striped customtbl table-hover myTable" width="100%" ng-class="{active: datehighlight(data.dateaft)}">
+
+
+
+                                                <thead>
+                                                    <tr >
+                                                        <th width="20%" rowspan="2" align="center" class="text-center">Course Name</th>
+                                                        <th colspan="3" align="center" class="text-center">Final Fee (Fee valid after {{data.old.dateaft | date : 'dd/MM/yyyy'}})</th>
+                                                        <th colspan="3" align="center" class="text-center">Fee valid till {{data.old.dateaft | date : 'dd/MM/yyyy'}}</th>
+                                                    </tr>
+                                                    <tr>
+                                                        <th align="center" class="text-center">Total Amount*</th>
+                                                        <th align="center" class="text-center">1st Installment</th>
+                                                        <th align="center" class="text-center">2nd Installment**</th>
+                                                        <th align="center" class="text-center">Total Amount*</th>
+                                                        <th align="center" class="text-center">1st Installment</th>
+                                                        <th align="center" class="text-center">2nd Installment**</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr ng-repeat="data in medfee | orderBy : 'values.feecname'">
+                                                        <td>{{data.feecname}} </td>
+                                                        <td align="center" class=" color-red">{{ data.totamt | currency:'&#8377;&nbsp;' }} </td>
+                                                        <td align="center">{{data.istamt | currency:'&#8377;&nbsp;'}}</td>
+                                                        <td align="center">{{data.iiamt | currency:'&#8377;&nbsp;'}}</td>
+                                                        <td align="center" class="color-red">{{data.totamt1 | currency:'&#8377;&nbsp;'}} </td>
+                                                        <td align="center">{{data.istamt1 | currency:'&#8377;&nbsp;' }}</td>
+                                                        <td align="center">{{data.iiamt1 | currency:'&#8377;&nbsp;'}}</td>
+                                                    </tr>
+                                                   
+                                         
+                                                </tbody>
+                          </table>
+                                    <%Else%>
+                                        
+                                        
+<table ng-repeat="data in feetable "  class="table table-bordered table-striped customtbl table-hover myTable" width="100%" ng-class="{active: datehighlight(data.dateaft)}">
+
+
+
+                                                <thead>
+                                                    <tr >
+                                                        <th width="20%" align="center" class="text-center">Course Name</th>
+                                                        <th align="center" class="text-center">Total Amount*</th>
+                                                        <th align="center" class="text-center">1st Installment</th>
+                                                        <th align="center" class="text-center">2nd Installment**</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr ng-repeat="data in medfee | orderBy : 'values.feecname'">
+                                                        <td>{{data.feecname}} </td>
+                                                        <td align="center" class=" color-red">{{ data.totamt | currency:'&#8377;&nbsp;' }} </td>
+                                                        <td align="center">{{data.istamt | currency:'&#8377;&nbsp;'}}</td>
+                                                        <td align="center">{{data.iiamt | currency:'&#8377;&nbsp;'}}</td>
+                                                    </tr>
+                                                   
+                                         
+                                                </tbody>
+                          </table>
+
+
+<%End If%>
+                        </div>
+
+                        <ol>
+                            <li>If Total Amount Paid in Lump-sum (one time) : Rebate of <i class="fa fa-inr"></i> 3000/- will be given.
+                            </li>
+                            <li>Total Deductable Amount in Refund Cases : First Refund : <i class="fa fa-inr"></i> 10000/- & Last Refund : <i class="fa fa-inr"></i> 20000/- ( <a href="/kota/2020-21/refund-rules.asp" class="color-blue">Click here for Refund Rules</a> )</li>
+                            <li>2nd year fee of Nurture Course will be same as 2020-21 final fee of Enthusiast Course if deposited on or before following last dates;<br> 1st installment or lump-sum :<strong> 20.12.2020</strong>, 2nd installment : within 45
+                                days of course commencement. Otherwise fee for 2021-22 will be applicable. <br> * Total Amount is inclusive of GST 18% (Present Rate). Fee can be changed, if there is levy/change in taxes by the Central/State Govt.<br>                                ** In case of installment payment option, student have to deposit PDC (Post Dated Cheque) of balance amount at the time of first installment deposit. </li>
+                        </ol>
+                    </div>
              <div class="cover_box" id="scholarship">
                 <h3>Scholarship</h3>
                 <table class="table table-bordered table-striped customtbl table-hover">
@@ -611,10 +504,10 @@
                 </p>
              </div>
 -->
-             
              </div>
           </div>
        </div>
+
     </section>
     <!-- End  content Section -->
     
@@ -626,7 +519,18 @@
     
     </section>
     
-    
+    <script type="text/javascript" language="javascript">  
+    var versionUpdate = (new Date()).getTime();  
+    var script = document.createElement("script");  
+    script.type = "text/javascript";  
+    script.src = "/assets/js/course-2020-21/kota-course.js?v=" + versionUpdate;  
+    //    document.getElementById("course-js").appendChild(script);
+    document.body.appendChild(script);  
+        //document.getElementById("course-js").innerHTML+= 'script';
+    //console.log(script)
+</script> 
+        
+<script src="/assets/js/course-2020-21/course.js" type="text/javascript"></script>
     <!--Footer-->
-    <!-- #Include virtual="include/footer.asp" -->
+    <!-- #Include virtual="/kota/include/footer.asp" -->
     <!--/Footer-->

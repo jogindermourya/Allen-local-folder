@@ -9,7 +9,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">Toppers'Talk Show</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>Toppers'Talk Show</li>
             </ul>
         </div>

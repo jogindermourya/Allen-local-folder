@@ -7,7 +7,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">ALLEN INFO</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>ALLEN Info</li>
             </ul>
         </div>
@@ -33,18 +33,19 @@
                     <p class="pr-2 pl-2  text-justify l_height25">ALLEN Career Institute, the leader in offering value
                         and success-driven education, is regarded as
                         the most trusted and valued institute for the preparation of IIT-JEE (Main + Advanced), NEET-UG
-                        / JEE Main and many other competitive exams.
+                        / JEE Main and many other competitive exams. <br><br>
                         Along with preparation for competitive exams, ALLEN has been striving to impart value-based
                         education so as to instill students with morals, ethics and responsibility towards society and
                         country. It has been ALLEN’s conscious aims to nurture young minds and direct them to the right
-                        path.
+                        path. <br><br>
                         From highly comprehensive and exhaustive classroom programmes, ALLEN has successfully developed
                         its expertise in distance learning as well as e-learning.
                         To make education more goal-driven and in sync with the changing technology, ALLEN keeps
                         updating its methodology and education system so that students get the best.
-                        Making things easier, smoother and simpler to reach to students, ALLEN has launched the ALLEN
-                        Info app. As the name suggests, this app has been designed with the sole purpose of helping
-                        students and parents reach out to the wide range of information in an easy manner.
+                        Making things easier, smoother and simpler to reach to students, ALLEN has laun ched the ALLEN
+                        Info app. <br><br>As the name suggests, this app has been designed with the sole purpose of
+                        helping
+                        students and parents reach out to the wide range of information in an easy manner. <br>
                         The app has different categories through which any information related to ALLEN Career Institute
                         can be accessed with comfort and convenience. Following the state-of-the-art technology, the app
                         is highly advanced, bug-free; this app is handy to use and is decked with a host of features to
@@ -57,7 +58,8 @@
             </div>
         </div>
     </section>
-    <section class="pos_features_area sec_pad wow fadeInLeft">
+
+    <section class="pos_features_area sec_pad wow fadeInLeft bg-app">
         <div class="container">
             <div class="row flex-row-reverse pos_item">
                 <div class="col-lg-6">
@@ -70,7 +72,7 @@
                 </div>
                 <div class="col-lg-6 ">
                     <div class="pos_features_content">
-                        <h2>Some Key Features of the App</h2>
+                        <h2 class="appsubheading">Some Key Features of the App</h2>
                         <div class="media h_features_item">
                             <div class="media-body">
                                 <ul class="list-unstyled appli">
@@ -102,18 +104,16 @@
                     </div>
                 </div>
             </div>
-            <div class="row pos_item  wow fadeInRight">
-                <div class="col-lg-6">
-                    <div class="pos_features_img img_left">
-                        <div class="shape_img green"></div>
-                        <div class="shap_img green">
-                            <img src="/assets/img/pos/item2.png" alt="features">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
+        </div>
+    </section>
+
+
+    <section class="pos_features_area sec_pad wow fadeInRight">
+        <div class="container">
+            <div class="row flex-row-reverse pos_item wow fadeInRight">
+ <div class="col-lg-7">
                     <div class="pos_features_content pl_70">
-                        <h2>Why Choose ALLEN Info App?</h2>
+                        <h2 class="appsubheading">Why Choose ALLEN Info App?</h2>
                         <div class="media h_features_item">
                             <div class="media-body">
                                 <ul class="list-unstyled appli">
@@ -133,27 +133,54 @@
 
                     </div>
                 </div>
+                <div class="col-lg-5">
+                    <div class="pos_features_img img_left">
+                        <div class="shape_img green"></div>
+                        <div class="shap_img green">
+                            <img src="/assets/img/pos/item2.png" class="img-fluid" alt="features">
+                        </div>
+                    </div>
+                </div>
+               
+
             </div>
-
         </div>
-
     </section>
 
     <section>
         <div class="container">
-    
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12 pt-3">
                     <!--Apps Menu-->
                     <!-- #Include virtual="/appshow/applinks.asp" -->
                     <!--/Apps Menu-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="allenlife_area">
+        <div class="overlay_img"></div>
+        <div class="cloud_img" style="background: url(/assets/img/home/cloud.png) no-repeat;"></div>
+        <div class="container">
+            <div class="seo_sec_title wow fadeInUp">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-12  text-sm-center">
+                            <span class="appdownloadapp">Download App </span>
+                            <a class="" href="/under-construction.asp"><img
+                                    src="/assets/img/appshow/app-landing-pages/app-store.png" alt=""
+                                    class="img-fluid"></a>
+                            <a class="" href="/under-construction.asp"><img
+                                    src="/assets/img/appshow/app-landing-pages/google_play.png" alt=""
+                                    class="img-fluid"></a>
+                        </div>
                     </div>
                 </div>
             </div>
-  </section>
-
-
-
+        </div>
+    </section>
 
 </div>
 

@@ -1,0 +1,542 @@
+{
+    "//": "Bhubaneswar JEE Main Details Session 2020-21 : Line Start from 03 : Note Date should be in MM/DD/YYYY Format ",
+    
+    
+    "jee-nur-pu-1": [
+        {
+            "centdetail": "",                    
+            "Courses":[
+                { "commdate": "04/28/2020", "phase": "I", "ccode": "2001", "mode": "DIRECT", "med": "English"  },			
+                { "commdate": "05/19/2020", "phase": "II", "ccode": "2002", "mode": "DIRECT", "med": "English"  },
+                { "commdate": "06/15/2020", "phase": "III", "ccode": "2003", "mode": "DIRECT", "med": "English"  },
+                { "commdate": "08/03/2020", "phase": "IV", "ccode": "2004", "mode": "DIRECT", "med": "English"  }
+		    ]
+	    }
+	],
+	
+    "jee-enth-pu-2": [
+        {
+            "centdetail": "",                    
+            "Courses":[
+                { "commdate": "04/06/2020", "phase": "I", "ccode": "2001", "mode": "DIRECT", "med": "English"  },			
+                { "commdate": "04/08/2020", "phase": "II", "ccode": "2002", "mode": "DIRECT", "med": "English"  },
+                { "commdate": "05/19/2020", "phase": "III", "ccode": "2003", "mode": "DIRECT", "med": "English"  }
+		    ]
+	    }
+    ],
+
+	"jee-fee": [
+        {
+           "feecname":" NURTURE / PU-I",                   
+           "Courses":[
+           { 
+				"phasefee": "ALL", "totamt": 99000,  "istamt": 64000,   "iiamt": 0, 
+
+				"//": "1st FEE ",
+				"totamt1": 125000,
+				"istamt1": 62500,
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+				"totamt2": 120000,
+				"istamt2": 60000,
+				"iiamt2": 0  
+		   }
+         ]
+       },
+        
+       {
+           "feecname": "ENTHUSIAST / PU-II",                   
+           "Courses":[
+		   { 
+				"phasefee": "ALL", "totamt": 101000,  "istamt": 66000,   "iiamt": 0,  
+
+				"//": "1st FEE ",
+				"totamt1": 140000,
+				"istamt1": 70000,
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+				"totamt2": 136000,
+				"istamt2": 68000,
+				"iiamt2": 0   
+		   }			
+		 ]
+       }
+   ],
+	
+    
+     "med-nur-pcb": [
+        {
+            "centdetail": "",                    
+            "Courses":[
+                { "commdate": "04/06/2020", "phase": "I", "ccode": "1001", "mode": "DIRECT", "med": "English"  }			
+		    ]
+	    },
+	    {
+            "centdetail": "",
+		    "Courses":[                
+                
+                { "commdate": "04/28/2020", "phase": "II", "ccode": "1002", "mode": "DIRECT", "med": "English"},
+                { "commdate": "05/18/2020", "phase": "III", "ccode": "1003", "mode": "DIRECT", "med": "English" },
+                { "commdate": "06/15/2020", "phase": "IV", "ccode": "1004", "mode": "DIRECT", "med": "English" },
+                { "commdate": "07/16/2020", "phase": "V", "ccode": "3005", "mode": "ASAT/DIRECT", "med": "English" },
+                { "commdate": "08/10/2020", "phase": "VI", "ccode": "3007", "mode": "ASAT/DIRECT", "med": "English" }
+        	]
+        }
+    	],
+    
+        "med-nur-pcbm": [
+        {
+            "centdetail": " ",                    
+            "Courses":[
+                { "commdate": "04/06/2020", "phase": "I", "ccode": "3301", "mode": "DIRECT", "med": "English"},			
+                { "commdate": "04/28/2020", "phase": "II", "ccode": "3302", "mode": "DIRECT", "med": "English"},			
+                { "commdate": "05/19/2020", "phase": "III", "ccode": "3303", "mode": "DIRECT", "med": "English"},			
+                { "commdate": "06/15/2020", "phase": "IV", "ccode": "3304", "mode": "DIRECT", "med": "English"},			
+                { "commdate": "07/16/2020", "phase": "V", "ccode": "3305", "mode": "ASAT/DIRECT", "med": "English"},			
+                { "commdate": "08/10/2020", "phase": "VI", "ccode": "3306", "mode": "ASAT/DIRECT", "med": "English"}			
+		    ]
+	    }
+	  
+    ],
+    
+    
+    "med-enth-pcb": [
+        {
+            "centdetail": " ",                    
+            "Courses":[
+                { "commdate": "04/06/2020", "phase": "I", "ccode": "3021", "mode": "DIRECT", "med": "English" },
+                { "commdate": "04/28/2020", "phase": "II", "ccode": "3022", "mode": "DIRECT", "med": "English" },
+                { "commdate": "05/18/2020", "phase": "III", "ccode": "3023", "mode": "DIRECT", "med": "English" }
+		    ]
+	    }
+    ],
+    
+    "med-enth-pcbm": [
+        {
+            "centdetail": " ",                    
+            "Courses":[
+                { "commdate": "06/15/2020", "phase": "I", "ccode": "3031", "mode": "DIRECT", "med": "English " },
+                { "commdate": "07/16/2020", "phase": "II", "ccode": "3032", "mode": "ASAT/DIRECT", "med": "English " },
+                { "commdate": "08/17/2020", "phase": "III", "ccode": "3033", "mode": "ASAT/DIRECT", "med": "English " }
+		    ]
+	    }
+    ],
+    
+     
+
+    "med-lead-pcb": [
+          {
+            "centdetail": " ",                    
+            "Courses":[
+                { "commdate": "05/14/2020", "phase": "I ", "ccode": "3031", "mode": "DIRECT", "med": "English" },
+                { "commdate": "06/08/2020", "phase": "II", "ccode": "3032", "mode": "DIRECT", "med": "English" },
+                { "commdate": "07/15/2020", "phase": "III", "ccode": "3033", "mode": "ASAT/DIRECT", "med": "English" },
+                { "commdate": "07/29/2020", "phase": "IV", "ccode": "3034", "mode": "ASAT/DIRECT", "med": "English" },
+                { "commdate": "08/12/2020", "phase": "V", "ccode": "3035", "mode": "ASAT/DIRECT", "med": "English" }
+		    ]
+	    }
+    ],
+    
+    
+ 	"med-fee": [
+        {
+           "feecname":"NURTURE (PCB) (1st Year Fee)",                   
+           "Courses":[
+           { 
+				"phasefee": "ALL", "totamt": 162000,  "istamt": 107000,   "iiamt": 0, 
+
+				"//": "1st FEE ",
+				"totamt1": 162000,
+				"istamt1": 107000,
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+				"totamt2": 162000,
+				"istamt2": 107000,
+				"iiamt2": 0  
+		   }
+         ]
+       },
+        {
+           "feecname":"NURTURE (PCB + MATHS) (1st Year Fee)",                   
+           "Courses":[
+           { 
+				"phasefee": "ALL", "totamt": 205000,  "istamt": 135000,   "iiamt": 0, 
+
+				"//": "1st FEE ",
+				"totamt1": 205000,
+				"istamt1": 135000,
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+				"totamt2": 205000,
+				"istamt2": 135000,
+				"iiamt2": 0  
+		   }
+         ]
+       },
+        
+       {
+           "feecname": "ENTHUSIAST (PCB)",                   
+           "Courses":[
+		   { 
+				"phasefee": "ALL", "totamt": 167000,  "istamt": 112000,   "iiamt": 0,  
+
+				"//": "1st FEE ",
+				"totamt1": 167000,
+				"istamt1": 112000,
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+				"totamt2": 167000,
+				"istamt2": 112000,
+				"iiamt2": 0   
+		   }			
+		 ]
+       },
+		
+       {
+		   "feecname": "ENTHUSIAST(PCB + MATHS)",                   
+		   "Courses":[
+           { 
+			   "phasefee": "ALL", "totamt": 210000,  "istamt": 140000,   "iiamt": 0 ,
+			   "//": "1st FEE ",
+			   "totamt1": 167000,
+			   "istamt1": 112000,
+			   "iiamt1": 0,
+
+			   "//": "2nd FEE ",
+			   "totamt2": 167000,
+			   "istamt2": 112000,
+			   "iiamt2": 0   
+
+		   }
+         ]
+       },
+	   {
+           "feecname": "LEADER",                   
+           "Courses":[
+           { 
+			   "phasefee": "ALL", "totamt": 167000,  "istamt": 112000,   "iiamt": 0  
+		   }
+         ]
+       }
+   ],
+
+    
+	   "iit-nur-pcm" : [
+		{
+			"centdetail": "",                    
+			"Courses":[
+                { "commdate": "04/06/2020", "phase": "I", "ccode": "1001", "mode": "DIRECT", "med": "English"  }			
+			]
+		},
+		{
+			"centdetail": "",
+			"Courses":[                
+                { "commdate": "04/28/2020", "phase": "II", "ccode": "1002", "mode": "DIRECT", "med": "English"},
+                { "commdate": "05/18/2020", "phase": "III", "ccode": "1003", "mode": "DIRECT", "med": "English" },
+                { "commdate": "06/15/2020", "phase": "IV", "ccode": "1004", "mode": "DIRECT", "med": "English" },
+                { "commdate": "07/16/2020", "phase": "V", "ccode": "3005", "mode": "ASAT/DIRECT", "med": "English" },
+                { "commdate": "08/10/2020", "phase": "VI", "ccode": "3007", "mode": "ASAT/DIRECT", "med": "English" }
+			]
+		}
+    ],
+	
+	
+    "iit-nur-pcm-bio": [
+        {
+            "centdetail": "",                    
+            "Courses":[
+                { "commdate": "04/06/2020", "phase": "I", "ccode": "1301", "mode": "DIRECT", "med": "English"  },			
+                { "commdate": "04/28/2020", "phase": "II", "ccode": "1302", "mode": "DIRECT", "med": "English"  },			
+                { "commdate": "05/19/2020", "phase": "III", "ccode": "1303", "mode": "DIRECT", "med": "English"  },
+                { "commdate": "06/15/2020", "phase": "IV", "ccode": "1304", "mode": "DIRECT", "med": "English"  },
+                { "commdate": "07/16/2020", "phase": "V", "ccode": "1305", "mode": "ASAT/DIRECT", "med": "English"  },
+                { "commdate": "08/10/2020", "phase": "VI", "ccode": "1306", "mode": "ASAT/DIRECT", "med": "English"  }
+		    ]
+	    }
+    ],
+    "iit-enth-pcm": [
+        {
+            "centdetail": "",                    
+            "Courses":[
+                { "commdate": "04/06/2020", "phase": "I", "ccode": "1021", "mode": "DIRECT", "med": "English"  },			
+                { "commdate": "04/28/2020", "phase": "II", "ccode": "1022", "mode": "DIRECT", "med": "English"  },
+                { "commdate": "05/18/2020", "phase": "III", "ccode": "1023", "mode": "DIRECT", "med": "English"  }
+		    ]
+	    }
+    ],
+    "iit-enth-pcm-bio": [
+        {
+            "centdetail": "",                    
+            "Courses":[
+                { "commdate": "04/06/2020", "phase": "I", "ccode": "1321", "mode": "DIRECT", "med": "English"  },			
+                { "commdate": "04/28/2020", "phase": "II", "ccode": "1322", "mode": "DIRECT", "med": "English"  },
+                { "commdate": "05/19/2020", "phase": "III", "ccode": "1323", "mode": "DIRECT", "med": "English"  }
+		    ]
+	    }
+    ],
+
+    "iit-lead-pcm": [
+         {
+            "centdetail": "",                    
+            "Courses":[
+                { "commdate": "06/15/2020", "phase": "I ", "ccode": "1031", "mode": "DIRECT", "med": "English"  },			
+                { "commdate": "07/16/2020", "phase": "II ", "ccode": "1032", "mode": "DIRECT", "med": "English"  },
+                { "commdate": "08/17/2020", "phase": "III ", "ccode": "1033", "mode": "ASAT/DIRECT", "med": "English" }
+		    ]
+	    }
+    ],
+   
+
+    "iit-fee": [
+        {
+           "feecname": " NURTURE (PCM)",                   
+           "Courses":[
+               { 
+				"phasefee": "ALL", "totamt": 162000,  "istamt": 107000,   "iiamt": 0, "//": 
+
+				"1st FEE ",
+				"totamt1": 140000,
+				"istamt1": 70000,
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+
+				"totamt2": 134000,
+				"istamt2": 67000,
+				"iiamt2": 0  
+			   }
+           ]
+       },
+        {
+           "feecname": " NURTURE (PCM + BIO)",                   
+           "Courses":[
+               { 
+				"phasefee": "ALL", "totamt": 205000,  "istamt": 135000,   "iiamt": 0, "//": 
+
+				"1st FEE ",
+				"totamt1": 140000,
+				"istamt1": 70000,
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+
+				"totamt2": 134000,
+				"istamt2": 67000,
+				"iiamt2": 0  
+			   }
+           ]
+       },
+        
+        {
+           "feecname": "ENTHUSIAST (PCM)",                   
+           "Courses":[
+               { "phasefee": "ALL", "totamt": 167000,  "istamt": 112000,   "iiamt": 0,  
+                
+				"//": "1st FEE ",
+				"totamt1": 145000,
+				"istamt1": 72500,
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+				"totamt2": 140000,
+				"istamt2": 70000,
+				"iiamt2": 0   
+			}			
+        ]
+       },
+        {
+           "feecname": "ENTHUSIAST (PCM + BIO)",                   
+           "Courses":[
+               { "phasefee": "ALL", "totamt": 210000,  "istamt": 140000,   "iiamt": 0,  
+                
+			"//": "1st FEE ",
+			"totamt1": 145000,
+			"istamt1": 72500,
+			"iiamt1": 0,
+
+			"//": "2nd FEE ",
+			"totamt2": 140000,
+			"istamt2": 70000,
+			"iiamt2": 0   
+				}			
+            ]
+       },
+        
+         {
+           "feecname": "LEADER (PCM)",                   
+           "Courses":[
+                { "phasefee": "ALL", "totamt": 167000,  "istamt": 112000,   "iiamt": 0  }
+           ]
+       }
+        
+   ],
+   
+     "pncf-pn": [
+        {
+            "class": "ClASS VI",                    
+            "Courses":[
+                { "commdate": "04/02/2020", "phase": "I", "ccode": "4001"   },                
+				{ "commdate": "04/28/2020", "phase": "II", "ccode": "4002"  },                
+				{ "commdate": "05/19/2020", "phase": "III", "ccode": "4003"   },			
+				{ "commdate": "06/15/2020", "phase": "IV", "ccode": "4004"   }			
+		    ]
+	    },
+        {
+            "class": "ClASS VII",                    
+            "Courses":[
+                { "commdate": "04/02/2020", "phase": "I", "ccode": "4006"   },                
+				{ "commdate": "04/28/2020", "phase": "II", "ccode": "4007"  },                
+				{ "commdate": "05/19/2020", "phase": "III", "ccode": "4008"   },			
+				{ "commdate": "06/15/2020", "phase": "IV", "ccode": "4009"   }			
+		    ]
+	    },
+	    {
+            "class": "CLASS VIII",
+		    "Courses":[                
+                { "commdate": "04/02/2020", "phase": "I", "ccode": "4011"   },                
+				{ "commdate": "04/28/2020", "phase": "II", "ccode": "4012"  },                
+				{ "commdate": "05/19/2020", "phase": "III", "ccode": "4013"   },			
+				{ "commdate": "06/15/2020", "phase": "IV", "ccode": "4014"   }			
+        	]
+        }
+    	],
+     "pncf-cf": [
+        {
+            "class": "ClASS IX",                    
+            "Courses":[
+                { "commdate": "04/02/2020", "phase": "I", "ccode": "4016"   },                
+				{ "commdate": "04/28/2020", "phase": "II", "ccode": "4017"  },                
+				{ "commdate": "05/19/2020", "phase": "III", "ccode": "4018"   },			
+				{ "commdate": "06/15/2020", "phase": "IV", "ccode": "4019"   },			
+				{ "commdate": "07/10/2020", "phase": "IV", "ccode": "4054"   }			
+		    ]
+	    },
+	    {
+            "class": "CLASS X",
+		    "Courses":[                
+                { "commdate": "04/02/2020", "phase": "I", "ccode": "4021"   },                
+				{ "commdate": "04/28/2020", "phase": "II", "ccode": "4022"  },                
+				{ "commdate": "05/19/2020", "phase": "III", "ccode": "4023"   },			
+				{ "commdate": "06/15/2020", "phase": "IV", "ccode": "4024"   },			
+				{ "commdate": "07/10/2020", "phase": "IV", "ccode": "4055"   }			
+        	]
+        }
+    	],
+
+	    "pncf-fee": [
+        {
+           "feecname": "CLASS VI",                   
+           "Courses":[
+               { 
+				"phasefee": "ALL", "totamt": 45000,  "istamt": "-",   "iiamt": 0, "//": 
+
+				"1st FEE ",
+				"totamt1": 45000,
+				"istamt1": "-",
+				"iiamt1": 0,
+
+				"//": "2nd FEE ",
+
+				"totamt2": 45000,
+				"istamt2": "-",
+				"iiamt2": 0  
+			   }			
+           ]
+       },
+        
+        {
+           "feecname": "CLASS VII",                   
+           "Courses":[
+               { "phasefee": "ALL", "totamt": 50000,  "istamt": "-",   "iiamt": 0,  
+                
+					"//": "1st FEE ",
+					"totamt1": 50000,
+					"istamt1": "-",
+					"iiamt1": 0,
+
+					"//": "2nd FEE ",
+					"totamt2": 50000,
+					"istamt2": "-",
+					"iiamt2": 0   
+			   }			
+            ]
+       },
+        {
+           "feecname": "CLASS VIII",                   
+           "Courses":[
+               { "phasefee": "ALL", "totamt": 55000,  "istamt": "-",   "iiamt": 0,  
+                
+					"//": "1st FEE ",
+					"totamt1": 55000,
+					"istamt1": "-",
+					"iiamt1": 0,
+
+					"//": "2nd FEE ",
+					"totamt2": 55000,
+					"istamt2": "-",
+					"iiamt2": 0   
+			   }			
+            ]
+       },
+        {
+           "feecname": "CLASS XI",                   
+           "Courses":[
+               { "phasefee": "ALL", "totamt": 64000,  "istamt": "-",   "iiamt": 0,  
+                
+					"//": "1st FEE ",
+					"totamt1": 64000,
+					"istamt1": "-",
+					"iiamt1": 0,
+
+					"//": "2nd FEE ",
+					"totamt2": 64000,
+					"istamt2": "-",
+					"iiamt2": 0   
+			   }			
+            ]
+       },
+        {
+           "feecname": "CLASS X",                   
+           "Courses":[
+               { "phasefee": "ALL", "totamt": 70000,  "istamt": "-",   "iiamt": 0,  
+                
+					"//": "1st FEE ",
+					"totamt1": 70000,
+					"istamt1": "-",
+					"iiamt1": 0,
+
+					"//": "2nd FEE ",
+					"totamt2": 70000,
+					"istamt2": "-",
+					"iiamt2": 0   
+			   }			
+            ]
+       }
+        
+        
+   ],
+
+	
+	
+    "beng-cent": [ 
+		{ "centdetail": 
+                    "JAYANAGAR (H.O) : 6001, JAYANAGAR (2) : 6001, KORAMANGALA : 6002, HSR LAYOUT : 6003, BASAVESHWARA : 6004, BANASWADI : 6005, BANNERGHATTA : 6006, HEBBAL : 6007, MARATHAHALLI : 6008, SARJAPUR : 6009, JALAHALLI : 6020, WHITEFIELD : 6021, INDIRANAGAR : 6022",                    
+                    
+                    "Courses":[	    ]
+    	}
+   	] 
+
+}
+
+
+
+
+
+
+
+

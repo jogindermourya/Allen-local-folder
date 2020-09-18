@@ -1,16 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
 (function ($) {
     "use strict";
 
@@ -96,7 +84,7 @@
      mCustomScrollbar js
    -------------------------------------------------------------------------------*/
     $(window).on("load", function () {
-		$(body).show();
+		// $(body).show();
         if ($('.mega_menu_two .scroll').length) {
             $(".mega_menu_two .scroll").mCustomScrollbar({
                 mouseWheelPixels: 50,
@@ -105,7 +93,8 @@
         }
     });
 
-    /*-------------------------------------------------------------------------------
+	
+	/*-------------------------------------------------------------------------------
 	  WOW js
 	-------------------------------------------------------------------------------*/
     function wowAnimation() {
@@ -118,10 +107,56 @@
 
 
     // Course slider
+//    function courseSlider() {
+//        var courses_slider = $(".courses_carousel");
+//        if (courses_slider.length) {
+//            courses_slider.owlCarousel({
+//                loop: false,
+//                margin: 30,
+//                items: 4,
+//                autoplay: false,
+//                smartSpeed: 500,
+//                responsiveClass: true,
+//                nav: true,
+//                dots: false,
+//                navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right "></i>'],
+//                responsive: {
+//                    0: {
+//                        items: 1,
+//                        stagePadding: 0,
+//
+//                    },
+//
+//                    768: {
+//                        items: 3,
+//                        stagePadding: 0,
+//                        margin: 15
+//
+//                    },
+//                    992: {
+//                        items: 4,
+//                        stagePadding: 0,
+//                    },
+//                    1200: {
+//                        items: 4,
+//                    }
+//                },
+//            })
+//        }
+//    }
+    
     function courseSlider() {
-        var courses_slider = $(".courses_carousel");
-        if (courses_slider.length) {
-            courses_slider.owlCarousel({
+        $(".courses_carousel").html('');
+        $.get("/assets/json/customCourse.json", function (data) {
+            var sliderData = data[center];
+
+            for (var i = 0; i < sliderData.length; i++) {
+                $(".courses_carousel").append(sliderData[i].item)
+            }
+
+            var courses_slider = $(".courses_carousel");
+            if (courses_slider.length) {
+                courses_slider.owlCarousel({
                 loop: false,
                 margin: 30,
                 items: 4,
@@ -152,10 +187,14 @@
                         items: 4,
                     }
                 },
-            })
-        }
+                })
+            }
+        });
+
+
+
     }
-    courseSlider();
+	courseSlider();
 
 
     /*---------------------------------------------------------------------------------- 
@@ -339,44 +378,145 @@
     appScreenshotTopperslider();
 
 
-
     /*---------------------------------------------------------------------------------- 
      event slider----------------------------------------------------------------*/
     function eventSlider() {
-        var event_slider = $(".event_carousel");
-        if (event_slider.length) {
-            event_slider.owlCarousel({
-                loop: false,
-                margin: 5,
-                items: 4,
-                autoplay: false,
-                smartSpeed: 1000,
-                responsiveClass: true,
-                nav: false,
-                dots: true,
-                responsive: {
-                    0: {
-                        items: 1,
-                        stagePadding: 0,
-                    },
-                    578: {
-                        items: 2,
-                        stagePadding: 0,
-                    },
-                    992: {
-                        items: 3,
-                        stagePadding: 0,
-                    },
-                    1200: {
-                        items: 4,
-                    }
-                },
-            })
-        }
+        $(".event_carousel").html('');
+        $.get("/assets/json/customGallery.json", function (data) {
+            var sliderData = data[center];
+
+            for (var i = 0; i < sliderData.length; i++) {
+                $(".event_carousel").append(sliderData[i].item)
+            }
+
+            var event_slider = $(".event_carousel");
+			if (event_slider.length) {
+				event_slider.owlCarousel({
+					loop: false,
+					margin: 5,
+					items: 4,
+					autoplay: false,
+					smartSpeed: 1000,
+					responsiveClass: true,
+					nav: false,
+					dots: true,
+					responsive: {
+						0: {
+							items: 1,
+							stagePadding: 0,
+						},
+						578: {
+							items: 2,
+							stagePadding: 0,
+						},
+						992: {
+							items: 3,
+							stagePadding: 0,
+						},
+						1200: {
+							items: 4,
+						}
+					},
+				})
+			}
+        });
     }
     eventSlider();
 
 
+	//------------------------------Result Slider Home-------------------
+	
+    function resulth_carousel() {
+        $(".resulth_carousel").html('');
+        $.get("/assets/json/customResult.json", function (data) {
+            var sliderData = data[center];
+
+            for (var i = 0; i < sliderData.length; i++) {
+                $(".resulth_carousel").append(sliderData[i].item)
+            }
+
+            var event_slider = $(".resulth_carousel");
+			if (event_slider.length) {
+				event_slider.owlCarousel({
+					loop: false,
+					margin: 5,
+					items: 4,
+					autoplay: false,
+					smartSpeed: 1000,
+					responsiveClass: true,
+					nav: false,
+					dots: true,
+					responsive: {
+						0: {
+							items: 1,
+							stagePadding: 0,
+						},
+						578: {
+							items: 2,
+							stagePadding: 0,
+						},
+						992: {
+							items: 3,
+							stagePadding: 0,
+						},
+						1200: {
+							items: 4,
+						}
+					},
+				})
+			}
+        });
+    }
+    resulth_carousel();
+
+	
+	//------------------------------Testimonial Slider Home-------------------
+	
+	function testimonialh_carousel() {
+	$(".testiminial_slider").html('');
+	$.get("/assets/json/customTestimonial.json", function (data) {
+		var sliderData = data[center];
+
+		for (var i = 0; i < sliderData.length; i++) {
+			$(".testiminial_slider").append(sliderData[i].item)
+		}
+
+		var event_slider = $(".testiminial_slider");
+		if (event_slider.length) {
+			event_slider.owlCarousel({
+				loop: false,
+				margin: 5,
+				items: 4,
+				autoplay: false,
+				smartSpeed: 1000,
+				responsiveClass: true,
+				nav: false,
+				dots: true,
+				responsive: {
+					0: {
+						items: 1,
+						stagePadding: 0,
+					},
+					578: {
+						items: 2,
+						stagePadding: 0,
+					},
+					992: {
+						items: 3,
+						stagePadding: 0,
+					},
+					1200: {
+						items: 4,
+					}
+				},
+			})
+		}
+	});
+}	
+    testimonialh_carousel();
+
+	
+	
     /*-------------------------- ASWS Testimonials silder-------------------------*/
 
     function app_testimonialSlider() {
@@ -559,7 +699,13 @@ $(document).ready(function () {
   Data Table for ASAT
    -----------------------------------------------------------------------------*/
 $(document).ready(function () {
-    $('#datatable-course').DataTable();
+    $('.datatable-course').DataTable(
+    {"bPaginate": false,
+    "aoColumnDefs": [{ "bSortable": false, "aTargets": [ 2, 3, 4, 5, 6, 7, 8 ]}],
+     "info":     false,     
+    }
+    );
+    
     $('#datatable').DataTable();
     $('#datatable-info-centers').DataTable();
 });
@@ -682,13 +828,14 @@ $(document).ready(function () {
          
           // alert(mobile + " : " + type);
             $.ajax({
-                url: '',
+                url: '/common/App_sliderConfirmation.asp',
                 data: { mobile: mobile, type: type },
                 type: 'post',
 
                 success: function (data) {
                     
-                    alert("Successfully");
+					
+                    alert(data);
                 },
 
                 error: function () {
@@ -736,4 +883,73 @@ $(document).ready(function() {
     
   })
   
-})
+});
+
+//------------------------------------------------------------------------
+
+//Get Assistant  
+
+$(document).ready(function() {
+	$('#btngetassistant').click(function (){
+		
+		var name = ($("#name").val()).trim();
+		var classname = ($("#classname").val()).trim();
+		var mobile = ($("#mobile").val()).trim();
+		
+		$('#btngetassistant').prop('disabled', true);
+			if (name=="")
+			{
+				alert("Please enter name");
+                return false;
+			}
+			
+			if(classname == "")
+			{
+				alert("Please select class");
+                return false;
+			}
+			
+			if (mobile == "") {
+                alert("Please fill mobile number");
+                return false;
+            }
+
+            if (isNaN(mobile)) {
+                alert("Please fill only numberic Value");
+                return false;
+            }
+
+            if (mobile.length < 10) {
+                alert("Please fill only 10 digit Value");
+                return false;
+            }
+
+            if (mobile.length > 10) {
+                alert("Please fill only 10 digit Value");
+                return false;
+            }
+			
+			  $.ajax({
+                url: '/common/assistantConfirmation.asp',
+                data: { mobile: mobile, 
+						name: name,
+						classname: classname },
+                type: 'post',
+
+                success: function (data) {                  
+                    alert(data);
+					$('#btngetassistant').prop('disabled', false);
+                },
+
+                error: function () {
+                    alert("There is some problem. Please try again later.");
+					
+                }
+            });
+		
+		
+		
+		
+		});
+	});
+//------------------------------------------------------------------------------

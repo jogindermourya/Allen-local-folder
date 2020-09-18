@@ -16,7 +16,7 @@
                         <span class="circle"></span>
                         <span class="position-relative">Our Video</span>
                     </h2>
-                    <p class="l_height28 mt-4 mb-4 vd-descrip">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
+                    <p class="l_height28 mt-4 mb-4 vd-descrip">Your guide to a host of videos covering the major ALLEN events including Topper’s Talk Show, Motivational sessions and a lot more.</p>
                     <div class="vdwrper-mobile mt-3">
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WOolbNNX97E?rel=0"

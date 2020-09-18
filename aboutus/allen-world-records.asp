@@ -9,7 +9,7 @@
         <div class="breadcrumb_content text-center">
             <h1 class="breadcrumb-hed">ALLEN World Records</h1>
             <ul class="list-unstyled breadcrumb-links m-0">
-                <li><a href="/">Home</a></li>
+                <li><a href="/kota/">Home</a></li>
                 <li>ALLEN World Records</li>
             </ul>
         </div>
@@ -23,7 +23,7 @@
         <div class="row">
             <div class="col-lg-12 mb-lg-5 mb-md-3">
                 <h4 class="mb_20 text-center mb-3">World Records</h4>
-                <p class="mb_20 text-center mb-3">2 World Records made on the 71st Independence Day at Allen Career Institute</p>
+                <p class="mb_20 text-center mb-3">2 World Records made on the 71st Independence Day at ALLEN Career Institute</p>
             </div>
         </div>
 

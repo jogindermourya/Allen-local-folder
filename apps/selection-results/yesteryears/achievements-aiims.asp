@@ -6,7 +6,7 @@
     <div class="breadcrumb_content text-center">
       <h1 class="breadcrumb-hed"> Achievements AIIMS </h1>
       <ul class="list-unstyled breadcrumb-links m-0">
-        <li><a href="/">Home</a></li>
+        <li><a href="/kota/">Home</a></li>
         <li>Achievements AIIMS</li>
       </ul>
     </div>
@@ -21,8 +21,8 @@
 <div class="row">
   <div class="col-lg-3"> 
     <!-- Result Nav--> 
-    <!-- #Include virtual="result/result-left-part.asp" --> 
-    <!--/Result Nav--> 
+    <!-- #Include virtual="/apps/selection-results/yesteryears/result-left-part.asp" --> 
+	  <!--/Result Nav--> 
     
     <!--Download Brochure--> 
     <!-- #Include virtual="common/download_brochure.asp" --> 
@@ -72,7 +72,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="/result/all-view-result.asp" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&y=2019&c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -99,7 +99,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2018&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -126,7 +126,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2017&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -162,7 +162,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2016&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -198,7 +198,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2015&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -233,7 +233,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2014&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -285,7 +285,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2013&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -337,7 +337,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2012&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -373,7 +373,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2011&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -408,7 +408,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2010&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -444,7 +444,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2009&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -470,7 +470,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2008&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -505,7 +505,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&amp;y=2007&amp;c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>
@@ -540,7 +540,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <hr>
-                    <div> <a href="#" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
+                    <div> <a href="/apps/selection-results/yesteryears/default.asp?e=AIIMS&y=2006&c=" class="blue_btn btn_hover d-inline-block ">View All</a> </div>
                   </div>
                 </div>
               </div>

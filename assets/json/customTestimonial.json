@@ -1,0 +1,287 @@
+{
+  "kota": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "pncf_kota": [
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/1.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/2.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    },
+    {
+      "item": "<div class=\"item\"><div class=\"screenshot_img\"><a href=\"#\" target=\"_blank\"><img src=\"/assets/img/homeslide/3.jpg\" class=\"img-fluid\" alt=\"\"></a></div></div>"
+    }
+  ],
+
+  "ahmedabad": [
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ahmedabad/iit-jee-main-advanced-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/1.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE (Main+advanced)</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ahmedabad/jee-main-coaching.asp\"  title=\"\" ><div class=\"icon\"><img src=\"/assets/img/course-ico/2.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">JEE Main / AIEEE</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/ahmedabad/neet-ug-aiims-coaching.asp\"  title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/3.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">NEET-UG</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"/pncf/ahmedabad/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/4.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">PRE-NURTURE AND CAREER FOUNDATION</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://theintellibrain.com/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/5.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">IntelliBrain</h4></a></div>"
+    },
+    {
+      "item": "<div class=\"courses_item\"><a href=\"https://www.allen.ac.in/globalstudies/\" target=\"_blank\" title=\"\"><div class=\"icon\"><img src=\"/assets/img/course-ico/6.png\" class=\"img-fluid\" alt=\"DJFKHDSFH\"></div><h4 class=\"coursename\">ALLEN Global Studies</h4></a></div>"
+    }
+  ],
+  
+  "bengaluru": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "bhilwara": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "bhubaneswar": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "chennai": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "chandigarh": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "guwahati": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "mysuru": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "indore": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "kochi": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "mumbai": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "nagpur": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "pune": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "rajkot": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "sikar": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "surat": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "ujjain": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ],
+  "vadodara": [
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"#\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/kartikey-gupta.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>KARTIKEY GUPTA</h5><span class=\"d-block\">IIT-JEE 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=ewrNtW2df-M\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nalin-khandelwal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NALIN KHANDELWAL</h5><span class=\"d-block\">NEET-UG 2019 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=J-uQEs_HqbA\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/nishita-purohit.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>NISHITA PUROHIT</h5><span class=\"d-block\">AIIMS 2017 (Classroom)</span></div></a></li>"
+    },
+    {
+      "item": "<li class=\"list-unstyled\"><a href=\"https://www.youtube.com/watch?v=yJOPS6eBe1g\" target=\"_blank\"><div class=\"outer\"><div class=\"air\"><b>AIR-1</b></div><div class=\"stud-pic-wrp\"><img src=\"/assets/img/toppers/aman-bansal.png\" class=\"img-fluid\" alt=\"\"><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></div><h5>AMAN BANSAL</h5><span class=\"d-block\">IIT-JEE 2016</span></div></a></li>"
+    }
+  ]
+}

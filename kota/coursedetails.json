@@ -1,0 +1,21 @@
+{
+    "kota-iit-nur": [
+        { "commdate": "04/15/2020", "phase": "I", "ccode": "1001", "mode": "ASAT", "med": "English" },
+        { "commdate": "02/28/2020", "phase": "I [A]", "ccode": "1001", "mode": "ASAT", "med": "English" },
+        { "commdate": "06/27/2020", "phase": "II", "ccode": "1002", "mode": "ASAT", "med": "English" },
+        { "commdate": "06/30/2020", "phase": "II", "ccode": "1002", "mode": "ASAT", "med": "English" }
+
+    ],
+    
+    "kota-iit-enth": [
+        { "commdate": "01/03/2020", "phase": "jaipur-I", "ccode": "1001", "mode": "ASAT", "med": "English" },
+        { "commdate": "01/06/2020", "phase": "jaipur-II", "ccode": "1002", "mode": "ASAT", "med": "English" }
+    ],
+    
+       "kotafee": [
+        { "cname" : "Nurture (1st Year Fee)", "totamt": 75000, "istamt": 30000, "iiamt": 0  },
+        { "commdate": "01/06/2020", "phase": "jaipur-II", "ccode": "1002", "mode": "ASAT", "med": "English" }
+    ]
+    
+    
+}

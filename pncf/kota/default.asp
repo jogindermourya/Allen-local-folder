@@ -1,4 +1,8 @@
-<!--#include virtual="pncf/pncf-include/header.asp"-->
+<!--#include virtual="pncf/kota/include/header.asp"-->
+<script>
+   var center = "pncf_kota";
+</script>
+
 <!-- Slider Section -->
 <section class="slider_area topmr">
    <div class="container">
@@ -7,10 +11,10 @@
             <div class="slider_content padTop wow fadeInLeft">
                <h1 class="h2-hd">
                   <!-- <span class="small-txt d-block">Since 1988</span> -->
-                  Allen’s Pre-Nurture And Career
-                  Foundation.
+                  ALLEN’s Pre-Nurture And Career
+                  Foundation
                </h1>
-               <p class="subdiscrip mt_10">offers courses for various Competitive Exams and Olympiads for the students
+               <p class="subdiscrip mt_10">Offers courses for various Competitive Exams and Olympiads for the students
                   of classes 6th to 10th. It fosters Creativity, Scientific Thinking, Competitive Temperament and
                   Divergent Aptitude in the students by means of our Classroom Contact Programs and Workshops.
                </p>
@@ -24,122 +28,68 @@
          </div>
       </div>
    </div>
-   <img class="middle_shape" src="/assets/img/home2/shape_01.png" alt="">
-   <img class="bottom_shoape" src="/assets/img/home2/shape.png" alt="">
+   <img class="middle_shape" src="../../assets/img/home/shape_01.png" alt="">
+   <img class="bottom_shoape" src="../../assets/img/home/shape.png" alt="">
 </section>
 <!-- End Slider Section -->
 
 
 <!--Latest Updates Section -->
-<!--#include virtual="common/latest_updates.asp"-->
+<!--#include virtual="common/latest_updates_pncf.asp"-->
 <!--End Latest Updates Section -->
 
 
-
-<section class="h_security_area">
-   <div class="container">
-  
-      <div class="row">
-         <div class="col-lg-6">
-            <div class="media h_security_item pr_70 wow fadeInUp">
-               <img src="/pncf/img/pncf-home/excellence-in-academics.png" alt="">
-               <div class="media-body">
-                  <h4>Excellence In Academics</h4>
-                  <p>Excellence in Academics is the demonstrated ability to perform, achieve, and/or excel in scholastic activities.</p>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-6">
-            <div class="media h_security_item pl_70 wow fadeInUp" >
-               <img src="/pncf/img/pncf-home/aptitude.png" alt="">
-               <div class="media-body">
-                  <h4>Aptitude</h4>
-                  <p>Aptitude is the natural ability to learn particular activity quickly and easily. We're all familiar with aptitude.</p>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-6">
-            <div class="media h_security_item pr_70 wow fadeInUp">
-               <img src="/pncf/img/pncf-home/exposure.png" alt="">
-               <div class="media-body">
-                  <h4>Exposure</h4>
-                  <p>Exposure to various aspects of the world around us helps to dream big.</p>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-6">
-            <div class="media h_security_item pl_70 wow fadeInUp">
-               <img src="/pncf/img/pncf-home/skills.png" alt="">
-               <div class="media-body">
-                  <h4>SKILLS</h4>
-                  <p>In every human some skills are natural and some are developed through training.</p>
-               </div>
-            </div>
-         </div>
-
-         <div class="col-lg-6">
-            <div class="media h_security_item pr_70 wow fadeInUp">
-               <img src="/pncf/img/pncf-home/language.png" alt="">
-               <div class="media-body">
-                  <h4>Language Proficiency</h4>
-                  <p>Effective use of language is very important to get yourself noticed and well recognized in the society</p>
-               </div>
-            </div>
-         </div>
-
-
-         <div class="col-lg-6">
-            <div class="media h_security_item pl_70 wow fadeInUp">
-               <img src="/pncf/img/pncf-home/indian-values.png" alt="">
-               <div class="media-body">
-                  <h4>Cultivating Indian Values</h4>
-                  <p>Cultivation of INDIAN values in a child is also an  'Education of its own kind'.</p>
-               </div>
-            </div>
-         </div>
-
-
-      </div>
-   </div>
-</section>
-
-
+<!--#include virtual="pncf/common/courses/courses.asp"-->
 
 <!-- Our Video  Section -->
 <!--#include virtual="common/our_video.asp"-->
 <!-- End Video  Section -->
 
 
-
 <!-- Show App Area Section -->
 <!--#include virtual="common/app_slider.asp"-->
+<!-- End Show App Area Section -->
+
+<!-- Show App Area Section -->
+	<section class="pricing_area sec_pad">
+		<div class="container text-center">
+			<h2 class="f_p f_size_30 l_height50 f_700 mainhd-section mb-3">
+				<span class="circle"></span>
+				<span class="position-relative">Latest Events</span>
+			</h2>
+			<div class="row">
+				<div class="col-lg-12">
+					<!--#include virtual="/pncf/common/achivement/events.asp"-->
+				</div>
+			</div>
+		</div>
+	</section>
 <!-- End Show App Area Section -->
 
 <!-- Subscribe Newsletter Section -->
 <!--#include virtual="common/subscribe_newsletter.asp"-->
 <!-- End Subscribe Newsletter Section -->
 
-<!--#include virtual="pncf/pncf-include/footer.asp"-->
+<!--#include virtual="pncf/kota/include/footer.asp"-->
 
 
 <!-- Slider pass var -->
-<script>
-   var center = "pncf_kota";
-</script>
 <!-- Popup pass var -->
 <!--#include virtual="/popup/pop-up-onload.asp"-->
 
 
 <script type="text/javascript">
+	
 	$(document).ready(function () {
-		var update = kota_pncf_update_notification;
-		updateLists(update, $);
+		var centerUpdate = kota_pncf_updates;
+		centerUpdates(centerUpdate, $);
 
-		var results = kota_pncf_result_notification;
-		resultsLists(results, $);
+		var importantUpdate = kota_pncf_importantNotification;
+		importantNotifications(importantUpdate, $);
 
-		var events = kota_pncf_events_notification;
-		eventsLists(events, $);
+		var resultUpdate = kota_pncf_resultNotification;
+		resultNotifications(resultUpdate, $);
 	});
+	
 </script>
 
